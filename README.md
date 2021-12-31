@@ -11,5 +11,9 @@ Git
 ```
     git clone  https://github.com/AlbusSec/Penetration-List
 ```
+Zip
+```
+   wget -c 
+
 
 
