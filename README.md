@@ -7,3 +7,11 @@ This List was perpetuated by AlbusSecurity
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Install**
+
+Git Clone:- 
+
+git clone https://github.com/AlbusSec/Penetraion-list
+
+
+
