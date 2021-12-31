@@ -9,9 +9,16 @@ This List was perpetuated by AlbusSecurity
 
 **Install**
 
-Git Clone:- 
+## Git  
+```
+   git clone https://github.com/AlbusSec/Penetration-List
+```
 
-git clone https://github.com/AlbusSec/Penetraion-list
+## Zip 
+```
+   wget -c https://github.com/AlbusSec/Penetration-List/archive/refs/heads/gh-pages.zip -0 Penetration-List.zip && unzip Penetration-List.zip
+```
+
 
 
 
