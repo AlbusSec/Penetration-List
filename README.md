@@ -19,8 +19,12 @@ This List was perpetuated by AlbusSecurity
    wget -c https://github.com/AlbusSec/Penetration-List/archive/refs/heads/gh-pages.zip -0 Penetration-List.zip 
 ```
 
+## License & copyright
+@ Albus Security
+Licensed under the [MIT License](LICENSE).
+
 If you want about each vulnerabilites theory Suppliments then visit our Medium profile.
-https://as745591.medium.com/
+          https://as745591.medium.com/
 
 
 
