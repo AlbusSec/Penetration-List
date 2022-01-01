@@ -2,7 +2,7 @@
 
 **About Penetration-list**
 
-Penetration-List is the supplement for Tester. It contains Ever single type of vulnerabilites Material used during Penetraiont Testing. The list includes Pyaloads, dorks, Fuzzing Materials,bypass payloads and many more. And We also provide theory Sections about every vulnerabilites in deep that found in applications on medium. Our goals is that we make list that contains all materials that come in web applcations, Penetration Testing, Android Penetration Testing, etc
+Penetration-List is the supplement for Tester. It contains Ever single type of vulnerabilites Material used during Penetraiont Testing. The list includes Payloads, dorks, Fuzzing Materials,bypass payloads and many more. And We also provide theory Sections about every vulnerabilites in deep that found in applications on medium. Our goals is that we make list that contains all materials that come in web applcations, Penetration Testing, Android Penetration Testing, etc
 
 This List was perpetuated by AlbusSecurity 
 
