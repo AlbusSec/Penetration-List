@@ -17,7 +17,7 @@ This List was perpetuated by AlbusSecurity
 
 ## Zip 
 ```
-   wget -c https://github.com/AlbusSec/Penetration-List/archive/refs/heads/gh-pages.zip -0 Penetration-List.zip 
+   wget -c https://github.com/AlbusSec/Penetration-List/archive/refs/heads/gh-pages.zip 
 ```
 
 ## License & copyright
