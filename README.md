@@ -15,11 +15,6 @@ This List was perpetuated by AlbusSecurity
    git clone https://github.com/AlbusSec/Penetration-List
 ```
 
-## Zip 
-```
-   wget -c https://github.com/AlbusSec/Penetration-List/archive/refs/heads/gh-pages.zip 
-```
-
 ## License & copyright
 @ Albus Security
 Licensed under the [MIT License](LICENSE).
