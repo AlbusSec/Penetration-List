@@ -23,10 +23,17 @@ The Penetration List is a comprehensive resource designed to supplement the work
 
 **Install**
 
-## Git  
+## Git
+
 ```
    git clone https://github.com/AlbusSec/Penetration-List
+   cd Penetration-List
 ```
+
+
+## License & copyright
+
+📜 License: The Penetration-List, created by Albus Security, is governed by the [MIT License](LICENSE). This license grants users the rights to access, use, and modify the materials provided in the Penetration-List for the purpose of enhancing their penetration testing skills and knowledge in the field of cybersecurity. By accessing and utilizing these resources, users agree to comply with the terms and conditions set forth in the chosen license. For further details, please refer to the license documentation included in the repository.
 
 
 ## 💬 Cybersecurity Community & Discussion Hub! 
@@ -37,15 +44,8 @@ Are you looking to join a friendly and welcoming community of individuals who sh
   <a href="https://chat.whatsapp.com/GFWAYGRr37UHKSzcliAoA2"><img src="https://img.shields.io/badge/CyberCrew-0078D4?style=for-the-badge&logo=whatsapp&logoColor=39ff14&labelColor=black&color=black"></a>
   <a href="https://discord.gg/RXtGXW8j"><img src="https://img.shields.io/badge/Discord%20Server-0078D4?style=for-the-badge&logo=Discord&logoColor=39ff14&labelColor=black&color=black"></a>
   </p>
-  
 
-## License & copyright
-
-📜 License: The Penetration-List, created by Albus Security, is governed by the [MIT License](LICENSE). This license grants users the rights to access, use, and modify the materials provided in the Penetration-List for the purpose of enhancing their penetration testing skills and knowledge in the field of cybersecurity. By accessing and utilizing these resources, users agree to comply with the terms and conditions set forth in the chosen license. For further details, please refer to the license documentation included in the repository.
-
-
-If you want about each vulnerabilites theory Suppliments then visit our Medium profile.
-          https://as745591.medium.com/
+**For practical and theoretical knowledge about vulnerabilities, make sure to explore the Penetration-List Theory on Medium, which provides comprehensive insights. [Link mentioned above⬆️]**
 
 
 
