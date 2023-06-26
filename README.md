@@ -21,7 +21,7 @@ The Penetration List is a comprehensive resource designed to supplement the work
 </div>
 
 
-**Install**
+**Installation Steps**
 
 ## Git
 
