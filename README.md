@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Under Construction</title>
-</head>
-<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; overflow: hidden;">
-
-<div style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: #333; color: white; padding: 10px; box-sizing: border-box; white-space: nowrap; animation: slide-in 10s linear infinite;">
-    This repository is under construction. We need your support!
+<div style="position: relative; width: 100%; background-color: #f2f2f2; padding: 20px; text-align: center;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: #333; color: white; padding: 10px; box-sizing: border-box; white-space: nowrap; overflow: hidden;">
+        <marquee behavior="scroll" direction="left" scrollamount="5">This repository is under construction. We need your support!</marquee>
+    </div>
 </div>
-
-<style>
-    @keyframes slide-in {
-        0% {
-            transform: translateX(100%);
-        }
-        100% {
-            transform: translateX(-100%);
-        }
-    }
-</style>
-
-</body>
-</html>
 
 
 <h1 align="center">Penetration-List</h1>
