@@ -1,10 +1,3 @@
-<div style="position: relative; width: 100%; background-color: #f2f2f2; padding: 20px; text-align: center;">
-    <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: #333; color: white; padding: 10px; box-sizing: border-box; white-space: nowrap; overflow: hidden;">
-        <marquee behavior="scroll" direction="left" scrollamount="5">This repository is under construction. We need your support!</marquee>
-    </div>
-</div>
-
-
 <h1 align="center">Penetration-List</h1>
 
 ![Penetration-List ](https://user-images.githubusercontent.com/64241933/147803045-5bd7cee9-9bf3-4807-8f05-a6bc812d85ce.png)
