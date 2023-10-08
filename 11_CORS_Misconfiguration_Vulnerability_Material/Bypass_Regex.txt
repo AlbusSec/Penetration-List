@@ -1,0 +1,16 @@
+https://target.com attacker.com
+https://target.attacker.com
+https://attackertarget.com
+https://target.comattacker.com
+https://targetattacker.com
+https://target-sub.attacker.com
+https://target.com%attacker.com
+https://target.com%60attacker.com
+https://attacker.target.com
+https://attacker%00target.com
+https://tarattackeret.com
+https://attacker{.target.com
+https://attacker.+target.com
+https://attacker.-target.com
+https://target.+attacker.com
+https://target.-attacker.com
