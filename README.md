@@ -41,7 +41,6 @@ The Penetration List is a comprehensive resource designed to supplement the work
 Are you looking to join a friendly and welcoming community of individuals who share a passion for Cyber Security? If you have a strong knowledge of this field, we invite you to be a part of our group! Here, you'll have the opportunity to participate in decision-making, ask questions, and showcase your skills by sharing your security projects with experienced and supportive security engineers. Join us today and let's grow together in the exciting world of Cyber Security.
 
  <p align="center">
-  <a href="https://chat.whatsapp.com/GFWAYGRr37UHKSzcliAoA2"><img src="https://img.shields.io/badge/CyberCrew-0078D4?style=for-the-badge&logo=whatsapp&logoColor=39ff14&labelColor=black&color=black"></a>
   <a href="https://discord.gg/RXtGXW8j"><img src="https://img.shields.io/badge/Discord%20Server-0078D4?style=for-the-badge&logo=Discord&logoColor=39ff14&labelColor=black&color=black"></a>
   </p>
 
