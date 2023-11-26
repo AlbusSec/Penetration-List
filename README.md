@@ -23,13 +23,20 @@ The Penetration List is a comprehensive resource designed to supplement the work
 
 **Installation Steps**
 
+## Zip
+
+```
+  wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
+  && unzip SecList.zip \
+  && rm -f SecList.zip
+```
+
 ## Git
 
 ```
    git clone https://github.com/AlbusSec/Penetration-List
    cd Penetration-List
 ```
-
 
 ## License & copyright
 
