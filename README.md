@@ -14,6 +14,8 @@ Explore%20the%20Cyber%20Security%20Day%2001%20to%20100%20Series%20and%20unlock%2
 
 The Penetration List is a comprehensive resource designed to supplement the work of testers. It contains a comprehensive array of vulnerabilities and materials utilized in Penetration Testing, covering diverse areas such as web applications, network testing, and Android penetration testing. This comprehensive list includes payloads, dorks, fuzzing materials, bypass payloads, and various other components necessary for successful penetration testing. Additionally, we provide in-depth theoretical sections, delving into the intricacies of each vulnerability found in medium-sized applications. Our objective is to create a singular, all-encompassing list that incorporates materials pertinent to web applications, network testing, Android Penetration Testing, and more.
 
+This project is maintained by [Aniket Tyagi](https://www.linkedin.com/in/aniket-tyagi-cyber-world/), and [Prakrati Khatri](https://www.linkedin.com/in/prakrati-khatri/).
+
 [![Linkedin](https://img.shields.io/badge/Albus%20Security-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/77666396)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@as745591)
 [![Website](https://img.shields.io/badge/Albus%20Security-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://albussec.com/)
