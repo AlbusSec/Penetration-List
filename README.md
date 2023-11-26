@@ -26,7 +26,7 @@ The Penetration List is a comprehensive resource designed to supplement the work
 ## Zip
 
 ```
-  wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
+  wget -c https://github.com/AlbusSec/Penetration-List/archive/refs/heads/main.zip -O SecList.zip \
   && unzip SecList.zip \
   && rm -f SecList.zip
 ```
