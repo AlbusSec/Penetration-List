@@ -36,12 +36,13 @@ The Penetration List is a comprehensive resource designed to supplement the work
 📜 License: The Penetration-List, created by Albus Security, is governed by the [MIT License](LICENSE). This license grants users the rights to access, use, and modify the materials provided in the Penetration-List for the purpose of enhancing their penetration testing skills and knowledge in the field of cybersecurity. By accessing and utilizing these resources, users agree to comply with the terms and conditions set forth in the chosen license. For further details, please refer to the license documentation included in the repository.
 
 
-## 💬 Cybersecurity Community & Discussion Hub! 
+## 💬 Join the Security Society Today!
 
 Are you looking to join a friendly and welcoming community of individuals who share a passion for Cyber Security? If you have a strong knowledge of this field, we invite you to be a part of our group! Here, you'll have the opportunity to participate in decision-making, ask questions, and showcase your skills by sharing your security projects with experienced and supportive security engineers. Join us today and let's grow together in the exciting world of Cyber Security.
 
  <p align="center">
   <a href="https://discord.gg/RXtGXW8j"><img src="https://img.shields.io/badge/Discord%20Server-0078D4?style=for-the-badge&logo=Discord&logoColor=39ff14&labelColor=black&color=black"></a>
+    <a href="https://acs.albussec.com"><img src="https://img.shields.io/badge/Society%20Website-0078D4?style=for-the-badge&logo=website&logoColor=39ff14&labelColor=black&color=black"></a>
   </p>
 
 **For practical and theoretical knowledge about vulnerabilities, make sure to explore the Penetration-List Theory on Medium, which provides comprehensive insights. [Link mentioned above⬆️]**
