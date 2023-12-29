@@ -1,6 +1,6 @@
 <h1 align="center">Penetration-List</h1>
 
-![Penetration-List ](https://user-images.githubusercontent.com/64241933/147803045-5bd7cee9-9bf3-4807-8f05-a6bc812d85ce.png)
+![Penetration-List Logo](https://github.com/AlbusSec/Penetration-List/assets/64241933/bbbac345-83a7-45b4-9a66-b6f09c3afb14)
 
 <div align="center">
 <p align="center"><b>Share the Exciting Hacking Material</b></p>
