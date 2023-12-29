@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![Penetration-List-logo](https://github.com/AlbusSec/Penetration-List/assets/64241933/e3a94e0e-5fb3-40b8-8ef7-3bbfd9170da5)
+![Penetration-List-logo](https://github.com/AlbusSec/Penetration-List/assets/64241933/f2d8d1ce-ebbc-46bf-a52f-055254337b7a)
+
 
 <p align="center"><b>Share the Exciting Hacking Material</b></p>
 <p align="center">
