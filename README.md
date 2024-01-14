@@ -4,6 +4,8 @@
   
 ![Penetration-List-logo](https://github.com/AlbusSec/Penetration-List/assets/64241933/f2d8d1ce-ebbc-46bf-a52f-055254337b7a)
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&random=false&width=500&height=80&multiline=true&lines=A+comprehensive+resource+for 🌐;Security+Professionals+And+Bug+Hunters" alt="Typing SVG" /></a>
 
 <p align="center"><b>Share the Exciting Hacking Material</b></p>
 <p align="center">
