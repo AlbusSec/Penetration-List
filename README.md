@@ -10,7 +10,7 @@
 <p align="center"><b>Share the Exciting Hacking Material</b></p>
 <p align="center">
 <a href="https://twitter.com/intent/tweet?text=
-Explore%20the%20Cyber%20Security%20Day%2001%20to%20100%20Series%20and%20unlock%20a%20wealth%20of%20knowledge%20in%20the%20world%20of%20cybersecurity!.&url=https://medium.com/@as745591/announcing-cybersecurity-day-01-to-100-series-a-comprehensive-journey-into-the-world-of-4354b431b110&hashtags=CyberSecurity,Hacking,Reporting%20tool" target="blank" > <img src="https://img.shields.io/twitter/follow/_AlbusSecurity?label=Tweet%20Repo%20on%20Twitter&style=social" alt=""/> </a> 
+Explore%20the%20Penetration-List%20;A%20Comprehensive%20Resource%20Our%20Security%20Professionals" target="blank" > <img src="https://img.shields.io/twitter/follow/_AlbusSecurity?label=Tweet%20Repo%20on%20Twitter&style=social" alt=""/> </a> 
 <a href="https://api.whatsapp.com/send?text=Join%20us%20on%20a%20100-day%20adventure%20through%20the%20multifaceted%20realm%20of%20cybersecurity%20with%20the%20Cyber%20Security%20Day%2001%20to%20100%20Series!.%20https://medium.com/@as745591/announcing-cybersecurity-day-01-to-100-series-a-comprehensive-journey-into-the-world-of-4354b431b110"><img src="https://img.shields.io/twitter/url?label=whatsapp&logo=whatsapp&style=social&url=https://medium.com/@as745591/announcing-cybersecurity-day-01-to-100-series-a-comprehensive-journey-into-the-world-of-4354b431b110" /></a>
 </p>
 
